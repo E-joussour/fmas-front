@@ -1,0 +1,236 @@
+a:11:{s:5:"texte";s:10183:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Appel de solidarité avec la Tunisie - Sit-in le 10 janvier 2011 - [HaCkeD By GaSSpEr]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '139',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub28 art139">
+<div id="page" class="article art139">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '139',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : HaCkeD By GaSSpEr">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique28">Mouvements sociaux</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Appel de solidarité avec la Tunisie - Sit-in le 10 janvier 2011</h1>
+            
+      		<div class="detail">
+				<span class="date">jeudi 13 janvier 2011</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>La révolte en Tunisie s&#8217;élargit sur le plan social, géographique et politique témoignant d&#8217;un fait irréfutable, c&#8217;est qu&#8217;on ne peut pas tenir un peuple sous l&#8217;oppression et la marginalisation indéfiniment. Depuis le 17 décembre 2010, de jeunes chômeurs, des ouvriers, des syndicats des avocats, des étudiants..., manifestent contre la cherté de la vie, la corruption, l&#8217;injustice des politiques sociales et économiques et remettent en cause directement la légitimité du pouvoir qui n&#8217; a pas lésiné sur l&#8217;emploi de la force et de la répression pour faire taire un peuple qui aspire à ses droits.</p></div>
+		<div class="texte"><p><strong>Nous, organisations signataires&nbsp;:</strong></p>
+
+<p><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Affirmons notre entière solidarité avec le mouvement de revendications et de contestation que connait la Tunisie&nbsp;;</p>
+
+<p><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Dénonçons l&#8217;usage de la violence et les recours à la répression et à l&#8217;intimidation par le pouvoir tunisien contre des populations qui manifestent de manière pacifique contre l&#8217;injustice sociale et pour l&#8217;emploi.</p>
+
+<p><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Appelons à la libération immédiate de toutes les personnes arrêtées, ainsi que toutes et tous ceux qui ont été arrêtées et condamnées lors des évènements du bassin minier de Gafsa.</p>
+
+<p><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Réclamons que les responsables de la répression, des violences à l&#8217;encontre de la population qui ont causé la mort et des blessures graves parmi les manifestants soient traduits en justice.</p>
+
+<p><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Dénonçons les agressions qui visent les syndicalistes, les avocats, les média indépendants, les associations et partis solidaires de la révolte tunisienne.</p>
+
+<p>Nous appelons tous les démocrates et les épris de justice à manifester leur solidarité avec le peuple tunisien dans ses luttes pour la justice sociale et la démocratie en</p>
+
+<h3 class="spip">participant au sit-in de solidarité le lundi 10 Janvier à 17h devant l&#8217;Ambassade de Tunisie.</h3>
+<p><strong>SIGNATAIRES&nbsp;:</strong></p>
+
+<p>Action Jeunesse(AJ)</p>
+
+<p>Association Beniznassen pour la Culture, le Développement et la Solidarité</p>
+
+<p>Association Chouala pour l&#8217;Education et la Culture</p>
+
+<p>Association Eau et Energie pour Tous(ASEET)</p>
+
+<p>Association femmes pour l&#8217;égalité et la démocratie</p>
+
+<p>Association Marocaine des Droits Humains(AMDH)</p>
+
+<p>Association pour le Contrat Mondial de l&#8217;Eau/ Maroc (ACME/Maroc)</p>
+
+<p>Association Troisième Millénaire pour le Développement et l&#8217;Action Associatif</p>
+
+<p>Attac/Cadtm Maroc</p>
+
+<p>Espace des Jeunes Animateurs Marrakech</p>
+
+<p>Fédération de la Ligue Démocratique des Droits de la Femme(FLDDF)</p>
+
+<p>Fédération Démocratique Du Travail(FDT)</p>
+
+<p>Forum Beni Zouli pour le Développement et la Communication</p>
+
+<p>Forum des Alternatives Maroc(FMAS)</p>
+
+<p>Forum pour le Droit à l&#8217;eau dans la région Arabe</p>
+
+<p>Groupe Antiraciste de défense et d&#8217;accompagnement des étrangers et migrants(GADEM)</p>
+
+<p>Instance National de Protection des Biens Publics</p>
+
+<p>Instance National de Protection des Biens Publics au Maroc(INPBPM)</p>
+
+<p>Association La vallée verte</p>
+
+<p>Mouvement Alternatives Citoyenne(ALCI)</p>
+
+<p>Observatoire Marocain des Libertés Publiques(OMLP)</p>
+
+<p>Observatoire Marocain des Prisons</p>
+
+<p>Organisation Démocratique Du Travail(ODT)</p>
+
+<p>Organisation pour les libertés d&#8217;information et d&#8217;expression(OLE)</p>
+
+<p>Réseau Amazigh pour la Citoyenneté(Azetta)</p>
+
+<p>Réseau des Associations de Développement des Oasis du Sud Est DU Maroc</p>
+
+<p>Réseau des Associations de Quartier du Grand Casablanca(RESAQ)</p>
+
+<p>Réseau Marocain Euromed des ONG</p>
+
+<p>Union des Initiatives de Développement</p>
+
+<p>Union Général des Travailleurs du Maroc(UGTM)</p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique28">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article84" >&#171;&nbsp;Marche des mouvements sociaux vers un Maghreb des Peuples et pour un monde meilleur&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article83" >LE FORUM SOCIAL MAGHREB EST NE</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article82" >Forum Syndical Marocain - Mohammedia les 21 et 22 juin 2008 -</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article77" >Les Assises du Forum des Alternatives Maroc</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article23" >Forum Social Mondial</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article31" >Réseautage</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article34" >Portail E-Joussour de la société civile Maghreb/Machrek</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				<a href='spip.php?article139#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>0</a>
+	|
+
+ <a href='spip.php?article139&amp;debut_articles_rubrique=15#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>15</a>
+	|
+
+ <span class="on">30</span>
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '28',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '139',
+	'id_rubrique' => '28',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"4/%2Fspip--30-fr--455a1523de3c0780e";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:8:{s:10:"article139";s:0:"";s:23:"debut_articles_rubrique";s:2:"30";s:4:"lang";s:2:"fr";s:10:"id_article";s:3:"139";s:4:"date";s:19:"2014-12-07 22:33:48";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 22:33:48";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1418009628;s:2:"gz";b:0;}

@@ -1,0 +1,283 @@
+a:11:{s:5:"texte";s:15638:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+  <title>[Forum des Alternatives Maroc] : Sur le Web</title>
+  <?php echo recuperer_fond( 'inc/inc-meta', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',6,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+  <?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</head>
+<body dir="ltr" class="fr site">
+<div id="page" class="site">
+
+<!-- *****************************************************************
+  Bandeau, titre du site et menu langue
+  Header and main menu (top and right) 
+    ************************************************************* -->
+  
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',17,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<!-- *****************************************************************
+  Contenu principal (centre)
+  Main content (center) 
+    ************************************************************* -->
+    
+  <div id="bloc-contenu">
+  
+  
+    <!-- si aucun site, afficher derniers articles de tous les sites -->
+    
+    <div class="cartouche">
+      <div class="surtitre">Sur le Web</div>
+      <h1 class="titre-article">Nouveaut&eacute;s sur le Web</h1>
+    <br />
+      <h2>Articles les plus r&eacute;cents</h2>
+    </div><!-- cartouche -->
+ 		<a name='pagination_articles_tous' id='pagination_articles_tous'></a>       
+      
+      <h3><a href="http://www.stages.alternatives.ca/spip.php/local/cache-vignettes/L150xH163/plugins/autres_plugins/Lecteur_multimedia/soundmanager/article337.html" title="Présentation produite pas Émilie Russo. - journalisme et communications" class="spip_out">Journalisme web</a></h3>
+      <div class="detail">
+        vendredi 12 octobre 2007 par  Emilie Russo &mdash; <em><a href="http://www.stages.alternatives.ca/spip.php/local/cache-vignettes/L150xH163/plugins/autres_plugins/Lecteur_multimedia/soundmanager/rubrique111.html" rel="directory">journalisme et communications</a></em>
+      </div><!-- detail -->
+      <div class="texte">
+        <div class="extrait">Présentation produite pas Émilie Russo. - journalisme et communications
+          <div class="detail"><a href="http://www.alternatives.ca" title="http://www.alternatives.ca" class="spip_out">Alternatives</a></div>
+        </div>
+      </div>
+      <br />
+      
+      <h3><a href="http://www.stages.alternatives.ca/spip.php/local/cache-vignettes/L150xH108/plugins/autres_plugins/thickbox2/javascript/www.spip.net/dist/article337.html" title="Présentation produite pas Émilie Russo. - journalisme et communications" class="spip_out">Journalisme web</a></h3>
+      <div class="detail">
+        vendredi 12 octobre 2007 par  Emilie Russo &mdash; <em><a href="http://www.stages.alternatives.ca/spip.php/local/cache-vignettes/L150xH108/plugins/autres_plugins/thickbox2/javascript/www.spip.net/dist/rubrique111.html" rel="directory">journalisme et communications</a></em>
+      </div><!-- detail -->
+      <div class="texte">
+        <div class="extrait">Présentation produite pas Émilie Russo. - journalisme et communications
+          <div class="detail"><a href="http://www.alternatives.ca" title="http://www.alternatives.ca" class="spip_out">Alternatives</a></div>
+        </div>
+      </div>
+      <br />
+      
+      <h3><a href="http://www.stages.alternatives.ca/spip.php/plugins/autres_plugins/Lecteur_multimedia/local/article337.html" title="Présentation produite pas Émilie Russo. - journalisme et communications" class="spip_out">Journalisme web</a></h3>
+      <div class="detail">
+        vendredi 12 octobre 2007 par  Emilie Russo &mdash; <em><a href="http://www.stages.alternatives.ca/spip.php/plugins/autres_plugins/Lecteur_multimedia/local/rubrique111.html" rel="directory">journalisme et communications</a></em>
+      </div><!-- detail -->
+      <div class="texte">
+        <div class="extrait">Présentation produite pas Émilie Russo. - journalisme et communications
+          <div class="detail"><a href="http://www.alternatives.ca" title="http://www.alternatives.ca" class="spip_out">Alternatives</a></div>
+        </div>
+      </div>
+      <br />
+      
+      <h3><a href="http://www.stages.alternatives.ca/spip.php/local/cache-vignettes/L150xH163/plugins/plugins/article337.html" title="Présentation produite pas Émilie Russo. - journalisme et communications" class="spip_out">Journalisme web</a></h3>
+      <div class="detail">
+        vendredi 12 octobre 2007 par  Emilie Russo &mdash; <em><a href="http://www.stages.alternatives.ca/spip.php/local/cache-vignettes/L150xH163/plugins/plugins/rubrique111.html" rel="directory">journalisme et communications</a></em>
+      </div><!-- detail -->
+      <div class="texte">
+        <div class="extrait">Présentation produite pas Émilie Russo. - journalisme et communications
+          <div class="detail"><a href="http://www.alternatives.ca" title="http://www.alternatives.ca" class="spip_out">Alternatives</a></div>
+        </div>
+      </div>
+      <br />
+      
+      <h3><a href="http://www.stages.alternatives.ca/spip.php/local/cache-vignettes/L150xH163/plugins/plugins/IMG/pdf/article337.html" title="Présentation produite pas Émilie Russo. - journalisme et communications" class="spip_out">Journalisme web</a></h3>
+      <div class="detail">
+        vendredi 12 octobre 2007 par  Emilie Russo &mdash; <em><a href="http://www.stages.alternatives.ca/spip.php/local/cache-vignettes/L150xH163/plugins/plugins/IMG/pdf/rubrique111.html" rel="directory">journalisme et communications</a></em>
+      </div><!-- detail -->
+      <div class="texte">
+        <div class="extrait">Présentation produite pas Émilie Russo. - journalisme et communications
+          <div class="detail"><a href="http://www.alternatives.ca" title="http://www.alternatives.ca" class="spip_out">Alternatives</a></div>
+        </div>
+      </div>
+      <br />
+      
+      <h3><a href="http://www.stages.alternatives.ca/spip.php/plugins/autres_plugins/thickbox2/javascript/nicolas.duquesnoy.free.fr/article337.html" title="Présentation produite pas Émilie Russo. - journalisme et communications" class="spip_out">Journalisme web</a></h3>
+      <div class="detail">
+        vendredi 12 octobre 2007 par  Emilie Russo &mdash; <em><a href="http://www.stages.alternatives.ca/spip.php/plugins/autres_plugins/thickbox2/javascript/nicolas.duquesnoy.free.fr/rubrique111.html" rel="directory">journalisme et communications</a></em>
+      </div><!-- detail -->
+      <div class="texte">
+        <div class="extrait">Présentation produite pas Émilie Russo. - journalisme et communications
+          <div class="detail"><a href="http://www.alternatives.ca" title="http://www.alternatives.ca" class="spip_out">Alternatives</a></div>
+        </div>
+      </div>
+      <br />
+      
+      <h3><a href="http://www.stages.alternatives.ca/spip.php/dist/%5Bhttp:/article337.html" title="Présentation produite pas Émilie Russo. - journalisme et communications" class="spip_out">Journalisme web</a></h3>
+      <div class="detail">
+        vendredi 12 octobre 2007 par  Emilie Russo &mdash; <em><a href="http://www.stages.alternatives.ca/spip.php/dist/%5Bhttp:/rubrique111.html" rel="directory">journalisme et communications</a></em>
+      </div><!-- detail -->
+      <div class="texte">
+        <div class="extrait">Présentation produite pas Émilie Russo. - journalisme et communications
+          <div class="detail"><a href="http://www.alternatives.ca" title="http://www.alternatives.ca" class="spip_out">Alternatives</a></div>
+        </div>
+      </div>
+      <br />
+      
+      <h3><a href="http://www.stages.alternatives.ca/spip.php/%5Bhttp:/article337.html" title="Présentation produite pas Émilie Russo. - journalisme et communications" class="spip_out">Journalisme web</a></h3>
+      <div class="detail">
+        vendredi 12 octobre 2007 par  Emilie Russo &mdash; <em><a href="http://www.stages.alternatives.ca/spip.php/%5Bhttp:/rubrique111.html" rel="directory">journalisme et communications</a></em>
+      </div><!-- detail -->
+      <div class="texte">
+        <div class="extrait">Présentation produite pas Émilie Russo. - journalisme et communications
+          <div class="detail"><a href="http://www.alternatives.ca" title="http://www.alternatives.ca" class="spip_out">Alternatives</a></div>
+        </div>
+      </div>
+      <br />
+      
+      <h3><a href="http://www.stages.alternatives.ca/spip.php/local/plugins/autres_plugins/thickbox2/javascript/dist/local/cache-vignettes/L120xH87/article337.html" title="Présentation produite pas Émilie Russo. - journalisme et communications" class="spip_out">Journalisme web</a></h3>
+      <div class="detail">
+        vendredi 12 octobre 2007 par  Emilie Russo &mdash; <em><a href="http://www.stages.alternatives.ca/spip.php/local/plugins/autres_plugins/thickbox2/javascript/dist/local/cache-vignettes/L120xH87/rubrique111.html" rel="directory">journalisme et communications</a></em>
+      </div><!-- detail -->
+      <div class="texte">
+        <div class="extrait">Présentation produite pas Émilie Russo. - journalisme et communications
+          <div class="detail"><a href="http://www.alternatives.ca" title="http://www.alternatives.ca" class="spip_out">Alternatives</a></div>
+        </div>
+      </div>
+      <br />
+      
+      <h3><a href="http://www.stages.alternatives.ca/spip.php/local/cache-vignettes/L150xH163/plugins/plugins/autres_plugins/thickbox2/%3cBOUCLE_contact(AUTEURS)%20%7btout%7d%7b2,1%7d%3e%5b(%23URL_SITE_SPIP)/article337.html" title="Présentation produite pas Émilie Russo. - journalisme et communications" class="spip_out">Journalisme web</a></h3>
+      <div class="detail">
+        vendredi 12 octobre 2007 par  Emilie Russo &mdash; <em><a href="http://www.stages.alternatives.ca/spip.php/local/cache-vignettes/L150xH163/plugins/plugins/autres_plugins/thickbox2/%3cBOUCLE_contact(AUTEURS)%20%7btout%7d%7b2,1%7d%3e%5b(%23URL_SITE_SPIP)/rubrique111.html" rel="directory">journalisme et communications</a></em>
+      </div><!-- detail -->
+      <div class="texte">
+        <div class="extrait">Présentation produite pas Émilie Russo. - journalisme et communications
+          <div class="detail"><a href="http://www.alternatives.ca" title="http://www.alternatives.ca" class="spip_out">Alternatives</a></div>
+        </div>
+      </div>
+      <br />
+    
+      <div class="pagination">
+        <div class="ligne1">
+          <div dir="ltr">10/3185 Articles</div>
+        </div>
+        <div class="ligne2">
+          <a href='spip.php?page=site#pagination_articles_tous' class='lien_pagination' rel='nofollow'>...</a> |
+
+ <a href='spip.php?page=site&amp;debut_articles_tous=1660#pagination_articles_tous' class='lien_pagination' rel='nofollow'>1660</a>
+	|
+
+ <a href='spip.php?page=site&amp;debut_articles_tous=1670#pagination_articles_tous' class='lien_pagination' rel='nofollow'>1670</a>
+	|
+
+ <a href='spip.php?page=site&amp;debut_articles_tous=1680#pagination_articles_tous' class='lien_pagination' rel='nofollow'>1680</a>
+	|
+
+ <a href='spip.php?page=site&amp;debut_articles_tous=1690#pagination_articles_tous' class='lien_pagination' rel='nofollow'>1690</a>
+	|
+
+ <span class="on">1700</span>
+	|
+
+ <a href='spip.php?page=site&amp;debut_articles_tous=1710#pagination_articles_tous' class='lien_pagination' rel='nofollow'>1710</a>
+	|
+
+ <a href='spip.php?page=site&amp;debut_articles_tous=1720#pagination_articles_tous' class='lien_pagination' rel='nofollow'>1720</a>
+	|
+
+ <a href='spip.php?page=site&amp;debut_articles_tous=1730#pagination_articles_tous' class='lien_pagination' rel='nofollow'>1730</a>
+	|
+
+ <a href='spip.php?page=site&amp;debut_articles_tous=1740#pagination_articles_tous' class='lien_pagination' rel='nofollow'>1740</a>
+
+
+|<a href='spip.php?page=site&amp;debut_articles_tous=3180#pagination_articles_tous' class='lien_pagination' rel='nofollow'>...</a>
+        </div>
+      </div>
+    
+  
+  </div><!-- bloc-contenu -->
+  
+<!-- *****************************************************************
+  Menus contextuels (droite)
+  Contextual menus (right) 
+    ************************************************************* -->
+  <div id="encart">
+  <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',96,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+    
+    <!-- Tous les sites syndiques -->
+    <div class="menu">
+  		<a name='pagination_syndic' id='pagination_syndic'></a>
+      <ul>
+        <li><img src="plugins/auto/ahuntsic/styles/img/rss.png" alt="Suivre la vie du site" style="display:block;float:right;padding:.2em .2em;" width="16" height="16" class="format_png" /><b>Sites Web</b>
+           <ul>
+             
+             <li class="menu-item">
+               <a href="spip.php?site18">Alternatives International</a>
+             </li>
+             
+           </ul>
+         </li>
+       </ul>
+       
+    </div><!-- menu -->
+    
+
+    
+    <!-- Les sites references non syndiques -->
+    <div class="menu">
+  		<a name='pagination_sites' id='pagination_sites'></a>
+     <ul>
+        <li><b>Sites r&eacute;f&eacute;renc&eacute;s</b>
+           <ul>
+            
+             <li class="menu-item">
+               <a href="spip.php?site5">Ambassade du Royaume des Pays-Bas à Rabat</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site26">CCFD</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site3">Fondation Friedrich Ebert Rabat - Maroc</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site8">Forum Social Maroc </a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site24">FORUM SOCIAL MONDIAL 2009</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site16">FSMAGH</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site9">Initiatives Pour un Autre Monde - IPAM</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site12">Le PNUD au Maroc</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site4">Oxfam Novib - voor een rechtvaardige wereld zonder armoede</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site25">TANMIA </a>
+             </li>
+             
+           </ul>
+        </li>
+       </ul>
+       
+    </div><!-- menu -->
+    
+
+  </div><!-- encart -->
+<?php echo recuperer_fond( 'inc/inc-menu', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',137,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+<?php echo recuperer_fond( 'inc/inc-bas', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',138,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+
+ ";s:9:"squelette";s:37:"html_fdb51dbd03dd915b11fa671d8601f0cc";s:6:"source";s:31:"plugins/auto/ahuntsic/site.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"c/sit-sit-1700-fr--b63642c2a0697ef1";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"page";s:4:"site";s:19:"debut_articles_tous";s:4:"1700";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2014-12-07 12:26:12";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 12:26:12";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417973172;s:2:"gz";b:0;}

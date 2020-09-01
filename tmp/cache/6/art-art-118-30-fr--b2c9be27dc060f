@@ -1,0 +1,177 @@
+a:11:{s:5:"texte";s:7836:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Forum mondial de l'Education étendu au Liban - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '118',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub28 art118">
+<div id="page" class="article art118">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '118',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique28">Mouvements sociaux</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			<div  class="surtitre">28 &amp; 29 Octobre 2010</div>
+			<h1 class="titre-article">Forum mondial de l&#8217;Education étendu au Liban</h1>
+            
+      		<div class="detail">
+				<span class="date">jeudi 28 octobre 2010</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>En parallèle du Forum Mondial de l&#8217;Education qui aura lieu en Palestine du 28 au 31 Otcobre 2010, la Réseau des ONG arabes pour le développement organise un forum étendu qui aura lieu les 28 &amp; 29 Octobre 2010 à Beyrouth.</p></div>
+		<div class="texte"><p>Madame, Monsieur,</p>
+
+<p>Au nom du Réseau des ONG arabes pour le développement (ANND) et le Forum de coordination des ONG de travail entre la communauté palestinienne au Liban, nous sommes heureux de vous inviter à participer au Forum mondial sur l&#8217;éducation (WEF) qui se tiendra à Beyrouth DU 28 au 29 Octobre 2010, parallèlement avec le forum qui aura lieu en Palestine (du 28 au 31 Octobre 2010) au Liban.</p>
+
+<p>En tant que partie intégrante de la vision du Forum social mondial de la construction d&#8217;un "mouvement des mouvements&nbsp;&#187;, le Forum mondial sur l&#8217;éducation au Liban vise à contribuer activement à la création d&#8217;un ordre mondial juste, par des questions telles que la lutte contre la pauvreté, les inégalités, la mondialisation des marchés, le colonialisme, la crise écologique et la domination des peuples et la nature. Le WEF a pour but de faire la lumière sur les questions sociales et éducatives et les défis auxquels les gens font face tout en luttant pour la paix et la justice sociale.</p>
+
+<p>Le WEF rassemblera des milliers d&#8217;éducateurs locaux, régionaux et internationaux, les enseignants, étudiants, universitaires, journalistes, syndicats d&#8217;enseignants, militants éducatifs et sociaux, et d&#8217;autres personnes actives au niveau local, régional et mondial, se réunissent pour un enrichissement mutuel et de collaboration. Nous nous réjouissons de votre participation active au forum.</p>
+
+<p>S&#8217;il vous plaît, visitez <a href="http://www.annd.org/wef-palestine/" class='spip_out' rel='external'>le site Web</a> et s&#8217;inscrire avant le 17 Octobre 2010. Pour plus d&#8217;informations s&#8217;il vous plaît contacter ANND adresse du siège du secrétariat ci-dessous.</p>
+
+<p>Cordialement,</p>
+
+<p>Ziad Abdul Samad</p>
+
+<p>Directeur exécutif</p>
+
+<p>Réseau des ONG arabes pour le développement</p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique28">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article84" >&#171;&nbsp;Marche des mouvements sociaux vers un Maghreb des Peuples et pour un monde meilleur&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article83" >LE FORUM SOCIAL MAGHREB EST NE</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article82" >Forum Syndical Marocain - Mohammedia les 21 et 22 juin 2008 -</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article77" >Les Assises du Forum des Alternatives Maroc</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article23" >Forum Social Mondial</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article31" >Réseautage</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article34" >Portail E-Joussour de la société civile Maghreb/Machrek</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				<a href='article118.html#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>0</a>
+	|
+
+ <a href='article118.html?debut_articles_rubrique=15#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>15</a>
+	|
+
+ <span class="on">30</span>
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '28',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '118',
+	'id_rubrique' => '28',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"6/art-art-118-30-fr--b2c9be27dc060f";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:8:{s:4:"page";s:7:"article";s:10:"id_article";s:3:"118";s:23:"debut_articles_rubrique";s:2:"30";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2014-12-05 06:35:33";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-05 06:35:33";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417779333;s:2:"gz";b:0;}

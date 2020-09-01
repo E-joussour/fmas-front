@@ -1,0 +1,35 @@
+a:11:{s:5:"texte";s:2030:"	<div class="menu" id="menu-principal">
+		<ul>
+			<li id="menu-principal-accueil"><a href="http://www.forumalternatives.org" title="&#1575;&#1604;&#1589;&#1601;&#1581;&#1577; &#1575;&#1604;&#1571;&#1587;&#1575;&#1587;&#1610;&#1577; : HaCkeD By GaSSpEr" accesskey="0">&#1575;&#1604;&#1589;&#1601;&#1581;&#1577; &#1575;&#1604;&#1571;&#1587;&#1575;&#1587;&#1610;&#1577;</a></li>
+
+			
+			
+
+			<li id="menu-principal-contact"><a href="spip.php?auteur1" title="&#1575;&#1604;&#1575;&#1578;&#1589;&#1575;&#1604;"  accesskey="7">&#1575;&#1604;&#1575;&#1578;&#1589;&#1575;&#1604;</a></li>
+			
+						
+
+			<li id="menu-principal-plan"><a href="http://www.forumalternatives.org/spip.php?page=plan" title="&#1582;&#1585;&#1610;&#1591;&#1577; &#1575;&#1604;&#1605;&#1608;&#1602;&#1593;" accesskey="3">&#1582;&#1585;&#1610;&#1591;&#1577; &#1575;&#1604;&#1605;&#1608;&#1602;&#1593;</a></li>
+
+			<li id="menu-principal-sites"><a href="http://www.forumalternatives.org/spip.php?page=site" title="&#1575;&#1604;&#1580;&#1583;&#1610;&#1583; &#1593;&#1604;&#1609; &#1575;&#1604;&#1606;&#1587;&#1610;&#1580;">&#1605;&#1608;&#1575;&#1602;&#1593; &#1575;&#1604;&#1606;&#1587;&#1610;&#1580;</a></li>
+
+			<li id="menu-principal-resume"><a href="http://www.forumalternatives.org/spip.php?page=resume" title="&#1576;&#1575;&#1582;&#1578;&#1589;&#1575;&#1585;" accesskey="5">&#1576;&#1575;&#1582;&#1578;&#1589;&#1575;&#1585;</a></li>
+			
+	
+			<li id="menu-principal-recherche">
+			<div class="menu" id="menu-recherche">
+				<h3 class="structure">&#1576;&#1581;&#1579;</h3>
+					<ul>
+						<li>
+					<?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/formulaire_.php");
+if ($lang_select = "ar") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_FORMULAIRE__dyn('FORMULAIRE_RECHERCHE', '', ''), array('plugins/auto/ahuntsic/inc/inc-menu-principal.html', 'html_15e01f8a49e9558cec4a5078211255b2', '', 0, 'ar'));
+if ($lang_select) lang_select();
+?>			
+						</li>			
+					</ul>
+			</div><!-- menu-recherche -->
+			</li>
+		</ul>
+	</div>";s:9:"squelette";s:37:"html_15e01f8a49e9558cec4a5078211255b2";s:6:"source";s:49:"plugins/auto/ahuntsic/inc/inc-menu-principal.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"2/inc-men-pri-ar--e34594561c9d0ac2a";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"lang";s:2:"ar";s:4:"date";s:19:"2014-12-08 00:35:52";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-08 00:35:52";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1418016952;s:2:"gz";b:0;}

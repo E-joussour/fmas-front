@@ -1,0 +1,5 @@
+a:11:{s:5:"texte";s:238:"
+<?php echo recuperer_fond( '404', array('id_article' => '276',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',221,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"4/%2Frac%2Farticle276-fr--2fdb48367";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"lang";s:2:"fr";s:10:"id_article";s:3:"276";s:4:"date";s:19:"2014-12-07 05:13:19";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 05:13:19";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417947199;s:2:"gz";b:0;}

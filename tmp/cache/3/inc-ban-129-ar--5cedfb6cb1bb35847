@@ -1,0 +1,7 @@
+a:11:{s:5:"texte";s:340:"<!-- L'entete du site -->
+<div id="entete" class="pas_surlignable">
+	<a href="http://www.forumalternatives.org" title="&#1575;&#1604;&#1589;&#1601;&#1581;&#1577; &#1575;&#1604;&#1571;&#1587;&#1575;&#1587;&#1610;&#1577; : Forum des Alternatives Maroc" class="nom-site"><span>Forum des Alternatives Maroc</span></a>
+
+
+  
+</div><!-- entete -->";s:9:"squelette";s:37:"html_f3a84e44584a15dcd7e7871fea6c0704";s:6:"source";s:42:"plugins/auto/ahuntsic/inc/inc-bandeau.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"3/inc-ban-129-ar--5cedfb6cb1bb35847";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:10:"id_article";s:3:"129";s:4:"lang";s:2:"ar";s:4:"date";s:19:"2014-12-05 13:12:10";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-05 13:12:10";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417803130;s:2:"gz";b:0;}

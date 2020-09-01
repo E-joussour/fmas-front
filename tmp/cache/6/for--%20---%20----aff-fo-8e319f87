@@ -1,0 +1,38 @@
+a:11:{s:5:"texte";s:2144:"<div class='formulaire_spip formulaire_login'>
+	
+	
+	
+
+	
+
+	 
+	<form id='formulaire_login' method='post' action='/spip.php?page=login&amp;url=spip.php%3Frubrique19' enctype='multipart/form-data'>
+	
+	<div><input name="page" value="login" type="hidden" />
+<input name="url" value="spip.php?rubrique19" type="hidden" /><input name='formulaire_action' type='hidden'
+		value='login' /><input name='formulaire_action_args' type='hidden'
+		value='cMsfrqnDGFkC52AA5naMsCRWOGD8YZgz2AyGgZM4/bJAuxHECN//dOVNPLHFYTjpKgfgogfeCcP3B4RYBjzgzqTjTe0iJseUnK168OdZ8bMoIwiWvb+mAQ+PwA8=' /></div><fieldset>
+		<legend>&#1576;&#1610;&#1575;&#1606;&#1575;&#1578; &#1575;&#1604;&#1575;&#1578;&#1589;&#1575;&#1604; &#1575;&#1604;&#1588;&#1582;&#1589;&#1610;&#1577;</legend>
+		<span id="spip_logo_auteur"></span>
+		<ul>
+			<li class="editer_login obligatoire">
+				<label for="var_login">&#1575;&#1604;&#1605;&#1593;&#1585;&#1617;&#1601; (&#1604;&#1604;&#1575;&#1578;&#1589;&#1575;&#1604; &#1576;&#1575;&#1604;&#1605;&#1608;&#1602;&#1593;):</label><input type='text' class='text' name='var_login' id='var_login' value="" size='40' />
+			</li>
+			<li class="editer_password obligatoire">
+				<label for="password">&#1603;&#1604;&#1605;&#1577; &#1575;&#1604;&#1587;&#1585;:</label><input type='password' class='password' name='password' id='password' value="" size='40' />
+				<span class='details'>&#91;<a href="http://www.forumalternatives.org/spip.php?page=spip_pass" id='spip_pass'>&#1607;&#1604; &#1606;&#1587;&#1610;&#1578; &#1603;&#1604;&#1605;&#1577; &#1575;&#1604;&#1587;&#1585;&#1567;</a>&#93;</span>
+			</li>
+			 
+			<li class="editer_session"><div class='choix'>
+				<input type="checkbox" class="checkbox" name="session_remember" id="session_remember" value="oui"  onchange="jQuery(this).addClass('modifie');" />
+				<label class='nofx' for="session_remember">&#1575;&#1576;&#1602;&#1609; &#1605;&#1578;&#1589;&#1604;&#1575;&#1611; &#1576;&#1590;&#1593;&#1577; &#1571;&#1610;&#1575;&#1605;</label>
+			</div></li>
+		</ul>
+	</fieldset>
+	<p class="boutons"><input type="submit" class="submit" value="&#1573;&#1583;&#1582;&#1575;&#1604;" /></p>
+	</form>
+	
+	
+	
+</div>
+";s:9:"squelette";s:37:"html_7550782a6a47af1a0b988013b589800d";s:6:"source";s:28:"prive/formulaires/login.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"6/for--%20---%20----aff-fo-8e319f87";}s:7:"entetes";a:3:{s:13:"Cache-Control";s:35:"no-store, no-cache, must-revalidate";s:6:"Pragma";s:8:"no-cache";s:12:"X-Spip-Cache";i:3600;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:19:{s:9:"var_login";s:0:"";s:8:"editable";s:1:" ";s:3:"cnx";N;s:9:"auth_http";s:0:"";s:15:"rester_connecte";s:1:" ";s:5:"_logo";N;s:12:"_alea_actuel";s:0:"";s:11:"_alea_futur";s:0:"";s:9:"_pipeline";s:24:"affiche_formulaire_login";s:15:"formulaire_args";s:124:"cMsfrqnDGFkC52AA5naMsCRWOGD8YZgz2AyGgZM4/bJAuxHECN//dOVNPLHFYTjpKgfgogfeCcP3B4RYBjzgzqTjTe0iJseUnK168OdZ8bMoIwiWvb+mAQ+PwA8=";s:7:"erreurs";a:0:{}s:6:"action";s:50:"/spip.php?page=login&amp;url=spip.php%3Frubrique19";s:4:"form";s:5:"login";s:2:"id";s:3:"new";s:4:"lang";s:2:"ar";s:4:"date";s:19:"2014-12-03 16:58:12";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-03 16:58:12";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417643892;s:2:"gz";b:0;}

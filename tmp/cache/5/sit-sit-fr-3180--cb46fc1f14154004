@@ -1,0 +1,234 @@
+a:11:{s:5:"texte";s:11833:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+  <title>[Forum des Alternatives Maroc] : Sur le Web</title>
+  <?php echo recuperer_fond( 'inc/inc-meta', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',6,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+  <?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</head>
+<body dir="ltr" class="fr site">
+<div id="page" class="site">
+
+<!-- *****************************************************************
+  Bandeau, titre du site et menu langue
+  Header and main menu (top and right) 
+    ************************************************************* -->
+  
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',17,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<!-- *****************************************************************
+  Contenu principal (centre)
+  Main content (center) 
+    ************************************************************* -->
+    
+  <div id="bloc-contenu">
+  
+  
+    <!-- si aucun site, afficher derniers articles de tous les sites -->
+    
+    <div class="cartouche">
+      <div class="surtitre">Sur le Web</div>
+      <h1 class="titre-article">Nouveaut&eacute;s sur le Web</h1>
+    <br />
+      <h2>Articles les plus r&eacute;cents</h2>
+    </div><!-- cartouche -->
+ 		<a name='pagination_articles_tous' id='pagination_articles_tous'></a>       
+      
+      <h3><a href="http://www.forumalternatives.org/rac/article142.html" title="Preamble : According to the foundation conference`s decision, which took place on july\ 6th –7th \ 2002. and which was held by the democratic militants, who believe in the necessity of respecting the democratic values in all its forms, as the networks choice since its foundation as the most (...)" class="spip_out">statut en anglais</a></h3>
+      <div class="detail">
+        mercredi 26 avril 2006 par  Réseau Amazigh &mdash; <em><a rel="directory" href="http://www.forumalternatives.org/rac/rubrique30.html">Qui sommes-nous ?</a></em>
+      </div><!-- detail -->
+      <div class="texte">
+        <div class="extrait">Preamble : 
+
+According to the foundation conference`s decision, which took place on july\ 6th –7th \ 2002. and which was held by the democratic militants, who believe in the necessity of respecting the democratic values in all its forms, as the networks choice since its foundation as the most&nbsp;(...)
+          <div class="detail"><a href="http://www.reseauamazigh.org" title="http://www.reseauamazigh.org" class="spip_out">http://www.reseauamazigh.org</a></div>
+        </div>
+      </div>
+      <br />
+      
+      <h3><a href="http://www.forumalternatives.org/fsmaroc/spip.php?article128" title="الصحة والعولمة حركة صحة الشعوب جهاد مشعل - ندوات" class="spip_out">الصحة والعولمة حركة صحة الشعوب</a></h3>
+      <div class="detail">
+        jeudi 23 f&eacute;vrier 2006 par  Webmestre &mdash; <em><a href="http://www.forumalternatives.org/fsmaroc/spip.php?rubrique44" rel="directory">ندوات </a></em>
+      </div><!-- detail -->
+      <div class="texte">
+        <div class="extrait">الصحة والعولمة حركة صحة الشعوب جهاد مشعل - ندوات
+          <div class="detail"><a href="http://www.forumalternatives.org/fsmaroc/" title="http://www.forumalternatives.org/fsmaroc/" class="spip_out">Forum Social Maroc</a></div>
+        </div>
+      </div>
+      <br />
+      
+      <h3><a href="http://www.forumalternatives.org/fsmaroc/spip.php?article127" title="Mondialisation et Sécurité Alimentaire Najib Akesbi Institut Agronomique et Vétérinaire Hassan II Rabat, 28 juillet 2004 - Conferences" class="spip_out">Mondialisation et Sécurité Alimentaire</a></h3>
+      <div class="detail">
+        jeudi 23 f&eacute;vrier 2006 par  Webmestre &mdash; <em><a href="http://www.forumalternatives.org/fsmaroc/spip.php?rubrique22" rel="directory">Conferences</a></em>
+      </div><!-- detail -->
+      <div class="texte">
+        <div class="extrait">Mondialisation et Sécurité Alimentaire 
+
+Najib Akesbi Institut Agronomique et Vétérinaire Hassan II 
+
+Rabat, 28 juillet 2004 - Conferences
+          <div class="detail"><a href="http://www.forumalternatives.org/fsmaroc/" title="http://www.forumalternatives.org/fsmaroc/" class="spip_out">Forum Social Maroc</a></div>
+        </div>
+      </div>
+      <br />
+      
+      <h3><a href="http://www.forumalternatives.org/fsmaroc/spip.php?article125" title="جدار الفصل العنصري - ندوات" class="spip_out">الحرب والعسكرة في جنوب المتوسط</a></h3>
+      <div class="detail">
+        jeudi 23 f&eacute;vrier 2006 par  Webmestre &mdash; <em><a href="http://www.forumalternatives.org/fsmaroc/spip.php?rubrique44" rel="directory">ندوات </a></em>
+      </div><!-- detail -->
+      <div class="texte">
+        <div class="extrait">جدار الفصل العنصري - ندوات
+          <div class="detail"><a href="http://www.forumalternatives.org/fsmaroc/" title="http://www.forumalternatives.org/fsmaroc/" class="spip_out">Forum Social Maroc</a></div>
+        </div>
+      </div>
+      <br />
+      
+      <h3><a href="http://www.forumalternatives.org/aj/spip.php?article35" title="Toute jeune âgé entre 18 et 35 ans, défendant les mêmes principes de l'Action Jeunesse peut demander d'y adhérer indépendamment de son sexe, origine, religion, activité et appartenance politique ; à titre bénévole et sur recommandation d'au moins un /une membre du groupe initiateur. - Bienvenue sur le (...)" class="spip_out">Membres</a></h3>
+      <div class="detail">
+        jeudi 16 f&eacute;vrier 2006  &mdash; <em><a href="http://www.forumalternatives.org/aj/spip.php?rubrique77" rel="directory">Bienvenue sur le site d'Action Jeunesse </a></em>
+      </div><!-- detail -->
+      <div class="texte">
+        <div class="extrait">Toute jeune âgé entre 18 et 35 ans, défendant les mêmes principes de l'Action Jeunesse peut demander d'y adhérer indépendamment de son sexe, origine, religion, activité et appartenance politique ; à titre bénévole et sur recommandation d'au moins un /une membre du groupe initiateur. - Bienvenue sur le&nbsp;(...)
+          <div class="detail"><a href="http://www.ajmaroc.org/" title="http://www.ajmaroc.org/" class="spip_out">Action Jeunesse</a></div>
+        </div>
+      </div>
+      <br />
+    
+      <div class="pagination">
+        <div class="ligne1">
+          <div dir="ltr">5/3185 Articles</div>
+        </div>
+        <div class="ligne2">
+          <a href='spip.php?page=site&amp;lang=fr#pagination_articles_tous' class='lien_pagination' rel='nofollow'>...</a> |
+
+ <a href='spip.php?page=site&amp;lang=fr&amp;debut_articles_tous=3090#pagination_articles_tous' class='lien_pagination' rel='nofollow'>3090</a>
+	|
+
+ <a href='spip.php?page=site&amp;lang=fr&amp;debut_articles_tous=3100#pagination_articles_tous' class='lien_pagination' rel='nofollow'>3100</a>
+	|
+
+ <a href='spip.php?page=site&amp;lang=fr&amp;debut_articles_tous=3110#pagination_articles_tous' class='lien_pagination' rel='nofollow'>3110</a>
+	|
+
+ <a href='spip.php?page=site&amp;lang=fr&amp;debut_articles_tous=3120#pagination_articles_tous' class='lien_pagination' rel='nofollow'>3120</a>
+	|
+
+ <a href='spip.php?page=site&amp;lang=fr&amp;debut_articles_tous=3130#pagination_articles_tous' class='lien_pagination' rel='nofollow'>3130</a>
+	|
+
+ <a href='spip.php?page=site&amp;lang=fr&amp;debut_articles_tous=3140#pagination_articles_tous' class='lien_pagination' rel='nofollow'>3140</a>
+	|
+
+ <a href='spip.php?page=site&amp;lang=fr&amp;debut_articles_tous=3150#pagination_articles_tous' class='lien_pagination' rel='nofollow'>3150</a>
+	|
+
+ <a href='spip.php?page=site&amp;lang=fr&amp;debut_articles_tous=3160#pagination_articles_tous' class='lien_pagination' rel='nofollow'>3160</a>
+	|
+
+ <a href='spip.php?page=site&amp;lang=fr&amp;debut_articles_tous=3170#pagination_articles_tous' class='lien_pagination' rel='nofollow'>3170</a>
+	|
+
+ <span class="on">3180</span>
+        </div>
+      </div>
+    
+  
+  </div><!-- bloc-contenu -->
+  
+<!-- *****************************************************************
+  Menus contextuels (droite)
+  Contextual menus (right) 
+    ************************************************************* -->
+  <div id="encart">
+  <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',96,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+    
+    <!-- Tous les sites syndiques -->
+    <div class="menu">
+  		<a name='pagination_syndic' id='pagination_syndic'></a>
+      <ul>
+        <li><img src="plugins/auto/ahuntsic/styles/img/rss.png" alt="Suivre la vie du site" style="display:block;float:right;padding:.2em .2em;" width="16" height="16" class="format_png" /><b>Sites Web</b>
+           <ul>
+             
+             <li class="menu-item">
+               <a href="spip.php?site18">Alternatives International</a>
+             </li>
+             
+           </ul>
+         </li>
+       </ul>
+       
+    </div><!-- menu -->
+    
+
+    
+    <!-- Les sites references non syndiques -->
+    <div class="menu">
+  		<a name='pagination_sites' id='pagination_sites'></a>
+     <ul>
+        <li><b>Sites r&eacute;f&eacute;renc&eacute;s</b>
+           <ul>
+            
+             <li class="menu-item">
+               <a href="spip.php?site5">Ambassade du Royaume des Pays-Bas à Rabat</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site26">CCFD</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site3">Fondation Friedrich Ebert Rabat - Maroc</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site8">Forum Social Maroc </a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site24">FORUM SOCIAL MONDIAL 2009</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site16">FSMAGH</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site9">Initiatives Pour un Autre Monde - IPAM</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site12">Le PNUD au Maroc</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site4">Oxfam Novib - voor een rechtvaardige wereld zonder armoede</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site25">TANMIA </a>
+             </li>
+             
+           </ul>
+        </li>
+       </ul>
+       
+    </div><!-- menu -->
+    
+
+  </div><!-- encart -->
+<?php echo recuperer_fond( 'inc/inc-menu', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',137,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+<?php echo recuperer_fond( 'inc/inc-bas', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',138,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+
+ ";s:9:"squelette";s:37:"html_fdb51dbd03dd915b11fa671d8601f0cc";s:6:"source";s:31:"plugins/auto/ahuntsic/site.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"5/sit-sit-fr-3180--cb46fc1f14154004";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"page";s:4:"site";s:4:"lang";s:2:"fr";s:19:"debut_articles_tous";s:4:"3180";s:4:"date";s:19:"2014-12-06 03:28:55";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-06 03:28:55";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417854536;s:2:"gz";b:0;}

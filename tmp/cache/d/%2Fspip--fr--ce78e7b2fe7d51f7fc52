@@ -1,0 +1,172 @@
+a:11:{s:5:"texte";s:9122:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Plate forme des jeunes pour la participation citoyenne. - [HaCkeD By GaSSpEr]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '30',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub25 art30">
+<div id="page" class="article art30">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '30',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : HaCkeD By GaSSpEr">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique25">Jeunesse</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Plate forme des jeunes pour la participation citoyenne.</h1>
+            
+      		<div class="detail">
+				<span class="date">jeudi 4 janvier 2007</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>Création d’une plate forme des jeunes pour la participation citoyenne.
+Projet initié par Action jeunesse / FMAS, avec l’appui de l’ONG Alternatives (Québec).</p></div>
+		<div class="texte"><p>Les jeunes représentent le tiers de la population marocaine mais leur réalité reste inconnue des décideurs. Suite aux attentats de mai 2003, l’heure est maintenant à la consultation populaire et à l’organisation de tribunes publiques pour donner la parole à ces jeunes, particulièrement ceux des milieux défavorisés. La question est d’autant plus importante que les communales du 12 septembre de 2003 ont connu pour la première fois la participation des jeunes de 18 à 20 ans, qui seront de nouveau appelés à voter aux prochaines élections législatives à l’automne 2007. Il est donc temps de redéfinir de nouveaux termes pour un dialogue et des débats politiques, sociaux et économiques auxquels les jeunes seront des acteurs à part entière.</p>
+
+<p>La Création d’une &#171;&nbsp;plate forme des jeunes pour la participation citoyenne&nbsp;&#187; permettra de donner la parole à ces jeunes afin qu’ils puisse formuler des propositions sur les problématiques auxquelles ils sont confrontés au quotidien. La &#171;&nbsp;plate forme des jeunes pour la participation citoyenne&nbsp;&#187; se veut un espace de consultation, d’échanges, de dialogue, de proposition et de développement d’actions communes au sein du quel seront représentés des jeunes de tous les secteurs de la société civile&nbsp;: jeunesse des associations, associations étudiantes, syndicats, etc.</p>
+
+<ul class="spip"><li>Créer un espace de consultation, d’échanges, de dialogue, de proposition et de développement d’actions communes par et pour les jeunes&nbsp;;</li><li>Favoriser l’adhésion consciente de la jeunesse au processus d’émergence d’une citoyenneté active basée sur le respect des droits et l’exercice des pouvoirs des jeunes citoyens à travers la participation directe et en privilégiant d’autres formes de représentation sociale basées sur le dépassement des schémas traditionnels&nbsp;;</li><li>Favoriser la participation citoyenne des jeunes à la gestion des affaires publiques&nbsp;;</li><li>Créer un espace de dialogue entre les jeunes et les instances publiques, gouvernementales, les structures associatives et académiques ainsi que le secteur privé&nbsp;;</li><li>Créer des synergies entre les jeunes issus de tous les secteurs de la société civile&nbsp;;</li><li>Renforcer les capacités organisationnelles des jeunes acteurs de la société civile par le biais d’outils pédagogiques et d’un programme de formation en techniques de plaidoyers, résolution de conflits, communication et dialogue, planification stratégique, mobilisation sociale etc.</li></ul></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique25">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article162" >Tournée européenne d’échanges et de partage de l’expérience dans le cadre du projet&nbsp;: &#171;&nbsp;Théâtre interculturel, pour le dialogue et la compréhension mutuelle&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article157" >&#171;&nbsp;Trois pièces de théâtre, trois thématiques abordées par des jeunes du Maroc&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article153" >Abdelouahab Ferasaoui. Président du RAJ &#171;&nbsp;La jeunesse a la capacité d’imposer le changement d’une façon pacifique&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article141" >APPEL À CANDIDATURE &#171;&nbsp;Théâtre interculturel, pour le dialogue et la compréhension mutuelle&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article103" >Les jeunes marocains au service du développement démocratique</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article100" >La jeunesse marocaine au service du développement démocratique</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article85" >mobilisation pour l’inflexion des politiques jeunesse au Maroc</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article150" >9 Juillet 2011 à Rabat&nbsp;: Réalisation des trois pièces de théâtre, &#171;&nbsp;Théâtre interculturel, pour le dialogue et la compréhension mutuelle&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article24" >Axe Jeunesse</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article29" >Introduction au FMAS-Action jeunesse</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '25',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '30',
+	'id_rubrique' => '25',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"d/%2Fspip--fr--ce78e7b2fe7d51f7fc52";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:9:"article30";s:0:"";s:4:"lang";s:2:"fr";s:10:"id_article";s:2:"30";s:4:"date";s:19:"2014-12-07 21:30:27";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 21:30:27";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1418005827;s:2:"gz";b:0;}

@@ -1,0 +1,138 @@
+/* -------------------------------------------------------
+ 	1. LIENS base
+ ------------------------------------------------------- */
+
+a, a:link, a:visited
+{
+	text-decoration: none;
+	color: #771321;
+}/*texte central*/
+
+a:hover
+{
+	text-decoration: underline;
+	color: #f3b342;
+}
+
+body {
+	color: #000;
+	font-size: 85%;
+	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans", Tahoma, Arial, 'Helvetica Neue', Helvetica, Geneva, Lucida, sans-serif;
+	margin: 0;
+	text-align: center;
+	/* pour centrer horizontalement la boite #page dans IE/Win */
+	background-color: #FFF;
+}
+#entete {
+	background-image:  url(img/bandeau-fmas.jpg);
+	height: 140px;
+    background-repeat: no-repeat;
+	background-position: left bottom;
+}
+#entete a.nom-site, 
+#entete a.nom-site:link,  
+#entete a.nom-site:visited
+{
+	display: block;
+    background-image: none ;
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+#entete .nom-site span 		/* position du nom du site - position of the site's name  */
+{
+	display: none;
+	position: absolute;
+	bottom: 48px;
+	right: 200px;
+}
+
+#bloc-contenu
+{
+	position: static;
+	border: none;
+	margin: 0px 155px 5px 155px;
+	padding: 10px 10px 5px;
+	background: white;
+	z-index: 20;
+}
+
+#encart { top: 150px; }
+#menu-rubriques.menu 
+{ 
+       position: absolute;
+       top: 150px; 
+       width:150px;
+}
+
+/* COULEURS des menus */
+.menu ul li {	border-top: none; } /* separateur : meme couleur que fond de BODY */
+
+.menu ul li a:hover { text-decoration: none; }
+
+/* text : color */
+.menu ul li a, 
+.menu ul li a:visited,
+.menu ul li b 				{ color: white;}
+
+.menu ul li li a, 
+.menu ul li li a:visited 			{ color: #771321;}
+/*texte a gauche*/
+.menu li span 				{ color: #f3b342;}
+/*texte a droite*/
+
+.menu ul li a:hover,
+.menu ul li li a:hover,
+.menu ul li li a.lienon 	{ color: #fbf6be;}
+/*texte roll over*/
+
+/* background */
+.menu ul li a,
+.menu ul li b 				{ background-color: #2c150d; }
+/*bande rubrique gauche*/
+
+.menu ul li li a, 
+.menu ul li li a:visited,
+.menu li span 				{ background-color: #ffffff; }
+/*fond menu gauche*/
+.menu ul li a:hover,
+.menu ul li li a:hover { background-color: #771321; }
+/*over menu rubrique gauche*/
+.menu ul li li a.lienon 	{ background-color: #2c150d; }
+
+
+.menu ul li li a.article { background-color: #ffffff; }
+.menu ul li li a.article:hover { background-color: #771321; }
+/*over menu article gauche*/
+
+.chapo { margin-top: 0; background-color: #fbf6be;}
+.edito h3
+{
+	background-image: url(img/titre-coin.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #2c150d;
+}
+
+.edito .chapo { margin-top: 0; background-color: #fbf6be;}
+
+.texte h3.spip { margin-top: 0; background-color: #fbf6be;}
+
+.extrait {background-color: #fbf6be;}
+
+#menu-lang,
+#formulaire-lang
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	text-transform: uppercase;
+	text-align: right;
+	font-size: 120%;
+	margin: 0;
+	padding: 0;	
+	z-index:99;
+}
+
+#menu-lang { margin: .5em; color: white; } 
+#menu-lang a { color: white; }
+#menu-lang a:hover { color: #FBA; }

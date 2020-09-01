@@ -1,0 +1,22 @@
+a:11:{s:5:"texte";s:457:"<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+
+<head>
+	<title>HaCkeD By GaSSpEr</title>
+	<dateCreated>Sun, 07 Dec 2014 22:15:58 -0500</dateCreated>
+</head>
+<body>
+
+<outline 
+	text="Alternatives International"
+	description=""
+	title="Alternatives International"
+	type="rss" 
+	version="RSS"
+	htmlUrl="http://alternatives-international.net/?lang=fr"
+	language="fr"
+	xmlUrl="http://alternatives-international.net/backend.php3" 
+/>
+
+</body>
+</opml>";s:9:"squelette";s:37:"html_cefc3b040b2e132b6a371b046f127f6b";s:6:"source";s:31:"plugins/auto/ahuntsic/opml.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"f/opml%2Fspip-opml-fr--541f40f0bb60";}s:7:"entetes";a:2:{s:12:"X-Spip-Cache";s:5:"86400";s:12:"Content-Type";s:23:"text/xml; charset=utf-8";}s:5:"duree";i:86400;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"page";s:4:"opml";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2014-12-07 22:15:58";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 22:15:58";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1418008558;s:2:"gz";b:0;}

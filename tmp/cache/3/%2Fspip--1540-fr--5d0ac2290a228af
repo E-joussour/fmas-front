@@ -1,0 +1,213 @@
+a:11:{s:5:"texte";s:12163:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+  <title>[Forum des Alternatives Maroc] : Sur le Web</title>
+  <?php echo recuperer_fond( 'inc/inc-meta', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',6,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+  <?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</head>
+<body dir="ltr" class="fr site">
+<div id="page" class="site">
+
+<!-- *****************************************************************
+  Bandeau, titre du site et menu langue
+  Header and main menu (top and right) 
+    ************************************************************* -->
+  
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',17,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<!-- *****************************************************************
+  Contenu principal (centre)
+  Main content (center) 
+    ************************************************************* -->
+    
+  <div id="bloc-contenu">
+  
+    <div class="cartouche">
+      <div class="surtitre">Sur le Web</div>
+      
+      <h1 class="titre-article"><a href="http://alternatives-international.net/?lang=fr" class="spip_out">Alternatives International</a></h1>
+      <div class="detail"><a href="http://alternatives-international.net/?lang=fr" class="spip_out">http://alternatives-international.net/?lang=fr</a></div>
+      
+    </div><!-- cartouche -->
+
+    
+    <br />
+      <h2>Articles les plus r&eacute;cents</h2>
+		<a name='pagination_articles' id='pagination_articles'></a>    
+      
+      <h3><a href="http://alternatives-international.net/article490.html" title="La crise politique aiguë au Liban a passé, aujourd'hui, le cap des deux semaines, sans que les solutions préconisées, notamment par le Parti Communiste et d'autres forces politiques libanaises, aient pu arriver à lancer le dialogue sur les voies menant à l'assainissement de la situation et aux (...)" class="spip_out">Washington tente de manipuler la crise libanaise</a></h3>
+      <div class="detail">
+        vendredi 15 d&eacute;cembre 2006 par  Marie Nassif-Debs &mdash; <em><a rel="directory" href="http://alternatives-international.net/rubrique4.html">L'arc des crises</a></em>
+      </div><!-- detail -->
+      <div class="texte"><div class="extrait">La crise politique aiguë au Liban a passé, aujourd'hui, le cap des deux semaines, sans que les solutions préconisées, notamment par le Parti Communiste et d'autres forces politiques libanaises, aient pu arriver à lancer le dialogue sur les voies menant à l'assainissement de la situation et aux&nbsp;(...)</div></div>
+      <br />
+      
+      <h3><a href="http://alternatives-international.net/article489.html" title="L'orphelinat St Claire, situé dans la ville de Kisumu, dans l'ouest du Kenya, accueille des enfants, mais également des femmes qui ont perdu leur mari, pour certaines des suites du VIH/SIDA, et qui refusent d'être ‘héritées' par leur beau-frère comme le veut la (...)" class="spip_out">Les « veuves » du SIDA au Kenya</a></h3>
+      <div class="detail">
+        vendredi 15 d&eacute;cembre 2006 par  IRIN &mdash; <em><a rel="directory" href="http://alternatives-international.net/rubrique9.html">Forum social mondial</a></em>
+      </div><!-- detail -->
+      <div class="texte"><div class="extrait">L'orphelinat St Claire, situé dans la ville de Kisumu, dans l'ouest du Kenya, accueille des enfants, mais également des femmes qui ont perdu leur mari, pour certaines des suites du VIH/SIDA, et qui refusent d'être ‘héritées' par leur beau-frère comme le veut la&nbsp;(...)</div></div>
+      <br />
+      
+      <h3><a href="http://alternatives-international.net/article487.html" title="Les affrontements entre deux bandes rivales ont fait au moins 9 000 déplacés dans le plus grand bidonville de Nairobi, la capitale du Kenya, a annoncé jeudi un représentant de la Croix-Rouge kenyane (KRC). « Beaucoup de gens continuaient de fuir leur domicile, craignant une reprise des (...)" class="spip_out">Guerres de rue dans les bidonvilles de Nairobi</a></h3>
+      <div class="detail">
+        jeudi 14 d&eacute;cembre 2006  &mdash; <em><a rel="directory" href="http://alternatives-international.net/rubrique9.html">Forum social mondial</a></em>
+      </div><!-- detail -->
+      <div class="texte"><div class="extrait">Les affrontements entre deux bandes rivales ont fait au moins 9 000 déplacés dans le plus grand bidonville de Nairobi, la capitale du Kenya, a annoncé jeudi un représentant de la Croix-Rouge kenyane (KRC). 
+
+« Beaucoup de gens continuaient de fuir leur domicile, craignant une reprise des&nbsp;(...)</div></div>
+      <br />
+      
+      <h3><a href="http://alternatives-international.net/article486.html" title="En Bolivie, depuis plusieurs semaines, la Ley de Reconduccion Communautaria de la Reforma Agraria est l'enjeu d'un affrontement très dur entre le gouvernement d'Evo Morales et les partis exprimant les positions et les intérêts des grands propriétaires terriens et, plus généralement, des défenseurs (...)" class="spip_out">Réforme agraire et réappropriation territoriale indigène</a></h3>
+      <div class="detail">
+        mercredi 13 d&eacute;cembre 2006 par  Charles-André Udry &mdash; <em><a rel="directory" href="http://alternatives-international.net/rubrique7.html">Mondialisation et résistances</a></em>
+      </div><!-- detail -->
+      <div class="texte"><div class="extrait">En Bolivie, depuis plusieurs semaines, la Ley de Reconduccion Communautaria de la Reforma Agraria est l'enjeu d'un affrontement très dur entre le gouvernement d'Evo Morales et les partis exprimant les positions et les intérêts des grands propriétaires terriens et, plus généralement, des défenseurs&nbsp;(...)</div></div>
+      <br />
+      
+      <h3><a href="http://alternatives-international.net/article485.html" title="Une mission des Nations unies conduite par le prix Nobel de la paix Desmond Tutu, qui devait enquêter sur la mort de 19 civils palestiniens tués début novembre par l'artillerie israélienne à Beït Hanoun, dans la bande de Gaza, n'a pas été autorisée par Israël à se rendre sur (...)" class="spip_out">Le gouvernement israélien empêche la mission de Desmond Tutu</a></h3>
+      <div class="detail">
+        mardi 12 d&eacute;cembre 2006  &mdash; <em><a rel="directory" href="http://alternatives-international.net/rubrique4.html">L'arc des crises</a></em>
+      </div><!-- detail -->
+      <div class="texte"><div class="extrait">Une mission des Nations unies conduite par le prix Nobel de la paix Desmond Tutu, qui devait enquêter sur la mort de 19 civils palestiniens tués début novembre par l'artillerie israélienne à Beït Hanoun, dans la bande de Gaza, n'a pas été autorisée par Israël à se rendre sur&nbsp;(...)</div></div>
+      <br />
+    
+      <div class="pagination">
+        <div class="ligne1">
+          <div dir="ltr">5/1545 Articles</div>
+        </div>
+        <div class="ligne2">
+          <a href='spip.php?site18&amp;lang=fr#pagination_articles' class='lien_pagination' rel='nofollow'>...</a> |
+
+ <a href='spip.php?site18&amp;debut_articles=1450&amp;lang=fr#pagination_articles' class='lien_pagination' rel='nofollow'>1450</a>
+	|
+
+ <a href='spip.php?site18&amp;debut_articles=1460&amp;lang=fr#pagination_articles' class='lien_pagination' rel='nofollow'>1460</a>
+	|
+
+ <a href='spip.php?site18&amp;debut_articles=1470&amp;lang=fr#pagination_articles' class='lien_pagination' rel='nofollow'>1470</a>
+	|
+
+ <a href='spip.php?site18&amp;debut_articles=1480&amp;lang=fr#pagination_articles' class='lien_pagination' rel='nofollow'>1480</a>
+	|
+
+ <a href='spip.php?site18&amp;debut_articles=1490&amp;lang=fr#pagination_articles' class='lien_pagination' rel='nofollow'>1490</a>
+	|
+
+ <a href='spip.php?site18&amp;debut_articles=1500&amp;lang=fr#pagination_articles' class='lien_pagination' rel='nofollow'>1500</a>
+	|
+
+ <a href='spip.php?site18&amp;debut_articles=1510&amp;lang=fr#pagination_articles' class='lien_pagination' rel='nofollow'>1510</a>
+	|
+
+ <a href='spip.php?site18&amp;debut_articles=1520&amp;lang=fr#pagination_articles' class='lien_pagination' rel='nofollow'>1520</a>
+	|
+
+ <a href='spip.php?site18&amp;debut_articles=1530&amp;lang=fr#pagination_articles' class='lien_pagination' rel='nofollow'>1530</a>
+	|
+
+ <span class="on">1540</span>
+        </div>
+      </div>
+    
+	
+  
+  </div><!-- bloc-contenu -->
+  
+<!-- *****************************************************************
+  Menus contextuels (droite)
+  Contextual menus (right) 
+    ************************************************************* -->
+  <div id="encart">
+  <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',96,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+    
+    <!-- Tous les sites syndiques -->
+    <div class="menu">
+  		<a name='pagination_syndic' id='pagination_syndic'></a>
+      <ul>
+        <li><img src="plugins/auto/ahuntsic/styles/img/rss.png" alt="Suivre la vie du site" style="display:block;float:right;padding:.2em .2em;" width="16" height="16" class="format_png" /><b>Sites Web</b>
+           <ul>
+             
+             <li class="menu-item">
+               <a href="spip.php?site18" class="on">Alternatives International</a>
+             </li>
+             
+           </ul>
+         </li>
+       </ul>
+       
+    </div><!-- menu -->
+    
+
+    
+    <!-- Les sites references non syndiques -->
+    <div class="menu">
+  		<a name='pagination_sites' id='pagination_sites'></a>
+     <ul>
+        <li><b>Sites r&eacute;f&eacute;renc&eacute;s</b>
+           <ul>
+            
+             <li class="menu-item">
+               <a href="spip.php?site5">Ambassade du Royaume des Pays-Bas à Rabat</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site26">CCFD</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site3">Fondation Friedrich Ebert Rabat - Maroc</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site8">Forum Social Maroc </a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site24">FORUM SOCIAL MONDIAL 2009</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site16">FSMAGH</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site9">Initiatives Pour un Autre Monde - IPAM</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site12">Le PNUD au Maroc</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site4">Oxfam Novib - voor een rechtvaardige wereld zonder armoede</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site25">TANMIA </a>
+             </li>
+             
+           </ul>
+        </li>
+       </ul>
+       
+    </div><!-- menu -->
+    
+
+  </div><!-- encart -->
+<?php echo recuperer_fond( 'inc/inc-menu', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',137,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+<?php echo recuperer_fond( 'inc/inc-bas', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',138,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+
+ ";s:9:"squelette";s:37:"html_fdb51dbd03dd915b11fa671d8601f0cc";s:6:"source";s:31:"plugins/auto/ahuntsic/site.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"3/%2Fspip--1540-fr--5d0ac2290a228af";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:8:{s:6:"site18";s:0:"";s:14:"debut_articles";s:4:"1540";s:4:"lang";s:2:"fr";s:9:"id_syndic";s:2:"18";s:4:"date";s:19:"2014-12-06 13:14:47";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-06 13:14:47";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417889687;s:2:"gz";b:0;}

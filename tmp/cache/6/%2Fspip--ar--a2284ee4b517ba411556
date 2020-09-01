@@ -1,0 +1,209 @@
+a:11:{s:5:"texte";s:11237:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>La jeunesse marocaine au service du développement démocratique - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '100',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub25 art100">
+<div id="page" class="article art100">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '100',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique25">Jeunesse</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			<div  class="surtitre">Université d&#8217;été d&#8217;Action Jeunesse</div>
+			<h1 class="titre-article">La jeunesse marocaine au service du développement démocratique</h1>
+            
+      		<div class="detail">
+				<span class="date">mercredi 15 septembre 2010</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>Action Jeunesse, le groupe jeunes du Forum des Alternatives Maroc, organise une  Université d&#8217;été sous le thème "Jeunesse alternative au service du développement démocratique" les 11 et 12 juillet 2010, à Harhoura.</p></div>
+		<div class="texte"><p><strong>Pourquoi l&#8217;Université d&#8217;été d&#8217;Action jeunesse&nbsp;?</strong></p>
+
+<p>Depuis sa création l&#8217;Action Jeunesse vise à favoriser l&#8217;insertion de la jeunesse dans les espaces de mobilisation et d&#8217;action citoyenne et à promouvoir le rayonnement des initiatives et des projets conçus pour et par les jeunes. Pour ce faire, Action jeunesse tend à créer des espaces de rencontres, d&#8217;échanges et de débats pour les jeunes.</p>
+
+<p>Suite à l&#8217;organisation d&#8217;une série de forums régionaux en 2005, une plate forme pour une participation citoyenne des jeunes a été mise en place. Cette plate forme s&#8217;est articulée autour de trois axes principaux&nbsp;: le renforcement des capacités des jeunes, la mobilisation et le plaidoyer.</p>
+
+<p>Dans le cadre de ses activités, l&#8217;Action Jeunesse a lancé une campagne de plaidoyer &#171;&nbsp;Pour des politiques publiques en faveur des jeunes, vers la généralisation des budgets publics sensibles au Genre&nbsp;&#187;. Afin de mener à bien cette campagne, et après un diagnostic participatif des besoins en formation, un plan d&#8217;action axé sur des sessions de formation et de renforcement pour les jeunes a été tracé. C&#8217;est dans cette logique que la deuxième Université saisonnière s&#8217;organise aujourd&#8217;hui à Harhoura.</p>
+
+<p><span class='spip_document_69 spip_documents spip_documents_center'>
+<img src='IMG/jpg_Saffiche3.jpg' width='317' height='448' alt="" style='height:448px;width:317px;' /></span></p>
+
+<p><strong>En quoi consiste t-elle&nbsp;?</strong></p>
+
+<p>Les Universités saisonnières sont des forums de débat ouvert à 100 jeunes d&#8217;action Jeunesse et 20 à 30 jeunes militants issus d&#8217;autres dynamiques proches et travaillant sur le terrain. C&#8217;est un espace de formation et de débat ouvert où seront discutées des thématiques touchant aux axes stratégiques du FMAS et de l&#8217;AJ. L&#8217;université d&#8217;été est l&#8217;occasion de partager les points de vues et les expertises des uns et des autres ainsi que d&#8217;évaluer les carences en formation des membres d&#8217;AJ.</p>
+
+<p>C&#8217;est ainsi que vient l&#8217;organisation d&#8217;Université d&#8217;été du FMAS/AJ. Cette Université à pour thématique &#8217;&#8217;la jeunesse au service du développement démocratique&#8217;&#8217;.</p>
+
+<p>L&#8217;Université d&#8217;été rentre dans le processus de renforcement de capacités des jeunes qu&#8217;Action jeunesse a impulsé depuis 2006.  Objectifs spécifiques&nbsp;:</p>
+
+<p>➢ Renforcer les capacités cognitives des jeunes d&#8217;Action jeunesse&nbsp;;</p>
+
+<p>➢ Susciter l&#8217;ouverture des jeunes sur les différentes orientations du FMAS/AJ&nbsp;;</p>
+
+<p>➢ Ouvrir un débat sur les spécificités du FMAS/AJ au sein de la société civile marocain&nbsp;; </p>
+
+<p>➢ Impulser une dynamique d&#8217;échange, de débat et de partage des expériences entre différentes dynamiques de la société civile&nbsp;;</p>
+
+<p>Durant la première journée de l&#8217;université, il y aura des séminaires de formation sur les thématiques suivantes&nbsp;: régionalisation, droits économiques, sociaux et culturels (DESC), mouvements sociaux, budgets participatifs et les jeunes et politiques publiques. Quant à la deuxième journée, elle sera consacré aux ateliers de travail entre jeunes participants.</p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		<div class="chapo" id="documents" style="line-height:1;"> 
+	<h2>&#1575;&#1604;&#1605;&#1587;&#1578;&#1606;&#1583;&#1575;&#1578; &#1575;&#1604;&#1605;&#1585;&#1601;&#1602;&#1577;</h2>
+		
+				<h3 class="" style="margin-bottom: .6em;"><a href="IMG/doc_Programme_Universite_ete_AJ.doc">Programme Université d&#8217;été AJ</a></h3>
+				<div style="float:left;padding-right: .5em;  width:36%;">
+					<div style="float:left; margin-right: .5em;"><a href='IMG/doc_Programme_Universite_ete_AJ.doc' type='application/msword' title='Word - 120 &#1603;&#1610;&#1604;&#1608;&#1576;&#1575;&#1610;&#1578; - Programme Universit&#233; d&#39;&#233;t&#233; AJ'><img src='local/cache-vignettes/L52xH52/doc-cfac9.png' width='52' height='52' alt='' class='spip_logos' style='height:52px;width:52px;' /></a></div>
+					<small>
+						15 &#1571;&#1610;&#1604;&#1608;&#1604; (&#1587;&#1576;&#1578;&#1605;&#1576;&#1585;) 2010<br />
+						&#1575;&#1604;&#1605;&#1587;&#1578;&#1606;&#1583; : Word<br />
+						120 &#1603;&#1610;&#1604;&#1608;&#1576;&#1575;&#1610;&#1578;
+					</small>
+				</div>
+				
+		
+		<br class="nettoyeur" />
+	</div><!-- chapo -->
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique25">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article162" >Tournée européenne d’échanges et de partage de l’expérience dans le cadre du projet&nbsp;: &#171;&nbsp;Théâtre interculturel, pour le dialogue et la compréhension mutuelle&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article157" >&#171;&nbsp;Trois pièces de théâtre, trois thématiques abordées par des jeunes du Maroc&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article153" >Abdelouahab Ferasaoui. Président du RAJ &#171;&nbsp;La jeunesse a la capacité d’imposer le changement d’une façon pacifique&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article141" >APPEL À CANDIDATURE &#171;&nbsp;Théâtre interculturel, pour le dialogue et la compréhension mutuelle&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article103" >Les jeunes marocains au service du développement démocratique</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article85" >mobilisation pour l’inflexion des politiques jeunesse au Maroc</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article150" >9 Juillet 2011 à Rabat&nbsp;: Réalisation des trois pièces de théâtre, &#171;&nbsp;Théâtre interculturel, pour le dialogue et la compréhension mutuelle&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article24" >Axe Jeunesse</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article29" >Introduction au FMAS-Action jeunesse</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article30" >Plate forme des jeunes pour la participation citoyenne.</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '25',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '100',
+	'id_rubrique' => '25',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"6/%2Fspip--ar--a2284ee4b517ba411556";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:10:"article100";s:0:"";s:4:"lang";s:2:"ar";s:10:"id_article";s:3:"100";s:4:"date";s:19:"2014-12-03 16:58:04";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-03 16:58:04";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417643885;s:2:"gz";b:0;}

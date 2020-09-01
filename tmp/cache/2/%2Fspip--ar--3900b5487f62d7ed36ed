@@ -1,0 +1,146 @@
+a:11:{s:5:"texte";s:9933:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Lancement IFAD - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '28',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub24 art28">
+<div id="page" class="article art28">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '28',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique24">Formation - Axe transversal</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Lancement IFAD</h1>
+            
+      		<div class="detail">
+				<span class="date">jeudi 4 janvier 2007</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>IFAD&nbsp;: INSTITUT DE FORMATION DES AGENTS DE DÉVELOPPEMENT</p></div>
+		<div class="texte"><p><strong> <i>Agir pour l’émergence d’une offre de formation nouvelle</i> </strong></p>
+
+<p>Le champ du développement social au Maroc a connu ces dernières années une évolution importante de par le nombre d’intervenants, de projets mis en œuvre, d’approches, de méthodes et de programmes. Néanmoins, ce processus n’a pas été véritablement accompagné du renforcement des capacités nécessaires à la réussite des projets de développement.</p>
+
+<p>En outre, l’absence au Maroc d’un réseau de professionnels du développement social et de la solidarité capable d’intervenir sur le terrain se fait aujourd’hui de plus en plus pressante, en raison de la dynamique quasi universelle à laquelle le Maroc, à l’instar d’autres pays, n’échappe évidemment pas.</p>
+
+<p>Les besoins de développement territorial, l’apparition de nouveaux métiers de la ville, la définition de nouvelles compétences dans le champ de l’accompagnement social et de l’accroissement des prérogatives des acteurs locaux d’un côté, l’affirmation sans précédent, des associations en tant qu’acteur incontournable dans la réponse au défi du développement de l’autre, rend l’organisation du secteur de la formation indispensable.</p>
+
+<p>Ainsi donc et d’une part, ceux qui interviennent aujourd’hui sur ce terrain ont rarement toutes les compétences qui leur permettraient d’entrer de plein pied dans l’action concrète. Les formations initiales, dispensées généralement dans le cadre de cursus universitaires, sont rarement adaptées aux exigences du moment. D’autre part, les formations courtes ou sur le tas, qui sont aujourd’hui organisées pour faire face, dans l’urgence, à cette situation ne peuvent tenir lieu de politique d’émergence de nouvelles compétences, qui nous parait pourtant indispensable.</p>
+
+<p>Enfin, les formations pour les besoins d’accompagnement d’un projet au sein d’une administration ou d’un réseau associatif se mettent en place sans que la pérennité de cet enseignement et sa multiplication fassent l’objet d’une quelconque réflexion.
+Tout ceci nous amène à penser que la mise en place de l’Institut de Formation des Agents de Développement (IFAD) insuffler l’impulsion d’une dynamique visant non seulement l’émergence de nouvelles compétences en la matière, mais aussi à l’organisation du secteur et à la mise en place d’une politique d’ensemble basée sur la convergence, la contractualisation et la définition d’objectifs partagés.</p>
+
+<p>Partant de ce constat et au regard à l’analyse de la situation au niveau de l’offre de formation et des enjeux liés à l’émergence de nouveaux acteurs et de nouveaux métiers, il est clair que le positionnement de l’IFAD devrait lui permettre de développer des actions de formation novatrices et porteuses de sens et de valeurs. Les porteurs du projet visent essentiellement à faire en sorte que l’IFAD puisse développer une formation qualifiante auprès d’hommes et de femmes qui, de part leurs activités professionnelles et/ou associatives, agissent dans des projets de développement.</p>
+
+<p><strong>BUT&nbsp;:</strong></p>
+
+<p>Contribuer au développement participatif démocratique et solidaire à travers le renforcement des capacités des différents acteurs.</p>
+
+<p><strong>OBJECTIFS&nbsp;:</strong></p>
+
+<ul class="spip"><li>Favoriser l’émergence d’un pôle de formation au niveau national en matière de développement par la constitution d’un noyau de compétences de services à différents intervenants ou acteurs&nbsp;; </li><li>contribuer à former les travailleurs sociaux et les acteurs de développement aux niveaux associatif et institutionnel&nbsp;;</li><li>contribuer à alimenter la réflexion sur les questions de développement social et de bonne gouvernance et, à cet effet, participer à la production des savoirs relatifs à ces questions&nbsp;; </li><li>favoriser une plus grande accessibilité aux travaux, thèses et recherches à travers la mise à disposition d’un centre de documentation&nbsp;; </li><li>développer un pôle d’échange et de construction d’alternatives pour faire face aux grands défis sociaux dans la région du Maghreb.</li></ul>
+<p><strong>GROUPES CIBLES</strong></p>
+
+<p>Les services de l’IFAD visent à renforcer les capacités et à développer les compétences des organisations qui interviennent dans les secteurs du développement et de la gouvernance. Il peut s’agir d’institutions publiques, d’entreprises privées, d’associations, de coopératives, etc. Dans le secteur institutionnel, les groupes ciblés sont&nbsp;: les cadres et les gestionnaires (au niveau central, provincial et local) du Ministère du développement social de la famille et de la solidarité, du Ministère de la formation professionnelle, du Ministère de l’Intérieur, de l’Entraide nationale, de la Jeunesse et des sports, des Collectivité locales, etc.</p>
+
+<p><strong>PORTEURS DU PROJET ET PARTENAIRES</strong></p>
+
+<p>Le projet &#171;&nbsp;IFAD&nbsp;&#187; est actuellement porté par les associations&nbsp;: AMSED, FMAS et Carrefour Associatif. Ces associations, convaincues de l’intérêt du partenariat institutions/associations/université/autres, pour l’amélioration de la qualité des actions de développement, ont durant tout le processus de réflexion sur le montage de l’IFAD associé les différents acteurs concernés.</p>
+
+<p>Les porteurs de projets ont choisi, pour formaliser l’existence de l’IFAD, le mode du partenariat articulé en plate forme associative.
+Le partenariat, tel que l’IFAD l’envisage, sera basé sur des personnes ressources évoluant dans/autour des réseaux constitutifs de l’IFAD, des universitaires, d’acteurs de terrain ou de responsables associatifs ou institutionnels.</p>
+
+<p>La phase de montage de l’IFAD est maintenant effective, grâce au soutien du Ministère du développement social de la famille et de la solidarité.</p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '24',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '28',
+	'id_rubrique' => '24',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"2/%2Fspip--ar--3900b5487f62d7ed36ed";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:9:"article28";s:0:"";s:4:"lang";s:2:"ar";s:10:"id_article";s:2:"28";s:4:"date";s:19:"2014-12-03 16:19:15";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-03 16:19:15";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417641557;s:2:"gz";b:0;}

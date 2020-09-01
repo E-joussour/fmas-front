@@ -1,0 +1,202 @@
+a:11:{s:5:"texte";s:8801:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Les Assises du Forum des Alternatives Maroc - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '77',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub28 art77">
+<div id="page" class="article art77">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '77',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique28">Mouvements sociaux</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Les Assises du Forum des Alternatives Maroc</h1>
+            
+      		<div class="detail">
+				<span class="date">jeudi 29 novembre 2007</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>En marge de son Assemblée Générale, Le Forum des Alternatives Maroc (FMAS), a organisé ses  Assises avec la participation de militant(e)s issu(e)s de mouvements sociaux du Brésil de l’Inde, du Québec, de la Mauritanie, du Liban, de l’Egypte de Palestine, de Jordanie, de Libye, de France, de Belgique, des Pays Bas, du Congo RDC, de l’Afrique du Sud, de l’Irak, du Soudan, du Yémen, du Niger, d’Algérie, de Tunisie et du Maroc, le 14-15-16 et 17 Novembre 2007 au Club Yasmine à El Harhoura.</p>
+
+<p>Par ces Assises, le FMAS, vise tout à la fois la réflexion collective sur les défis de la guerre globale, sur l’écologie, sur l’offensive néo-libérale, sur l’avenir des forums sociaux et du mouvement mondial alter-mondialiste et la construction de solidarités et de regroupements des mouvements sociaux pour un monde meilleur.</p>
+
+<p>Les débats, organisés en ateliers thématiques et plénières ont porté sur différents thèmes.</p>
+
+<p>Lire la suite dans le document joint>>>></p></div>
+		<div class="texte"><dl class='spip_document_46 spip_documents spip_documents_left' style='float:left;width:120px;'>
+<dt><a href="IMG/pdf_doc_PF_Assises_-FR-_VF.pdf" title='PDF - 90.2 ko' type="application/pdf"><img src='local/cache-vignettes/L52xH52/pdf-eb697.png' width='52' height='52' alt='PDF - 90.2 ko' style='height:52px;width:52px;' /></a></dt>
+<dt class='spip_doc_titre' style='width:120px;'><strong>plate forme des assises du FMAS</strong></dt>
+</dl></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique28">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article116" >"Une marche engagée et solidaire vers l&#8217;égalité, l&#8217;équité et la dignité"</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article114" >Réunion du Conseil Élargi du Forum Social Maroc et du Comité de suivi du FSMaghreb</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article113" >Forum sur la Santé, l’Environnement et la Terre - Du 23 au 25 Octobre 2010 au Caire</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article112" >Que cesse la complaisance à l’égard des crimes d’Israël</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article108" >Forum Social Mondial sur les alternatives à la crise financière - Mexico</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article107" >Forum sur les Mouvements Sociaux et les Forums Sociaux - Bouznika </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article106" >Forum Syndical Maghrébin - Alger</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article105" >Communiqué&nbsp;: Fatima R . &#171;&nbsp;petite bonne&nbsp;&#187; de 12 ans maltraitée par sa patronne</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article104" >Collectif pour l&#8217;éradication du travail des "petites bonnes"</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article102" >Sit-in des femmes soulaliyates et guichiates pour lutter contre la discrimination dont elles sont victimes</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article101" >Les terres collectives au centre du développement local</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article98" >Appel de soutien aux Femmes Soulaliyates</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article91" title="&#171; Soulaliyates : les prémices d’un dénouement... &#187;">Soutien au mouvement des femmes Soulaliyates </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article90" >Le Conseil du Forum Social Mondial se réunit au Maroc</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article89" >Solidarité avec les syndicalistes et militants emprisonnés ou inculpés du bassin minier de Gafsa</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				<a href='spip.php?article77&amp;lang=fr#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>0</a>
+	|
+
+ <span class="on">15</span>
+	|
+
+ <a href='spip.php?article77&amp;debut_articles_rubrique=30&amp;lang=fr#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>30</a>
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '28',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '77',
+	'id_rubrique' => '28',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"8/%2Fspip--15-fr--2b6a1b9df3d3c8f15";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:8:{s:9:"article77";s:0:"";s:23:"debut_articles_rubrique";s:2:"15";s:4:"lang";s:2:"fr";s:10:"id_article";s:2:"77";s:4:"date";s:19:"2014-12-07 13:05:14";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 13:05:14";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417975514;s:2:"gz";b:0;}

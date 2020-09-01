@@ -1,0 +1,29 @@
+a:11:{s:5:"texte";s:2191:"    <!-- Breves -->
+    
+    <div class="menu">
+    <h2 class="structure">Derni&egrave;res br&egrave;ves</h2>
+      <ul>
+        <li><b>Nouvelles br&egrave;ves</b>
+          <ul>
+            
+          	<li><span>2 juin 2009</span>
+              <a href="spip.php?breve10" title="Les populations de Gafsa (au sud-ouest de la Tunisie) et de Sidi-Ifni (Sud-est du Maroc), mènent depuis plus d’une année un mouvement social de grande ampleur. Des luttes légitimes et pacifiques, pour demander de travailler et vivre au pays et l’arrêt de la marginalisation de leurs régions. En dépit (...)">Maghreb des Luttes Sociales&nbsp;: De Gafsa à Sidi Ifni</a>
+          	</li>
+            
+          	<li><span>16 mars 2007</span>
+              <a href="spip.php?breve4" title="Préoccupé par les questions de la participation citoyenne des jeunes et notamment à l’approche des échéances électorales importantes, Action Jeunesse, le groupe Jeunes du FMAS a lancé un projet de création d’un Cd Rom facilitant aux différents acteurs en lien avec la jeunesse un support d’animation (...)">Clic Citoyen</a>
+          	</li>
+            
+          	<li><span>16 mars 2007</span>
+              <a href="spip.php?breve3" title="Le FMAS anime un cycle de rencontres de réflexion, de renforcement du dialogue et de la collaborations entre les acteurs associatifs, académiques et institutionnels pour l’identification de pistes thématiques visant la mise en œuvre de programmes de recherche – action pour l’amélioration de la (...)">Promotion des Droits humains et libertés fondamentales</a>
+          	</li>
+            
+          	<li><span>16 mars 2007</span>
+              <a href="spip.php?breve2" title="Le FMAS co-anime une plate forme associative (32 associations) pour l’action d’observation des élections législatives 2007. L’idée est de mettre sur pied un dispositif de 3000 observateurs/trices dans les 16 régions du Maroc, formés aux standards internationaux d’observation neutre des processus (...)">Collectif pour l’Observation des Elections</a>
+          	</li>
+            
+          </ul>
+        </li>
+      </ul>
+    </div><!-- menu -->
+    ";s:9:"squelette";s:37:"html_0fdb97df1fa8189d0386999cc688f1d1";s:6:"source";s:41:"plugins/auto/ahuntsic/inc/inc-breves.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"3/inc-bre--fr-2-2014_12_04-8fd2062c";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:8:{s:9:"rubrique2";s:0:"";s:4:"lang";s:2:"fr";s:11:"id_rubrique";s:1:"2";s:4:"date";s:19:"2014-12-04 10:29:11";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-04 10:29:11";s:18:"date_redac_default";b:1;s:4:"self";s:18:"spip.php?rubrique2";}s:12:"lastmodified";i:1417706952;s:2:"gz";b:0;}

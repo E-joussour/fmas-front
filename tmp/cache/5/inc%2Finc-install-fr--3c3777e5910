@@ -1,0 +1,33 @@
+a:11:{s:5:"texte";s:1488:"<h3 class="edito-titre">Bienvenue sur votre site</h3> 
+<div class="chapo">
+	<ul class="spip">
+		<li class="spip">
+			Pour modifier les informations de <i class="spip">Contact</i>, allez modifier les informations du <a href="ecrire/?exec=auteur_infos&amp;id_auteur=1" class="spip_out">premier auteur</a>.
+		</li>
+		<li class="spip">
+			Pour cr&eacute;er un nouvel auteur, aller à: <a href="ecrire/?exec=auteurs" class="spip_out">Auteurs</a>
+		</li>
+		<li class="spip">
+			Pour cr&eacute;er du contenu:
+			<ol class="spip">
+				<li class="spip">
+					cr&eacute;er une nouvelle <a href="ecrire/?exec=rubriques_edit&amp;new=oui" class="spip_out">rubrique</a>,
+				</li>
+				<li class="spip">
+					&agrave; l'int&eacute;rieur de cette <i class="spip">rubrique</i>, cr&eacute;er un <a href="ecrire/?exec=articles_edit&amp;new=oui" class="spip_out">article</a>, l'enregistrer et le publier.
+				</li>
+			</ol>
+		</li>
+		<li class="spip">
+			Pour enlever ou modifier le pr&eacute;sent message, aller &agrave; <a href="ecrire/?exec=configuration" class="spip_out">Configuration</a> et modifier le nom et la description de votre site.
+		</li>
+		<li class="spip">
+			Pour obtenir de l'aide sur SPIP, aller &agrave;<a href="ecrire/?exec=aide_index&amp;var_lang=fr" class="spip_out">Aide</a>.
+		</li>
+		<li class="spip">
+			De la documentaiton suppl&eacute;mentaire est disponible &agrave;&nbsp;: <a href="http://www.spip.net/fr" class="spip_url spip_out">www.spip.net/fr</a>.
+		</li>
+	</ul>
+</div>
+
+";s:9:"squelette";s:37:"html_43a8b828395c5d5acb384ebfe71c05d5";s:6:"source";s:42:"plugins/auto/ahuntsic/inc/inc-install.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"5/inc%2Finc-install-fr--3c3777e5910";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"lang";s:2:"fr";s:4:"date";s:19:"2014-12-07 18:11:19";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 18:11:19";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417993879;s:2:"gz";b:0;}

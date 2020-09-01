@@ -1,0 +1,209 @@
+a:11:{s:5:"texte";s:9985:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Rapport sur Les évènements du campement d’&#171; Agdem Izik et Lâayoune &#187;  - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '135',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub28 art135">
+<div id="page" class="article art135">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '135',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique28">Mouvements sociaux</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Rapport sur Les évènements du campement d’&#171;&nbsp;Agdem Izik et Lâayoune&nbsp;&#187; </h1>
+            
+      		<div class="detail">
+				<span class="date">lundi 10 janvier 2011</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>Les évènements du campement d’&#171;&nbsp;Agdem Izik et Lâayoune&nbsp;&#187; entre les déficits de gestion de la chose publique et les risques de dérives</p></div>
+		<div class="texte"><p>Madame,
+Monsieur,</p>
+
+<p>Les événements récents du campement de protestation d&#8217;Agdem Izik et de la ville de Laayoune dans le Sahara occidental ont été autant tragiques et alarmants que controversés et disputés, en particulier dans les commentaires politiques et médiatiques internationaux.En tant qu&#8217;acteurs de la société civile et militants des droits humains, pour la paix et la démocratie, nous avons tenu, au nom de nos organisations associatives signataires, à contribuer, d&#8217;une part, à apporter à l&#8217;opinion publique locale et internationale un éclairage indispensable sur ces événements et, d&#8217;autre part, à soumettre aux acteurs du dossier Sahara Occidental des observations et des recommandations susceptibles à la fois de soutenir la recherche de solutions dans la gestion de ce dossier et d&#8217;éviter les dérives déstabilisatrices dans cette région si sensible.</p>
+
+<p>La mission d&#8217;investigation menée par nos organisations, toutes indépendantes politiquement et financièrement, a abouti au présent rapport.</p>
+
+<p>Nous sommes heureux de vous transmettre le rapport produit de cette mission et nous espérons que celui-ci accueillera votre attention et vous apportera des éléments d&#8217;informations et d&#8217;appréciation.</p>
+
+<p>Plus d&#8217;une centaine d&#8217;heures de travail, d&#8217;entretiens, de visites de terrain, d&#8217;enquête, de recoupements et d&#8217;analyse ont été nécessaires pour l&#8217;élaboration de ce rapport basé sur une approche droits humains. Nous espérons que vous trouverez, pour votre part, le temps nécessaire pour en prendre connaissance et nous faire part de vos commentaires.</p>
+
+<p>Nous vous remercions et vous prions d&#8217;agréer, Madame, Monsieur, l&#8217;expression de notre considération respectueuse.</p>
+
+<p><strong>Les organisations signataires, auteurs du rapport&nbsp;:
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Le Médiateur pour la Démocratie et les DH
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;L&#8217;Observatoire des libertés publiques
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Le Forum des Alternatives Maroc</strong></p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique28">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article155" >&#171;&nbsp;Petite bonne&nbsp;&#187; tuée à El Jadida au Maroc</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article154" >Rencontre du Comité de Suivi du Forum Social Maghreb-Machrek à Tunis - 2 et 3 septembre 2011</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article140" >Communiqué sur la situation en Libye</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article138" >Communiqué - Sit-in de soutien le jeudi 13 Janvier à 17h devant l’ambassade de la Tunisie à Rabat</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article139" >Appel de solidarité avec la Tunisie - Sit-in le 10 janvier 2011</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article136" >Appel à l&#8217;UE et au parlement européen pour la ratification de la Convention Internationale des droits des migrants</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article131" >Conférence de presse sur les événements du camp d&#8217;Agdem IZIK et de la ville de Laâyoune‏</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article126" >Soulaliyates, encore une avancée...</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article122" >Forum Africain &#171;&nbsp;Droits Culturels&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article121" >Forum social des migrations - Samedi 18 Décembre à Bruxelles</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article120" >Pour un Maghreb respectueux des droits de l&#8217;Homme</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article119" >Forum mondial de l&#8217;Education en Palestine</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article118" >Forum mondial de l&#8217;Education étendu au Liban</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article117" >Forum Mondial de l&#8217;Education étendu au Maroc </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article116" >"Une marche engagée et solidaire vers l&#8217;égalité, l&#8217;équité et la dignité"</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				<span class="on">0</span>
+	|
+
+ <a href='/rac/article135.html?debut_articles_rubrique=15#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>15</a>
+	|
+
+ <a href='/rac/article135.html?debut_articles_rubrique=30#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>30</a>
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '28',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '135',
+	'id_rubrique' => '28',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"5/%2Frac%2Farticle135-fr--7097b79af";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"lang";s:2:"fr";s:10:"id_article";s:3:"135";s:4:"date";s:19:"2014-12-06 00:19:25";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-06 00:19:25";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417843165;s:2:"gz";b:0;}

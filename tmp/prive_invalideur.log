@@ -1,0 +1,111 @@
+Feb 13 08:40:20 41.249.135.145 (pid 15324) Taille du CACHE estimee (1): 0 Mo
+Feb 20 09:46:02 41.140.177.160 (pid 29436) Taille du CACHE estimee (e): 6.6 Mo
+Feb 23 04:42:38 41.249.9.204 (pid 28865) Taille du CACHE estimee (2): 3.7 Mo
+Feb 24 05:59:22 41.140.28.209 (pid 25243) Taille du CACHE estimee (1): 1.3 Mo
+Feb 24 06:19:56 41.140.28.209 (pid 21732) Taille du CACHE estimee (2): 2.5 Mo
+Feb 24 06:20:14 41.140.28.209 (pid 27403) Taille du CACHE estimee (3): 2.6 Mo
+Mar 09 07:04:24 41.140.46.185 (pid 12872) Taille du CACHE estimee (c): 5.9 Mo
+Mar 14 06:17:16 41.140.177.173 (pid 12720) Taille du CACHE estimee (6): 10.1 Mo
+Mar 14 06:17:17 41.140.177.173 (pid 12720) ../tmp/cache/6/ : 9/9 caches supprimes [taille moyenne 3705.61111111]
+Mar 14 06:17:17 41.140.177.173 (pid 12720) cache restant estime : 10.1 Mo, ratio 1.01
+Mar 15 07:48:41 41.140.101.44 (pid 32753) Taille du CACHE estimee (e): 12.8 Mo
+Mar 15 07:48:42 41.140.101.44 (pid 32753) ../tmp/cache/e/ : 180/180 caches supprimes [taille moyenne 3057.8]
+Mar 15 07:48:42 41.140.101.44 (pid 32753) cache restant estime : 12.3 Mo, ratio 1.23
+Mar 30 07:07:49 41.248.219.125 (pid 30062) Taille du CACHE estimee (f): 10.8 Mo
+Mar 30 07:07:49 41.248.219.125 (pid 30062) ../tmp/cache/f/ : 39/39 caches supprimes [taille moyenne 4055.83333333]
+Mar 30 07:07:49 41.248.219.125 (pid 30062) cache restant estime : 10.6 Mo, ratio 1.06
+Apr 10 11:19:15 41.248.164.83 (pid 14016) Taille du CACHE estimee (5): 14.1 Mo
+Apr 10 11:19:15 41.248.164.83 (pid 14016) ../tmp/cache/5/ : 204/204 caches supprimes [taille moyenne 3946.57894737]
+Apr 10 11:19:15 41.248.164.83 (pid 14016) cache restant estime : 13.3 Mo, ratio 1.33
+Apr 17 07:02:41 41.249.131.42 (pid 25697) Taille du CACHE estimee (c): 5.7 Mo
+Apr 17 09:28:25 41.249.131.42 (pid 21045) Taille du CACHE estimee (e): 9.1 Mo
+Apr 19 12:26:52 41.140.180.39 (pid 32014) Taille du CACHE estimee (f): 8.7 Mo
+May 10 10:23:31 41.140.44.232 (pid 24587) Taille du CACHE estimee (a): 0.8 Mo
+May 14 07:46:40 41.249.2.170 (pid 5299) Taille du CACHE estimee (3): 10.9 Mo
+May 14 07:46:40 41.249.2.170 (pid 5299) ../tmp/cache/3/ : 57/57 caches supprimes [taille moyenne 3332.85]
+May 14 07:46:40 41.249.2.170 (pid 5299) cache restant estime : 10.8 Mo, ratio 1.08
+May 15 10:22:33 41.140.97.96 (pid 18383) Taille du CACHE estimee (2): 4.2 Mo
+May 15 10:43:08 41.140.97.96 (pid 20790) Taille du CACHE estimee (4): 14 Mo
+May 15 10:43:08 41.140.97.96 (pid 20790) ../tmp/cache/4/ : 136/153 caches supprimes [taille moyenne 5134]
+May 15 10:43:08 41.140.97.96 (pid 20790) cache restant estime : 13.3 Mo, ratio 1.33
+May 22 10:37:06 41.140.34.233 (pid 11074) Taille du CACHE estimee (d): 10.9 Mo
+May 22 10:37:06 41.140.34.233 (pid 11074) ../tmp/cache/d/ : 48/48 caches supprimes [taille moyenne 3763.45]
+May 22 10:37:06 41.140.34.233 (pid 11074) cache restant estime : 10.7 Mo, ratio 1.07
+Jun 05 12:10:46 41.248.106.78 (pid 18757) Taille du CACHE estimee (6): 11.7 Mo
+Jun 05 12:10:46 41.248.106.78 (pid 18757) ../tmp/cache/6/ : 72/72 caches supprimes [taille moyenne 4860.9]
+Jun 05 12:10:46 41.248.106.78 (pid 18757) cache restant estime : 11.4 Mo, ratio 1.14
+Jun 07 10:54:02 41.249.7.137 (pid 21310) Taille du CACHE estimee (b): 8.6 Mo
+Jun 12 09:15:57 41.248.108.132 (pid 28793) Taille du CACHE estimee (3): 5.5 Mo
+Jun 12 09:57:27 41.249.141.211 (pid 10785) Taille du CACHE estimee (5): 3.6 Mo
+Jun 12 10:19:12 41.249.141.211 (pid 8380) Taille du CACHE estimee (6): 11.9 Mo
+Jun 12 10:19:12 41.249.141.211 (pid 8380) ../tmp/cache/6/ : 87/87 caches supprimes [taille moyenne 4433.21052632]
+Jun 12 10:19:12 41.249.141.211 (pid 8380) cache restant estime : 11.6 Mo, ratio 1.16
+Jun 13 08:22:15 41.248.163.128 (pid 29097) Taille du CACHE estimee (0): 8.2 Mo
+Jun 14 07:21:45 41.248.189.83 (pid 18930) Taille du CACHE estimee (6): 4.5 Mo
+Jun 15 09:57:09 41.248.165.189 (pid 681) Taille du CACHE estimee (1): 4.8 Mo
+Jul 05 04:57:44 41.248.105.249 (pid 24055) Taille du CACHE estimee (8): 8.6 Mo
+Jul 10 06:34:11 41.249.147.205 (pid 4705) Taille du CACHE estimee (f): 16 Mo
+Jul 10 06:34:12 41.249.147.205 (pid 4705) ../tmp/cache/f/ : 203/228 caches supprimes [taille moyenne 5146.15384615]
+Jul 10 06:34:12 41.249.147.205 (pid 4705) cache restant estime : 15 Mo, ratio 1.5
+Jul 23 21:25:22 41.249.25.72 (pid 19650) Taille du CACHE estimee (1): 5.3 Mo
+Aug 29 05:23:24 41.140.97.10 (pid 6338) Taille du CACHE estimee (8): 8.3 Mo
+Aug 29 07:12:53 41.140.97.10 (pid 22047) Taille du CACHE estimee (9): 6.5 Mo
+Aug 29 07:35:14 41.140.97.10 (pid 28834) Taille du CACHE estimee (a): 13.1 Mo
+Aug 29 07:35:15 41.140.97.10 (pid 28834) ../tmp/cache/a/ : 102/102 caches supprimes [taille moyenne 6091.78571429]
+Aug 29 07:35:15 41.140.97.10 (pid 28834) cache restant estime : 12.6 Mo, ratio 1.26
+Sep 07 11:32:50 41.248.108.223 (pid 20199) Taille du CACHE estimee (9): 9.6 Mo
+Sep 12 11:15:43 41.249.2.222 (pid 5231) Taille du CACHE estimee (d): 11.6 Mo
+Sep 12 11:15:43 41.249.2.222 (pid 5231) ../tmp/cache/d/ : 81/81 caches supprimes [taille moyenne 3920.45]
+Sep 12 11:15:43 41.249.2.222 (pid 5231) cache restant estime : 11.3 Mo, ratio 1.13
+Sep 13 05:21:03 41.249.24.221 (pid 16434) Taille du CACHE estimee (a): 6.3 Mo
+Sep 17 11:52:57 41.248.202.128 (pid 17359) Taille du CACHE estimee (8): 7.3 Mo
+Oct 09 12:40:03 41.249.86.149 (pid 22608) Taille du CACHE estimee (1): 16.3 Mo
+Oct 09 12:40:04 41.249.86.149 (pid 22608) ../tmp/cache/1/ : 240/288 caches supprimes [taille moyenne 4311.4]
+Oct 09 12:40:04 41.249.86.149 (pid 22608) cache restant estime : 15.3 Mo, ratio 1.53
+Oct 09 12:40:04 41.249.86.149 (pid 22608) Il faut encore purger
+Oct 10 08:32:27 41.249.0.128 (pid 29891) Taille du CACHE estimee (0): 14 Mo
+Oct 10 08:32:28 41.249.0.128 (pid 29891) ../tmp/cache/0/ : 153/153 caches supprimes [taille moyenne 5175.92307692]
+Oct 10 08:32:28 41.249.0.128 (pid 29891) cache restant estime : 13.3 Mo, ratio 1.33
+Oct 12 11:05:20 41.249.82.107 (pid 22545) Taille du CACHE estimee (5): 14.1 Mo
+Oct 12 11:05:21 41.249.82.107 (pid 22545) ../tmp/cache/5/ : 168/168 caches supprimes [taille moyenne 4871.25]
+Oct 12 11:05:21 41.249.82.107 (pid 22545) cache restant estime : 13.4 Mo, ratio 1.34
+Oct 12 11:27:58 41.249.82.107 (pid 25933) Taille du CACHE estimee (6): 10 Mo
+Oct 12 11:27:58 41.249.82.107 (pid 25933) ../tmp/cache/6/ : 3/3 caches supprimes [taille moyenne 3239.15]
+Oct 12 11:27:58 41.249.82.107 (pid 25933) cache restant estime : 10 Mo, ratio 1
+Nov 23 05:50:51 41.248.219.230 (pid 31346) Taille du CACHE estimee (3): 5.8 Mo
+Nov 23 06:11:15 41.248.219.230 (pid 32766) Taille du CACHE estimee (4): 9.3 Mo
+Nov 27 06:27:34 41.248.175.150 (pid 1089) Taille du CACHE estimee (d): 13 Mo
+Nov 27 06:27:34 41.248.175.150 (pid 1089) ../tmp/cache/d/ : 129/129 caches supprimes [taille moyenne 4634.5]
+Nov 27 06:27:34 41.248.175.150 (pid 1089) cache restant estime : 12.5 Mo, ratio 1.25
+Jan 22 05:10:03 41.249.28.8 (pid 8139) Taille du CACHE estimee (4): 10.5 Mo
+Jan 22 05:10:03 41.249.28.8 (pid 8139) ../tmp/cache/4/ : 18/18 caches supprimes [taille moyenne 5236.375]
+Jan 22 05:10:03 41.249.28.8 (pid 8139) cache restant estime : 10.4 Mo, ratio 1.04
+Jan 22 05:31:19 41.249.28.8 (pid 26442) Taille du CACHE estimee (5): 9.6 Mo
+Feb 26 06:35:19 41.248.186.54 (pid 3990) Taille du CACHE estimee (9): 7 Mo
+Mar 06 06:21:45 41.140.37.247 (pid 31218) Taille du CACHE estimee (2): 11 Mo
+Mar 06 06:21:45 41.140.37.247 (pid 31218) ../tmp/cache/2/ : 45/45 caches supprimes [taille moyenne 4199.42857143]
+Mar 06 06:21:45 41.140.37.247 (pid 31218) cache restant estime : 10.8 Mo, ratio 1.08
+Mar 06 06:47:06 41.140.37.247 (pid 3729) Taille du CACHE estimee (3): 12.6 Mo
+Mar 06 06:47:06 41.140.37.247 (pid 3729) ../tmp/cache/3/ : 126/126 caches supprimes [taille moyenne 4153.55555556]
+Mar 06 06:47:06 41.140.37.247 (pid 3729) cache restant estime : 12.1 Mo, ratio 1.21
+Apr 15 11:38:16 41.249.12.60 (pid 8500) Taille du CACHE estimee (7): 10.9 Mo
+Apr 15 11:38:16 41.249.12.60 (pid 8500) ../tmp/cache/7/ : 48/48 caches supprimes [taille moyenne 3997.3]
+Apr 15 11:38:16 41.249.12.60 (pid 8500) cache restant estime : 10.7 Mo, ratio 1.07
+Oct 23 08:17:57 41.249.9.196 (pid 31441) Taille du CACHE estimee (a): 6.5 Mo
+Oct 23 09:09:03 41.248.211.246 (pid 27196) Taille du CACHE estimee (b): 8.8 Mo
+Nov 22 05:07:56 196.217.225.35 (pid 27695) Taille du CACHE estimee (e): 12 Mo
+Nov 22 05:07:56 196.217.225.35 (pid 27695) ../tmp/cache/e/ : 90/90 caches supprimes [taille moyenne 4438.5]
+Nov 22 05:07:56 196.217.225.35 (pid 27695) cache restant estime : 11.6 Mo, ratio 1.16
+Feb 07 15:55:28 41.248.175.65 (pid 20504) Taille du CACHE estimee (4): 11.9 Mo
+Feb 07 15:55:29 41.248.175.65 (pid 20504) ../tmp/cache/4/ : 66/66 caches supprimes [taille moyenne 5694.1538461538]
+Feb 07 15:55:29 41.248.175.65 (pid 20504) cache restant estime : 11.6 Mo, ratio 1.16
+Mar 18 07:55:03 41.249.83.93 (pid 28092) Taille du CACHE estimee (b): 10.7 Mo
+Mar 18 07:55:03 41.249.83.93 (pid 28092) ../tmp/cache/b/ : 57/57 caches supprimes [taille moyenne 2538.75]
+Mar 18 07:55:03 41.249.83.93 (pid 28092) cache restant estime : 10.6 Mo, ratio 1.06
+Mar 18 08:15:35 41.249.83.93 (pid 13281) Taille du CACHE estimee (c): 8.3 Mo
+Nov 17 06:18:07 197.203.199.215 (pid 15276) Taille du CACHE estimee (1): 14.6 Mo
+Nov 17 06:18:08 197.203.199.215 (pid 15276) ../tmp/cache/1/ : 198/198 caches supprimes [taille moyenne 4572.9444444444]
+Nov 17 06:18:08 197.203.199.215 (pid 15276) cache restant estime : 13.7 Mo, ratio 1.37
+Nov 23 15:52:58 216.185.45.44 (pid 12884) Taille du CACHE estimee (f): 15.6 Mo
+Nov 23 15:52:59 216.185.45.44 (pid 12884) ../tmp/cache/f/ : 250/273 caches supprimes [taille moyenne 4064.4]
+Nov 23 15:52:59 216.185.45.44 (pid 12884) cache restant estime : 14.7 Mo, ratio 1.47

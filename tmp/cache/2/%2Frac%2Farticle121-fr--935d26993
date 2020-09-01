@@ -1,0 +1,240 @@
+a:11:{s:5:"texte";s:12241:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Forum social des migrations - Samedi 18 Décembre à Bruxelles - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '121',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub28 art121">
+<div id="page" class="article art121">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '121',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique28">Mouvements sociaux</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			<div  class="surtitre">Une autre politique migratoire est possible</div>
+			<h1 class="titre-article">Forum social des migrations - Samedi 18 Décembre à Bruxelles</h1>
+            <div class="sous-titre">Dans le cadre des activités thématiques du forum social maghrébin </div>
+      		<div class="detail">
+				<span class="date">mardi 23 novembre 2010</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		
+		<div class="texte"><p>Cette année, à l&#8217;occasion des 10 ans du Forum Social Mondial, des milliers de mouvements sociaux, associations, syndicats, etc., préparent le prochain forum social mondial qui aura lieu à Dakar du 6 au 11 février 2011, en organisant des forums thématiques régionaux à travers le monde entier. Ces espaces de réflexion et d&#8217;échanges rassemblent les personnes qui réfléchissent et proposent ensemble des alternatives en vue de promouvoir la justice, la paix, la démocratie et les droits humains dans la région et à l&#8217;échelle mondiale.</p>
+
+<p>Dans la région Maghreb-Machrek, de nombreux forums thématiques ont été organisés tout au long de l&#8217;année&nbsp;: le Forum des Mouvements sociaux et des forums sociaux&nbsp;&#187;, du 5 au 7 mars, à Bouznika, Maroc, le Forum syndical maghrébin, les 14 et 15 Mai, à Alger, le Forum Santé, Environnement et Terre, du 23 au 25 octobre, au Caire, Egypte et le Forum Mondial de l&#8217;Education, en du 28 au 31 octobre, en Palestine.</p>
+
+<p>Cette dynamique va se poursuivre au cours du mois de décembre avec la tenue du Forum social des migrations qui aura lieu à Bruxelles le 18 décembre prochain.</p>
+
+<p><span class='spip_document_125 spip_documents spip_documents_center'>
+<img src='IMG/jpg_forum-social-final.jpg' width='560' height='794' alt="" style='height:794px;width:560px;' /></span></p>
+
+<p>La ligne conductrice de ce forum sera les migrants leurs droits dans l&#8217;espace méditerranéen. Ces droits seront développés selon trois axes&nbsp;:</p>
+
+<p><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Les migrants et les demandeurs d&#8217;asile dans l&#8217;espace maghrébin. Nous nous intéresserons particulièrement à la situation des migrants qui s&#8217;y sont installé ou qui transite, aux législations en vigueur et aux pratiques des autorités des pays du Maghreb.</p>
+
+<p><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;L&#8217;externalisation des frontières de l&#8217;Union Européenne et les implications sur les droits des migrants.</p>
+
+<p><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;L&#8217;impact du travail associatif dans le soutien et l&#8217;encadrement des migrants ainsi que la gestion de cette question des deux côtés de la méditerranée. Les ponts et les partenariats à mettre en place pour renforcer l&#8217;action associative.</p>
+
+<p>De manière générale, des questions plus spécifique tel que les problématiques particulières de la femme migrantes, des questions liées aux problématiques de développements et aux discriminations seront abordées. Enfin le forum devra travailler à un cahier revendicatif évoquant des points précis qui serviront de base pour interpeller les autorités Maghrébine, l&#8217;UE et le monde associatif.</p>
+
+<p>Plus d&#8217;informations sur <a href="http://www.e-joussour.net/fr/node/6483" class='spip_out' rel='external'>e-joussour</a></p>
+
+<p><strong>&#171;&nbsp;Un autre Maghreb et une autre politique migratoire sont possibles&nbsp;&#187;</strong></p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		<div class="chapo" id="documents" style="line-height:1;"> 
+	<h2>Documents joints</h2>
+		
+				<h3 class="" style="margin-bottom: .6em;"><a href="IMG/pdf_PGM_Forum_des_Migrants_2010.pdf">Programme Forum des migrants</a></h3>
+				<div style="float:left;padding-right: .5em;  width:36%;">
+					<div style="float:left; margin-right: .5em;"><a href='IMG/pdf_PGM_Forum_des_Migrants_2010.pdf' type='application/pdf' title='PDF - 69.7 ko - Programme Forum des migrants'><img src='local/cache-vignettes/L52xH52/pdf-eb697.png' width='52' height='52' alt='' class='spip_logos' style='height:52px;width:52px;' /></a></div>
+					<small>
+						14 d&eacute;cembre 2010<br />
+						Document : PDF<br />
+						69.7&nbsp;ko
+					</small>
+				</div>
+				
+		<hr style='clear:both' />
+				<h3 class="" style="margin-bottom: .6em;"><a href="IMG/pdf_Forum_migrants_FSMagh_20101130.pdf">Plateforme Forum des migrants</a></h3>
+				<div style="float:left;padding-right: .5em;  width:36%;">
+					<div style="float:left; margin-right: .5em;"><a href='IMG/pdf_Forum_migrants_FSMagh_20101130.pdf' type='application/pdf' title='PDF - 122.1 ko - Plateforme Forum des migrants'><img src='local/cache-vignettes/L52xH52/pdf-eb697.png' width='52' height='52' alt='' class='spip_logos' style='height:52px;width:52px;' /></a></div>
+					<small>
+						14 d&eacute;cembre 2010<br />
+						Document : PDF<br />
+						122.1&nbsp;ko
+					</small>
+				</div>
+				
+		
+		<br class="nettoyeur" />
+	</div><!-- chapo -->
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique28">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article155" >&#171;&nbsp;Petite bonne&nbsp;&#187; tuée à El Jadida au Maroc</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article154" >Rencontre du Comité de Suivi du Forum Social Maghreb-Machrek à Tunis - 2 et 3 septembre 2011</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article140" >Communiqué sur la situation en Libye</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article138" >Communiqué - Sit-in de soutien le jeudi 13 Janvier à 17h devant l’ambassade de la Tunisie à Rabat</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article139" >Appel de solidarité avec la Tunisie - Sit-in le 10 janvier 2011</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article136" >Appel à l&#8217;UE et au parlement européen pour la ratification de la Convention Internationale des droits des migrants</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article135" >Rapport sur Les évènements du campement d’&#171;&nbsp;Agdem Izik et Lâayoune&nbsp;&#187; </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article131" >Conférence de presse sur les événements du camp d&#8217;Agdem IZIK et de la ville de Laâyoune‏</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article126" >Soulaliyates, encore une avancée...</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article122" >Forum Africain &#171;&nbsp;Droits Culturels&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article120" >Pour un Maghreb respectueux des droits de l&#8217;Homme</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article119" >Forum mondial de l&#8217;Education en Palestine</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article118" >Forum mondial de l&#8217;Education étendu au Liban</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article117" >Forum Mondial de l&#8217;Education étendu au Maroc </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article116" >"Une marche engagée et solidaire vers l&#8217;égalité, l&#8217;équité et la dignité"</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				<span class="on">0</span>
+	|
+
+ <a href='/rac/article121.html?debut_articles_rubrique=15#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>15</a>
+	|
+
+ <a href='/rac/article121.html?debut_articles_rubrique=30#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>30</a>
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '28',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '121',
+	'id_rubrique' => '28',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"2/%2Frac%2Farticle121-fr--935d26993";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"lang";s:2:"fr";s:10:"id_article";s:3:"121";s:4:"date";s:19:"2014-12-06 05:20:28";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-06 05:20:28";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417861229;s:2:"gz";b:0;}

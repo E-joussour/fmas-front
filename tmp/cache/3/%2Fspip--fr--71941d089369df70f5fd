@@ -1,0 +1,289 @@
+a:11:{s:5:"texte";s:10160:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Annonce - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_mot' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/mot.html','html_c98aa234470c7768125b2c34967a29d2','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('id_mot' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/mot.html','html_c98aa234470c7768125b2c34967a29d2','',9,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</head>
+<body dir="ltr" class="fr mot groupe1 mot2">
+<div id="page">
+
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_mot' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/mot.html','html_c98aa234470c7768125b2c34967a29d2','',19,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+	<div id="bloc-contenu">
+		<div class="cartouche">
+			
+			<h1 class="titre-article">Annonce</h1>
+			<div class="surtitre">Dans le groupe : _config_</div>
+			<br />
+			<div class="sous-titre">Les articles li&eacute;s &agrave; ce mot-cl&eacute;</div>
+		</div><!-- cartouche -->
+		
+		
+		
+		<!-- Articles lies au mot-cle -->
+		<h1 class="structure">Articles</h1>
+		
+			<h3><a href="spip.php?article200" > Communiqué   Le Forum des Alternatives Maroc, en collaboration avec l’Observatoire Marocain des Libertés publiques, organisent une conférence de presse sur les libertés de rassemblement et de manifestation au Maroc   Le 06 mai 2014 à 10h00,  à l’Hôtel Golden Tulip Farah, 160 Avenue F.A.R Casablanca</a></h3>
+			<div class="detail">
+				lundi 5 mai 2014
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article163" >"Pour l&#8217;effectivité de l&#8217;initiative populaire, la pétition et la démocratie participative"</a></h3>
+			<div class="detail">
+				jeudi 15 mars 2012
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article185" >Action Jeunesse organise des "cafés libertés" dans une vingtaine de villes du Maroc</a></h3>
+			<div class="detail">
+				mercredi 12 septembre 2012
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article180" >Assemblée préparatoire du Forum Social Mondial 2013 , Monastir</a></h3>
+			<div class="detail">
+				mardi 10 juillet 2012
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article192" >&#171;&nbsp;DAWAR LANTER&nbsp;&#187; -  Représentation en Première</a></h3>
+			<div class="detail">
+				vendredi 23 novembre 2012
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article186" >&#171;&nbsp;Le Conseil Consultatif des Jeunes et de l’Action Associative&nbsp;: Défis du Mouvement Associatif et de la Jeunesse&nbsp;&#187;</a></h3>
+			<div class="detail">
+				lundi 24 septembre 2012
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article204" >Communiqué de presse La Dynamique de l’appel de Rabat des associations démocrates confirme la continuité de son boycott du dialogue sur la société civile, organisé par le gouvernement.</a></h3>
+			<div class="detail">
+				mardi 18 mars 2014
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article191" >Déclaration du Comité de Suivi du Forum Social Maghrébin sur la tenue du Forum Social Mondial 2013 à Tunis</a></h3>
+			<div class="detail">
+				vendredi 12 octobre 2012
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article183" >Dossier spécial "Assemblée préparatoire du Forum social Mondial - Tunis 2013"</a></h3>
+			<div class="detail">
+				mercredi 29 ao&ucirc;t 2012
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article190" >Forum social des migrants&nbsp;: déclaration d&#8217;Oujda du Forum social Maghrébin</a></h3>
+			<div class="detail">
+				vendredi 12 octobre 2012
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article198" >Interdiction du Forum maghrébin pour la lutte contre le chômage et le travail précaire&nbsp;: Arrestations, expulsions</a></h3>
+			<div class="detail">
+				lundi 25 f&eacute;vrier 2013
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article199" >La 3éme assise régionale  sur &#171;&nbsp;Le mouvement associatif à la lumière des nouvelles dispositions constitutionnelles&nbsp;: Enjeux et défis&nbsp;&#187;</a></h3>
+			<div class="detail">
+				mercredi 6 mars 2013
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article188" >L’Université d’Automne Jeunesse aura lieu les 12, 13 et 14 octobre 2012 à Bouznika (Maroc)</a></h3>
+			<div class="detail">
+				mardi 9 octobre 2012
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article179" >Le FMAS organise la première rencontre régionale autour du thème&nbsp;: &#171;&nbsp;Le Conseil consultatif des jeunes et de l’action associative&nbsp;: défis du mouvement associatif et de la jeunesse&nbsp;&#187;, Marrakech, le 01 juillet 2012</a></h3>
+			<div class="detail">
+				jeudi 5 juillet 2012
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article173" >Le Forum social des quartiers populaires en route vers le Forum social mondial 2013 (Tunis)</a></h3>
+			<div class="detail">
+				mardi 22 mai 2012
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article193" >Maroc - Managem donne suite à ses engagements</a></h3>
+			<div class="detail">
+				lundi 21 janvier 2013
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article172" >Rencontre internationale à Monastir (Tunisie) du 12 au 18 juillet 2012</a></h3>
+			<div class="detail">
+				lundi 14 mai 2012
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article187" >Seconde édition du Forum Thématique sur l’immigration les 6 et 7 octobre 2012 à Oujda</a></h3>
+			<div class="detail">
+				mardi 9 octobre 2012
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article195" >Termes de référence&nbsp;:  2 JOURNALISTES / ANIMATEURS &#171;&nbsp;WEBRADIO E-JOUSSOUR&nbsp;&#187;</a></h3>
+			<div class="detail">
+				lundi 2 juin 2014
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article175" >Termes de référence&nbsp;: CHARGE ( E ) DE CONTENU DU SITE &#171;&nbsp;WEBRADIO JOUSSOUR&nbsp;&#187;</a></h3>
+			<div class="detail">
+				lundi 2 juin 2014
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article176" >Une autre Tunisie est possible, dans un autre Maghreb et un autre monde</a></h3>
+			<div class="detail">
+				mardi 12 juin 2012
+				par  FMAS
+			</div><!-- detail -->
+			<br />
+		
+	</div><!-- bloc-contenu -->
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+	<div id="encart">
+	
+      <!-- Menu de navigation mots-cles : les autres mots cles du meme groupe -->
+      
+      <h2 class="structure">Mots-cl&eacute;s dans le m&ecirc;me groupe</h2>
+      <div class="menu">
+      <ul>
+        <li>
+          <b>_config_</b>
+          <span>(Mots-cl&eacute;s dans le m&ecirc;me groupe)</span>
+          <ul>
+            
+            <li>
+              <a href="spip.php?mot2" title="">Annonce</a>
+            </li>
+            
+            <li>
+              <a href="spip.php?mot1" title="Le Conseil du Forum Social Mondial se réunit au Maroc Communiqué de presse">Editorial</a>
+            </li>
+            
+            <li>
+              <a href="spip.php?mot3" title="">Rub_type_plan</a>
+            </li>
+            
+          </ul>
+        </li>
+      </ul>
+      </div><!-- menu -->
+      
+	
+      <!-- Menu de navigation mots-cles : les autres groupes avec un lien sur le premier mot du groupe -->
+      
+      
+      <h2 class="structure">Autres groupes de mots-cl&eacute;s</h2>
+      <div class="menu">
+      <ul>
+        <li><b>Autres groupes de mots-cl&eacute;s</b>
+          <ul>
+            
+              
+            <li>
+              <a href="spip.php?mot5">Axes thématiques</a>
+            </li>
+              
+            
+          </ul>
+        </li>
+      </ul>
+      </div><!-- menu -->
+      
+		
+      <!-- Rubriques liees au mot-cle -->
+      
+
+      <!-- Breves liees au mot-cle -->
+      
+      <h2 class="structure">Br&egrave;ves</h2>
+      <div class="menu">
+      <ul>
+        <li><b>Les br&egrave;ves li&eacute;es &agrave; ce mot-cl&eacute;</b>
+          <ul>
+            
+            <li >
+              <a href="spip.php?breve1">ACTION JEUNESSE</a>
+            </li>
+            
+            <li >
+              <a href="spip.php?breve9">PORTAIL E-JOUSSOUR</a>
+            </li>
+            
+          </ul>
+        </li>
+      </ul>
+      </div><!-- menu -->
+      
+
+      <!-- Sites Web lies au mot-cle -->
+      
+      
+	</div><!-- encart -->
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_mot' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/mot.html','html_c98aa234470c7768125b2c34967a29d2','',150,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_mot' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/mot.html','html_c98aa234470c7768125b2c34967a29d2','',151,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div>	<!-- page -->
+
+</body>
+</html>
+
+";s:9:"squelette";s:37:"html_c98aa234470c7768125b2c34967a29d2";s:6:"source";s:30:"plugins/auto/ahuntsic/mot.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"3/%2Fspip--fr--71941d089369df70f5fd";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"mot2";s:0:"";s:4:"lang";s:2:"fr";s:6:"id_mot";s:1:"2";s:4:"date";s:19:"2014-12-04 07:34:12";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-04 07:34:12";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417696452;s:2:"gz";b:0;}

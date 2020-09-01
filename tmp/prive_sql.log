@@ -1,0 +1,266 @@
+Feb 13 08:36:22 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:22 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:22 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:26 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:26 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:26 41.249.135.145 (pid 15043) Erreur 1146 de sql: Table 'joussour_fmas.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'

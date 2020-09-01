@@ -1,0 +1,216 @@
+a:11:{s:5:"texte";s:10915:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Atelier de formation et sensibilisation sur la gouvernance de la sécurité et le rôle de la société civile dans la promotion de la réforme des systèmes de sécurité - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '123',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub26 art123">
+<div id="page" class="article art123">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '123',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique26">Gouvernance et Démocratie</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			<div  class="surtitre">Invitation</div>
+			<h1 class="titre-article">Atelier de formation et sensibilisation sur la gouvernance de la sécurité et le rôle de la société civile dans la promotion de la réforme des systèmes de sécurité</h1>
+            <div class="sous-titre">Rabat, 10 &amp; 11 décembre</div>
+      		<div class="detail">
+				<span class="date">mercredi 24 novembre 2010</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>Dans le cadre du suivi du colloque organisé conjointement entre le Forum marocain des Alternatives –FMAS- et le Forum marocain pour la vérité et la justice -FMVJ- en novembre 2008 à Salé, ces deux organisations entendent poursuivre leur collaboration en matière de promotion de la réforme des systèmes de sécurité au Maroc –RSS-.</p></div>
+		<div class="texte"><p>En vue d’habiliter les acteurs sociaux à prendre part activement au débat et au processus de la réforme des systèmes de sécurité, elles organisent, en collaboration avec le Centre international pour la Justice transitionnelle –ICTJ-, un atelier de formation et de sensibilisation sur la gouvernance de la sécurité et le rôle de la société civile dans la promotion de la réforme des systèmes de sécurité. L’atelier connaîtra la participation d’une trentaine de représentants de la société civile et des médias et sera encadré par des experts internationaux en la matière.</p>
+
+<p>L’atelier a pour objectifs de sensibiliser les acteurs sociaux et les médias à la thématique de la réforme des systèmes de sécurité, de renforcer leurs capacités en la matière, d’introduire la thématique dans les agendas des organismes de la société civile et d’avancer la réflexion sur le rôle de la société civile dans la promotion de la RSS.</p>
+
+<p>Le FMAS, le FMVJ et le ICTJ vous invitent à prendre part à cet atelier d’un jour et demi et vous demande de bien vouloir désigner un membre de votre association qui s’intéresse au sujet et pourra en assurer le suivi aux côtés des autres acteurs.</p>
+
+<p>Etant donné que l’atelier se déroulera en langue française, le participant devrait disposer d’une connaissance suffisante de la langue française lui permettant de suivre la formation.</p>
+
+<p>Le document de travail et le programme final vous seront communiqués dès réception des confirmations.</p>
+
+<p><strong>Langue de travail de l’atelier&nbsp;:</strong> Français</p>
+
+<p><strong>Dates&nbsp;:</strong> 10 et 11 Décembre 2010</p>
+
+<p><strong>Adresse&nbsp;:</strong> Hôtel Texuda 32. BD Al Moukaouama&nbsp;; quartier de l’Océan- Rabat</p>
+
+<p>Veuillez s’il vous plait confirmer votre participation par retour de mail à l’adresse suivante&nbsp;: 
+fmas@menara.ma
+hattab.mustapha@gmail.com</p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		<div class="chapo" id="documents" style="line-height:1;"> 
+	<h2>&#1575;&#1604;&#1605;&#1587;&#1578;&#1606;&#1583;&#1575;&#1578; &#1575;&#1604;&#1605;&#1585;&#1601;&#1602;&#1577;</h2>
+		
+				<h3 class="" style="margin-bottom: .6em;"><a href="IMG/pdf_Invitation_participant_e_s.pdf">Invitation atelier de formation et sensibilisation </a></h3>
+				<div style="float:left;padding-right: .5em;  width:36%;">
+					<div style="float:left; margin-right: .5em;"><a href='IMG/pdf_Invitation_participant_e_s.pdf' type='application/pdf' title='PDF - 324.4 &#1603;&#1610;&#1604;&#1608;&#1576;&#1575;&#1610;&#1578; - Invitation atelier de formation et sensibilisation'><img src='local/cache-vignettes/L52xH52/pdf-eb697.png' width='52' height='52' alt='' class='spip_logos' style='height:52px;width:52px;' /></a></div>
+					<small>
+						24 &#1578;&#1588;&#1585;&#1610;&#1606; &#1575;&#1604;&#1579;&#1575;&#1606;&#1610; (&#1606;&#1608;&#1601;&#1605;&#1576;&#1585;) 2010<br />
+						&#1575;&#1604;&#1605;&#1587;&#1578;&#1606;&#1583; : PDF<br />
+						324.4 &#1603;&#1610;&#1604;&#1608;&#1576;&#1575;&#1610;&#1578;
+					</small>
+				</div>
+				
+		
+		<br class="nettoyeur" />
+	</div><!-- chapo -->
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique26">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article163" >"Pour l&#8217;effectivité de l&#8217;initiative populaire, la pétition et la démocratie participative"</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article152" >Rapport préliminaire d’observation du référendum du 1er juillet 2011 </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article148" >Rapport sur les circonstances de la mort de &#171;&nbsp;Kamal AMARI" et les suites de la violence envers les manifestants à Safi</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article142" >&#171;&nbsp;La société civile et la réforme de la Constitution&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article137" >Rencontre internationale &#171;&nbsp;Migrations et Développement&nbsp;: Quelles dynamiques Sud/Sud/Nord&nbsp;?&nbsp;&#187; à Agadir les 15 et 16 janvier 2011</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article97" >Vers une nouvelle dynamique de coopération entre les élus locaux et la société civile</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article93" >Mouvement associatif et régionalisation </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article92" >Le Conseil économique et social au Maroc, et les défis pour le respect des droits économiques, sociaux et culturels et environnementaux</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article88" >Réforme des politiques sécuritaires&nbsp;: réalité et exigences</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article70" title="Rapport d’observation des élections législatives du 7 Septembre 2007">Rapport d’observation des élections législatives du 7 Septembre 2007</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article32" >Charte de l&#8217;Observatoire Marocain des Libertés Publiques</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article33" >Fiche d&#8217;observation des législatives 2007</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article149" >25 -26 Juin 2011&nbsp;: Rencontre "médias communautaires, pour une information citoyenne" à Tetouan </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article26" >Libertes publiques</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '26',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '123',
+	'id_rubrique' => '26',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"6/%2Frac%2Farticle123-ar--f8b667653";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"lang";s:2:"ar";s:10:"id_article";s:3:"123";s:4:"date";s:19:"2014-12-05 05:00:18";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-05 05:00:18";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417773619;s:2:"gz";b:0;}

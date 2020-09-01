@@ -1,0 +1,98 @@
+a:11:{s:5:"texte";s:3464:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Gouvernance et Démocratie - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_mot' => '5',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/mot.html','html_c98aa234470c7768125b2c34967a29d2','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('id_mot' => '5',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/mot.html','html_c98aa234470c7768125b2c34967a29d2','',9,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</head>
+<body dir="ltr" class="fr mot groupe2 mot5">
+<div id="page">
+
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_mot' => '5',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/mot.html','html_c98aa234470c7768125b2c34967a29d2','',19,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+	<div id="bloc-contenu">
+		<div class="cartouche">
+			
+			<h1 class="titre-article">Gouvernance et Démocratie</h1>
+			<div class="surtitre">Dans le groupe : Axes thématiques</div>
+			<br />
+			<div class="sous-titre">Les articles li&eacute;s &agrave; ce mot-cl&eacute;</div>
+		</div><!-- cartouche -->
+		
+		
+		
+		<!-- Articles lies au mot-cle -->
+		<h1 class="structure">Articles</h1>
+		
+	</div><!-- bloc-contenu -->
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+	<div id="encart">
+	
+      <!-- Menu de navigation mots-cles : les autres mots cles du meme groupe -->
+      
+      <h2 class="structure">Mots-cl&eacute;s dans le m&ecirc;me groupe</h2>
+      <div class="menu">
+      <ul>
+        <li>
+          <b>Axes thématiques</b>
+          <span>(Mots-cl&eacute;s dans le m&ecirc;me groupe)</span>
+          <ul>
+            
+            <li>
+              <a href="spip.php?mot5" title="">Gouvernance et Démocratie</a>
+            </li>
+            
+          </ul>
+        </li>
+      </ul>
+      </div><!-- menu -->
+      
+	
+      <!-- Menu de navigation mots-cles : les autres groupes avec un lien sur le premier mot du groupe -->
+      
+      
+		
+      <!-- Rubriques liees au mot-cle -->
+      
+
+      <!-- Breves liees au mot-cle -->
+      
+
+      <!-- Sites Web lies au mot-cle -->
+      
+      
+	</div><!-- encart -->
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_mot' => '5',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/mot.html','html_c98aa234470c7768125b2c34967a29d2','',150,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_mot' => '5',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/mot.html','html_c98aa234470c7768125b2c34967a29d2','',151,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div>	<!-- page -->
+
+</body>
+</html>
+
+";s:9:"squelette";s:37:"html_c98aa234470c7768125b2c34967a29d2";s:6:"source";s:30:"plugins/auto/ahuntsic/mot.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"b/%2Fspip--fr--5bc50c7dd22e20e5a86b";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"mot5";s:0:"";s:4:"lang";s:2:"fr";s:6:"id_mot";s:1:"5";s:4:"date";s:19:"2014-12-07 01:56:37";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 01:56:37";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417935397;s:2:"gz";b:0;}

@@ -1,0 +1,185 @@
+a:11:{s:5:"texte";s:8939:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>mobilisation pour l’inflexion des politiques jeunesse au Maroc - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '85',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub25 art85">
+<div id="page" class="article art85">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '85',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique25">Jeunesse</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			<div  class="surtitre">Politiques jeunesse</div>
+			<h1 class="titre-article">mobilisation pour l’inflexion des politiques jeunesse au Maroc</h1>
+            
+      		<div class="detail">
+				<span class="date">mardi 28 octobre 2008</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>Action Jeunesse a pour mission la promotion de la participation des jeunes au processus d’émergence d’une citoyenneté basée sur le respect des droits et l’exercice des pouvoirs des citoyens, et tout particulièrement l’enracinement et la promotion des valeurs attachées à la dignité humaine, aux droits de l’homme et aux principes de la démocratie, l’égalité et l’équité. Avec comme mot d’ordre&nbsp;: La responsabilisation, l’adhésion, la mobilisation et la participation de la jeunesse, des mots qui sont les termes d’un nouveau contrat social indispensable pour consolider les fondements du projet de société moderne et démocratique.</p>
+
+<p>Dans cet esprit, l&#8217;Action Jeunesse à amorcé, grâce à l&#8217;appui d&#8217;Oxfam Québec puis de la Fondation Friedrich Ebert au Maroc, un projet de mobilisation visant à contribuer à l’inflexion des politiques jeunesse au Maroc pour l’amélioration des budgets publics alloués aux jeunes.</p></div>
+		<div class="texte"><p><strong>Objectif global&nbsp;:</strong></p>
+
+<p>Garantir la pleine et effective participation des jeunes à la conception, la mise en œuvre et l’évaluation des politiques et plans nationaux les concernant.</p>
+
+<p><strong>Objectifs spécifiques&nbsp;:</strong></p>
+
+<p>1. Sensibiliser, informer et mobiliser la société civile sur les engagements pris en matière de développement de la jeunesse&nbsp;;</p>
+
+<p>2. Renforcer les capacités des jeunes acteurs de la société civile en terme de conduite d’actions pour l’inflexion des politiques jeunesse&nbsp;;</p>
+
+<p>3. Créer et élargir les espaces de dialogue avec les acteurs sociaux, institutionnels et politiques pour une meilleure prise en compte des besoins et attentes de la jeunesse&nbsp;;</p>
+
+<p>4. Favoriser l’analyse et la formulation de propositions par les jeunes pour le changement des politiques les concernant&nbsp;;</p>
+
+<p>5. Assurer le suivi et la mise en œuvre des recommandations formulées par les jeunes.</p>
+
+<p>Ce processus a été  initié par la réalisation d&#8217;une étude d’évaluation des politiques publiques en direction des jeunes au Maroc à travers l’analyse de l’évolution des budgets publics consacrés au développement de la jeunesse dans les différentes secteurs qui les touchent, tels que&nbsp;: l&#8217;éducation de base, l&#8217;enseignement scientifique et technique, l&#8217;emploi, l&#8217;aide à l&#8217;auto emploi et la création d&#8217;entreprise, la santé, le sport, la culture, l&#8217;encadrement des jeunes, etc.</p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique25">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article162" >Tournée européenne d’échanges et de partage de l’expérience dans le cadre du projet&nbsp;: &#171;&nbsp;Théâtre interculturel, pour le dialogue et la compréhension mutuelle&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article157" >&#171;&nbsp;Trois pièces de théâtre, trois thématiques abordées par des jeunes du Maroc&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article153" >Abdelouahab Ferasaoui. Président du RAJ &#171;&nbsp;La jeunesse a la capacité d’imposer le changement d’une façon pacifique&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article141" >APPEL À CANDIDATURE &#171;&nbsp;Théâtre interculturel, pour le dialogue et la compréhension mutuelle&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article103" >Les jeunes marocains au service du développement démocratique</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article100" >La jeunesse marocaine au service du développement démocratique</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article150" >9 Juillet 2011 à Rabat&nbsp;: Réalisation des trois pièces de théâtre, &#171;&nbsp;Théâtre interculturel, pour le dialogue et la compréhension mutuelle&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article24" >Axe Jeunesse</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article29" >Introduction au FMAS-Action jeunesse</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article30" >Plate forme des jeunes pour la participation citoyenne.</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '25',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '85',
+	'id_rubrique' => '25',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"9/art-art-85-fr--85bb750aaedd2b8ecd";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"page";s:7:"article";s:10:"id_article";s:2:"85";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2014-12-07 10:26:59";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 10:26:59";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417966019;s:2:"gz";b:0;}

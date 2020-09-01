@@ -1,0 +1,535 @@
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1931 etape 0: spip_query UPDATE spip_types_documents SET `inclus`='embed' WHERE `extension`='flv'
+Feb 13 08:40:35 41.249.135.145 (pid 15052) version_installee_maj_1931: ok
+Feb 13 08:40:35 41.249.135.145 (pid 15052) meta version_installee: 1931 en 0 secondes
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1932 etape 0: sql_alter TABLE spip_forum ADD `date_thread` datetime DEFAULT '0000-00-00 00:00:00' NOT NULL
+Feb 13 08:40:35 41.249.135.145 (pid 15052) version_installee_maj_1932: ok
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1932 etape 1: sql_alter TABLE spip_forum ADD INDEX `date_thread` (`date_thread`)
+Feb 13 08:40:35 41.249.135.145 (pid 15052) version_installee_maj_1932: ok
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1932 etape 2: spip_query DROP TABLE IF EXISTS spip_tmp
+Feb 13 08:40:35 41.249.135.145 (pid 15052) version_installee_maj_1932: ok
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1932 etape 3: spip_query CREATE TABLE spip_tmp SELECT `id_thread`,MAX(`date_heure`) AS dt FROM spip_forum GROUP BY `id_thread`
+Feb 13 08:40:35 41.249.135.145 (pid 15052) version_installee_maj_1932: ok
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1932 etape 4: sql_alter TABLE spip_tmp ADD INDEX `p` (`id_thread`)
+Feb 13 08:40:35 41.249.135.145 (pid 15052) version_installee_maj_1932: ok
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1932 etape 5: spip_query UPDATE spip_forum AS F JOIN spip_tmp AS T ON F.id_thread=T.id_thread SET F.date_thread=T.dt
+Feb 13 08:40:35 41.249.135.145 (pid 15052) version_installee_maj_1932: ok
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1932 etape 6: spip_query DROP TABLE spip_tmp
+Feb 13 08:40:35 41.249.135.145 (pid 15052) version_installee_maj_1932: ok
+Feb 13 08:40:35 41.249.135.145 (pid 15052) meta version_installee: 1932 en 0 secondes
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1934 etape 0: maj_1_934 
+Feb 13 08:40:35 41.249.135.145 (pid 15052) version_installee_maj_1934: ok
+Feb 13 08:40:35 41.249.135.145 (pid 15052) meta version_installee: 1934 en 0 secondes
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1935 etape 0: sql_alter TABLE spip_documents_articles ADD `vu` ENUM('non', 'oui') DEFAULT 'non' NOT NULL
+Feb 13 08:40:35 41.249.135.145 (pid 15052) version_installee_maj_1935: ok
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1935 etape 1: sql_alter TABLE spip_documents_rubriques ADD `vu` ENUM('non', 'oui') DEFAULT 'non' NOT NULL
+Feb 13 08:40:35 41.249.135.145 (pid 15052) version_installee_maj_1935: ok
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1935 etape 2: sql_alter TABLE spip_documents_breves ADD `vu` ENUM('non', 'oui') DEFAULT 'non' NOT NULL
+Feb 13 08:40:35 41.249.135.145 (pid 15052) version_installee_maj_1935: ok
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1935 etape 3: maj_1_935 
+Feb 13 08:40:35 41.249.135.145 (pid 15052) version_installee_maj_1935: ok
+Feb 13 08:40:35 41.249.135.145 (pid 15052) meta version_installee: 1935 en 0 secondes
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 0: convertir_un_champ_blob_en_text spip_articles,texte,LONGTEXT
+Feb 13 08:40:35 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 1: convertir_un_champ_blob_en_text spip_articles,extra,LONGTEXT
+Feb 13 08:40:35 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 2: convertir_un_champ_blob_en_text spip_auteurs,extra,LONGTEXT
+Feb 13 08:40:35 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:35 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 3: convertir_un_champ_blob_en_text spip_breves,texte,LONGTEXT
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 4: convertir_un_champ_blob_en_text spip_breves,extra,LONGTEXT
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 5: convertir_un_champ_blob_en_text spip_messages,texte,LONGTEXT
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 6: convertir_un_champ_blob_en_text spip_mots,texte,LONGTEXT
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 7: convertir_un_champ_blob_en_text spip_mots,extra,LONGTEXT
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 8: convertir_un_champ_blob_en_text spip_groupes_mots,texte,LONGTEXT
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 9: convertir_un_champ_blob_en_text spip_rubriques,texte,LONGTEXT
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 10: convertir_un_champ_blob_en_text spip_rubriques,extra,LONGTEXT
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 11: convertir_un_champ_blob_en_text spip_syndic,nom_site,LONGTEXT
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 12: convertir_un_champ_blob_en_text spip_syndic,descriptif,TEXT
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 13: convertir_un_champ_blob_en_text spip_syndic,extra,LONGTEXT
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 14: convertir_un_champ_blob_en_text spip_syndic_articles,descriptif,LONGTEXT
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 15: convertir_un_champ_blob_en_text spip_petitions,texte,LONGTEXT
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1937 etape 16: convertir_un_champ_blob_en_text spip_ortho_cache,suggest,TEXT
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1937: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) meta version_installee: 1937 en 1 secondes
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1938 etape 0: sql_alter TABLE spip_documents ADD `extension` VARCHAR(10) DEFAULT ''  NOT NULL 
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1938: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1938 etape 1: maj_1_938 
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1938: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1938 etape 2: sql_alter TABLE spip_documents DROP INDEX `id_type`, DROP `id_type`
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1938: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1938 etape 3: sql_alter TABLE spip_types_documents CHANGE `id_type` `id_type` BIGINT( 21 ) NOT NULL 
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1938: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1938 etape 4: sql_alter TABLE spip_types_documents DROP `id_type`
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1938: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1938 etape 5: sql_alter TABLE spip_types_documents ADD PRIMARY KEY (`extension`)
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1938: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) meta version_installee: 1938 en 1 secondes
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1939 etape 0: sql_alter TABLE spip_visites CHANGE `visites` `visites` INT UNSIGNED DEFAULT '0' NOT NULL
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1939: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1939 etape 1: sql_alter TABLE spip_visites_articles CHANGE `visites` `visites` INT UNSIGNED DEFAULT '0' NOT NULL
+Feb 13 08:40:36 41.249.135.145 (pid 15052) version_installee_maj_1939: ok
+Feb 13 08:40:36 41.249.135.145 (pid 15052) maj meta version_installee_maj_1939 etape 2: sql_alter TABLE spip_referers CHANGE `visites` `visites` INT UNSIGNED DEFAULT '0' NOT NULL
+Feb 13 08:40:37 41.249.135.145 (pid 15052) version_installee_maj_1939: ok
+Feb 13 08:40:37 41.249.135.145 (pid 15052) maj meta version_installee_maj_1939 etape 3: sql_alter TABLE spip_referers CHANGE `visites_jour` `visites_jour` INT UNSIGNED DEFAULT '0' NOT NULL
+Feb 13 08:40:37 41.249.135.145 (pid 15052) version_installee_maj_1939: ok
+Feb 13 08:40:37 41.249.135.145 (pid 15052) maj meta version_installee_maj_1939 etape 4: sql_alter TABLE spip_referers CHANGE `visites_veille` `visites_veille` INT UNSIGNED DEFAULT '0' NOT NULL
+Feb 13 08:40:37 41.249.135.145 (pid 15052) version_installee_maj_1939: ok
+Feb 13 08:40:37 41.249.135.145 (pid 15052) maj meta version_installee_maj_1939 etape 5: sql_alter TABLE spip_referers_articles CHANGE `visites` `visites` INT UNSIGNED DEFAULT '0' NOT NULL
+Feb 13 08:40:37 41.249.135.145 (pid 15052) version_installee_maj_1939: ok
+Feb 13 08:40:37 41.249.135.145 (pid 15052) meta version_installee: 1939 en 2 secondes
+Feb 13 08:40:37 41.249.135.145 (pid 15052) maj meta version_installee_maj_1940 etape 0: spip_query DROP TABLE spip_caches
+Feb 13 08:40:37 41.249.135.145 (pid 15052) version_installee_maj_1940: ok
+Feb 13 08:40:37 41.249.135.145 (pid 15052) meta version_installee: 1940 en 2 secondes
+Feb 13 08:40:37 41.249.135.145 (pid 15052) maj meta version_installee_maj_1941 etape 0: spip_query UPDATE spip_meta SET `valeur` = '' WHERE `nom`='preview' AND `valeur`='non' 
+Feb 13 08:40:37 41.249.135.145 (pid 15052) version_installee_maj_1941: ok
+Feb 13 08:40:37 41.249.135.145 (pid 15052) maj meta version_installee_maj_1941 etape 1: spip_query UPDATE spip_meta SET `valeur` = ',0minirezo,1comite,' WHERE `nom`='preview' AND `valeur`='1comite' 
+Feb 13 08:40:37 41.249.135.145 (pid 15052) version_installee_maj_1941: ok
+Feb 13 08:40:37 41.249.135.145 (pid 15052) maj meta version_installee_maj_1941 etape 2: spip_query UPDATE spip_meta SET `valeur` = ',0minirezo,' WHERE `nom`='preview' AND `valeur`='oui' 
+Feb 13 08:40:37 41.249.135.145 (pid 15052) version_installee_maj_1941: ok
+Feb 13 08:40:37 41.249.135.145 (pid 15052) meta version_installee: 1941 en 2 secondes
+Feb 13 08:40:37 41.249.135.145 (pid 15052) maj meta version_installee_maj_1942 etape 0: sql_alter TABLE spip_auteurs CHANGE `statut` `statut` varchar(255)  DEFAULT '0' NOT NULL
+Feb 13 08:40:38 41.249.135.145 (pid 15052) version_installee_maj_1942: ok
+Feb 13 08:40:38 41.249.135.145 (pid 15052) maj meta version_installee_maj_1942 etape 1: sql_alter TABLE spip_breves CHANGE `statut` `statut` varchar(6)  DEFAULT '0' NOT NULL
+Feb 13 08:40:38 41.249.135.145 (pid 15052) version_installee_maj_1942: ok
+Feb 13 08:40:38 41.249.135.145 (pid 15052) maj meta version_installee_maj_1942 etape 2: sql_alter TABLE spip_messages CHANGE `statut` `statut` varchar(6)  DEFAULT '0' NOT NULL
+Feb 13 08:40:38 41.249.135.145 (pid 15052) version_installee_maj_1942: ok
+Feb 13 08:40:38 41.249.135.145 (pid 15052) maj meta version_installee_maj_1942 etape 3: sql_alter TABLE spip_rubriques CHANGE `statut` `statut` varchar(10) DEFAULT '0' NOT NULL
+Feb 13 08:40:38 41.249.135.145 (pid 15052) version_installee_maj_1942: ok
+Feb 13 08:40:38 41.249.135.145 (pid 15052) maj meta version_installee_maj_1942 etape 4: sql_alter TABLE spip_rubriques CHANGE `statut_tmp` `statut_tmp` varchar(10) DEFAULT '0' NOT NULL
+Feb 13 08:40:38 41.249.135.145 (pid 15052) version_installee_maj_1942: ok
+Feb 13 08:40:38 41.249.135.145 (pid 15052) maj meta version_installee_maj_1942 etape 5: sql_alter TABLE spip_syndic CHANGE `statut` `statut` varchar(10) DEFAULT '0' NOT NULL
+Feb 13 08:40:38 41.249.135.145 (pid 15052) version_installee_maj_1942: ok
+Feb 13 08:40:38 41.249.135.145 (pid 15052) maj meta version_installee_maj_1942 etape 6: sql_alter TABLE spip_syndic_articles CHANGE `statut` `statut` varchar(10) DEFAULT '0' NOT NULL
+Feb 13 08:40:38 41.249.135.145 (pid 15052) version_installee_maj_1942: ok
+Feb 13 08:40:38 41.249.135.145 (pid 15052) maj meta version_installee_maj_1942 etape 7: sql_alter TABLE spip_forum CHANGE `statut` `statut` varchar(8) DEFAULT '0' NOT NULL
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1942: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1942 etape 8: sql_alter TABLE spip_signatures CHANGE `statut` `statut` varchar(10) DEFAULT '0' NOT NULL
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1942: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) meta version_installee: 1942 en 4 secondes
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 0: sql_alter TABLE spip_articles DROP KEY `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 1: sql_alter TABLE spip_articles DROP `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 2: sql_alter TABLE spip_auteurs DROP KEY `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 3: sql_alter TABLE spip_auteurs DROP `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 4: sql_alter TABLE spip_breves DROP KEY `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 5: sql_alter TABLE spip_breves DROP `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 6: sql_alter TABLE spip_mots DROP KEY `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 7: sql_alter TABLE spip_mots DROP `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 8: sql_alter TABLE spip_rubriques DROP KEY `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 9: sql_alter TABLE spip_rubriques DROP `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 10: sql_alter TABLE spip_documents DROP `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 11: sql_alter TABLE spip_syndic DROP KEY `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 12: sql_alter TABLE spip_syndic DROP `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 13: sql_alter TABLE spip_forum DROP KEY `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 14: sql_alter TABLE spip_forum DROP `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 15: sql_alter TABLE spip_signatures DROP KEY `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 16: sql_alter TABLE spip_signatures DROP `idx`
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 17: spip_query DROP TABLE spip_index
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1943 etape 18: spip_query DROP TABLE spip_index_dico
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1943: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) meta version_installee: 1943 en 4 secondes
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1944 etape 0: sql_alter TABLE spip_documents CHANGE `taille` `taille` integer
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1944: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1944 etape 1: sql_alter TABLE spip_documents CHANGE `largeur` `largeur` integer
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1944: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1944 etape 2: sql_alter TABLE spip_documents CHANGE `hauteur` `hauteur` integer
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1944: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) meta version_installee: 1944 en 4 secondes
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 0: sql_alter TABLE spip_petitions CHANGE `email_unique` `email_unique` CHAR (3) DEFAULT '' NOT NULL
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 1: sql_alter TABLE spip_petitions CHANGE `site_obli` `site_obli` CHAR (3) DEFAULT '' NOT NULL
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 2: sql_alter TABLE spip_petitions CHANGE `site_unique` `site_unique` CHAR (3) DEFAULT '' NOT NULL
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 3: sql_alter TABLE spip_petitions CHANGE `message` `message` CHAR (3) DEFAULT '' NOT NULL
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 4: sql_alter TABLE spip_petitions CHANGE `texte` `texte` LONGTEXT DEFAULT '' NOT NULL
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 5: sql_alter TABLE spip_articles CHANGE `surtitre` `surtitre` text DEFAULT '' NOT NULL
+Feb 13 08:40:39 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:39 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 6: sql_alter TABLE spip_articles CHANGE `titre` `titre` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 7: sql_alter TABLE spip_articles CHANGE `soustitre` `soustitre` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 8: sql_alter TABLE spip_articles CHANGE `descriptif` `descriptif` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 9: sql_alter TABLE spip_articles CHANGE `chapo` `chapo` mediumtext DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 10: sql_alter TABLE spip_articles CHANGE `texte` `texte` longtext DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 11: sql_alter TABLE spip_articles CHANGE `ps` `ps` mediumtext DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 12: sql_alter TABLE spip_articles CHANGE `accepter_forum` `accepter_forum` CHAR(3) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 13: sql_alter TABLE spip_articles CHANGE `nom_site` `nom_site` tinytext DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 14: sql_alter TABLE spip_articles CHANGE `url_site` `url_site` VARCHAR(255) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 15: sql_alter TABLE spip_articles CHANGE `url_propre` `url_propre` VARCHAR(255) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 16: sql_alter TABLE spip_auteurs CHANGE `nom` `nom` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 17: sql_alter TABLE spip_auteurs CHANGE `bio` `bio` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 18: sql_alter TABLE spip_auteurs CHANGE `email` `email` tinytext DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 19: sql_alter TABLE spip_auteurs CHANGE `nom_site` `nom_site` tinytext DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 20: sql_alter TABLE spip_auteurs CHANGE `url_site` `url_site` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 21: sql_alter TABLE spip_auteurs CHANGE `pass` `pass` tinytext DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 22: sql_alter TABLE spip_auteurs CHANGE `low_sec` `low_sec` tinytext DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 23: sql_alter TABLE spip_auteurs CHANGE `pgp` `pgp` TEXT DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 24: sql_alter TABLE spip_auteurs CHANGE `htpass` `htpass` tinytext DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 25: sql_alter TABLE spip_breves CHANGE `titre` `titre` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 26: sql_alter TABLE spip_breves CHANGE `texte` `texte` longtext DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 27: sql_alter TABLE spip_breves CHANGE `lien_titre` `lien_titre` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 28: sql_alter TABLE spip_breves CHANGE `lien_url` `lien_url` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 29: sql_alter TABLE spip_messages CHANGE `titre` `titre` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 30: sql_alter TABLE spip_messages CHANGE `texte` `texte` longtext DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 31: sql_alter TABLE spip_messages CHANGE `type` `type` varchar(6) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 32: sql_alter TABLE spip_messages CHANGE `rv` `rv` varchar(3) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 33: sql_alter TABLE spip_mots CHANGE `titre` `titre` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 34: sql_alter TABLE spip_mots CHANGE `descriptif` `descriptif` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 35: sql_alter TABLE spip_mots CHANGE `texte` `texte` longtext DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 36: sql_alter TABLE spip_mots CHANGE `type` `type` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 37: sql_alter TABLE spip_mots CHANGE `url_propre` `url_propre` VARCHAR(255) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 38: sql_alter TABLE spip_groupes_mots CHANGE `titre` `titre` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 39: sql_alter TABLE spip_groupes_mots CHANGE `descriptif` `descriptif` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 40: sql_alter TABLE spip_groupes_mots CHANGE `texte` `texte` longtext DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 41: sql_alter TABLE spip_groupes_mots CHANGE `unseul` `unseul` varchar(3) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 42: sql_alter TABLE spip_groupes_mots CHANGE `obligatoire` `obligatoire` varchar(3) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 43: sql_alter TABLE spip_groupes_mots CHANGE `articles` `articles` varchar(3) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 44: sql_alter TABLE spip_groupes_mots CHANGE `breves` `breves` varchar(3) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 45: sql_alter TABLE spip_groupes_mots CHANGE `rubriques` `rubriques` varchar(3) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 46: sql_alter TABLE spip_groupes_mots CHANGE `syndic` `syndic` varchar(3) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 47: sql_alter TABLE spip_groupes_mots CHANGE `minirezo` `minirezo` varchar(3) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 48: sql_alter TABLE spip_groupes_mots CHANGE `comite` `comite` varchar(3) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 49: sql_alter TABLE spip_groupes_mots CHANGE `forum` `forum` varchar(3) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 50: sql_alter TABLE spip_rubriques CHANGE `titre` `titre` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 51: sql_alter TABLE spip_rubriques CHANGE `descriptif` `descriptif` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 52: sql_alter TABLE spip_rubriques CHANGE `texte` `texte` longtext DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 53: sql_alter TABLE spip_rubriques CHANGE `url_propre` `url_propre` VARCHAR(255) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 54: sql_alter TABLE spip_documents CHANGE `extension` `extension` VARCHAR(10) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 55: sql_alter TABLE spip_documents CHANGE `titre` `titre` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 56: sql_alter TABLE spip_documents CHANGE `date` `date` datetime DEFAULT '0000-00-00 00:00:00' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 57: sql_alter TABLE spip_documents CHANGE `descriptif` `descriptif` text DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 58: sql_alter TABLE spip_documents CHANGE `fichier` `fichier` varchar(255) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 59: sql_alter TABLE spip_types_documents CHANGE `extension` `extension` varchar(10) DEFAULT '' NOT NULL
+Feb 13 08:40:40 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:40 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 60: sql_alter TABLE spip_types_documents CHANGE `titre` `titre` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 61: sql_alter TABLE spip_types_documents CHANGE `descriptif` `descriptif` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 62: sql_alter TABLE spip_types_documents CHANGE `mime_type` `mime_type` varchar(100) DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 63: sql_alter TABLE spip_syndic CHANGE `nom_site` `nom_site` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 64: sql_alter TABLE spip_syndic CHANGE `url_site` `url_site` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 65: sql_alter TABLE spip_syndic CHANGE `url_syndic` `url_syndic` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 66: sql_alter TABLE spip_syndic CHANGE `descriptif` `descriptif` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 67: sql_alter TABLE spip_syndic CHANGE `url_propre` `url_propre` VARCHAR(255) DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 68: sql_alter TABLE spip_syndic CHANGE `syndication` `syndication` VARCHAR(3) DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 69: sql_alter TABLE spip_syndic_articles CHANGE `titre` `titre` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 70: sql_alter TABLE spip_syndic_articles CHANGE `url` `url` VARCHAR(255) DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 71: sql_alter TABLE spip_syndic_articles CHANGE `lesauteurs` `lesauteurs` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 72: sql_alter TABLE spip_syndic_articles CHANGE `descriptif` `descriptif` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 73: sql_alter TABLE spip_forum CHANGE `titre` `titre` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 74: sql_alter TABLE spip_forum CHANGE `texte` `texte` mediumtext DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 75: sql_alter TABLE spip_forum CHANGE `auteur` `auteur` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 76: sql_alter TABLE spip_forum CHANGE `email_auteur` `email_auteur` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 77: sql_alter TABLE spip_forum CHANGE `nom_site` `nom_site` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 78: sql_alter TABLE spip_forum CHANGE `url_site` `url_site` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 79: sql_alter TABLE spip_forum CHANGE `ip` `ip` varchar(16) DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 80: sql_alter TABLE spip_signatures CHANGE `nom_email` `nom_email` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 81: sql_alter TABLE spip_signatures CHANGE `ad_email` `ad_email` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 82: sql_alter TABLE spip_signatures CHANGE `nom_site` `nom_site` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 83: sql_alter TABLE spip_signatures CHANGE `url_site` `url_site` text DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1945 etape 84: sql_alter TABLE spip_signatures CHANGE `message` `message` mediumtext DEFAULT '' NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1945: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) meta version_installee: 1945 en 6 secondes
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1946 etape 0: sql_alter TABLE spip_forum DROP INDEX `id_parent`
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1946: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1946 etape 1: sql_alter TABLE spip_forum DROP INDEX `id_article`
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1946: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1946 etape 2: sql_alter TABLE spip_forum DROP INDEX `id_breve`
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1946: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1946 etape 3: sql_alter TABLE spip_forum DROP INDEX `id_syndic`
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1946: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1946 etape 4: sql_alter TABLE spip_forum DROP INDEX `id_rubrique`
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1946: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1946 etape 5: sql_alter TABLE spip_forum DROP INDEX `date_thread`
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1946: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1946 etape 6: sql_alter TABLE spip_forum DROP INDEX `statut`
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1946: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1946 etape 7: sql_alter TABLE spip_forum ADD INDEX `optimal` (`statut`,`id_parent`,`id_article`,`date_heure`,`id_breve`,`id_syndic`,`id_rubrique`)
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1946: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) meta version_installee: 1946 en 6 secondes
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1947 etape 0: sql_alter TABLE spip_articles DROP INDEX `url_site`
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1947: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1947 etape 1: sql_alter TABLE spip_articles DROP INDEX `date_modif`
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1947: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1947 etape 2: sql_alter TABLE spip_auteurs  DROP INDEX `lang`
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1947: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) meta version_installee: 1947 en 6 secondes
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1949 etape 0: sql_alter TABLE spip_versions DROP INDEX `date`
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1949: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1949 etape 1: sql_alter TABLE spip_versions DROP INDEX `id_auteur`
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1949: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) meta version_installee: 1949 en 6 secondes
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1950 etape 0: maj_1_950 1.926
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1950: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) meta version_installee: 1950 en 6 secondes
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1951 etape 0: sql_alter TABLE spip_versions CHANGE `id_version` `id_version` bigint(21) DEFAULT 0 NOT NULL
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1951: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) meta version_installee: 1951 en 6 secondes
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1952 etape 0: maj_1_952 
+Feb 13 08:40:41 41.249.135.145 (pid 15052) version_installee_maj_1952: ok
+Feb 13 08:40:41 41.249.135.145 (pid 15052) meta version_installee: 1952 en 6 secondes
+Feb 13 08:40:41 41.249.135.145 (pid 15052) maj meta version_installee_maj_1953 etape 0: upgrade_types_documents 
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_1953: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) meta version_installee: 1953 en 7 secondes
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_1954 etape 0: spip_query UPDATE spip_types_documents SET `inclus`='non' WHERE `extension`='psd'
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_1954: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_1954 etape 1: spip_query INSERT IGNORE INTO spip_types_documents (`extension`, `titre`) VALUES ('csv', 'CSV')
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_1954: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_1954 etape 2: spip_query UPDATE spip_types_documents SET `mime_type`='text/csv' WHERE `extension`='csv'
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_1954: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_1954 etape 3: spip_query INSERT IGNORE INTO spip_types_documents (`extension`, `titre`, `inclus`) VALUES ('mkv', 'Matroska Video', 'embed')
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_1954: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_1954 etape 4: spip_query UPDATE spip_types_documents SET `mime_type`='video/x-mkv' WHERE `extension`='mkv'
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_1954: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_1954 etape 5: spip_query INSERT IGNORE INTO spip_types_documents (`extension`, `titre`, `inclus`) VALUES ('mka', 'Matroska Audio', 'embed')
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_1954: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_1954 etape 6: spip_query UPDATE spip_types_documents SET `mime_type`='audio/x-mka' WHERE `extension`='mka'
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_1954: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_1954 etape 7: spip_query INSERT IGNORE INTO spip_types_documents (`extension`, `titre`) VALUES ('kml', 'Keyhole Markup Language')
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_1954: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_1954 etape 8: spip_query UPDATE spip_types_documents SET `mime_type`='application/vnd.google-earth.kml+xml' WHERE `extension`='kml'
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_1954: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_1954 etape 9: spip_query INSERT IGNORE INTO spip_types_documents (`extension`, `titre`) VALUES ('kmz', 'Google Earth Placemark File')
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_1954: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_1954 etape 10: spip_query UPDATE spip_types_documents SET `mime_type`='application/vnd.google-earth.kmz' WHERE `extension`='kmz'
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_1954: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) meta version_installee: 1954 en 7 secondes
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_1957 etape 0: sql_alter TABLE spip_mots CHANGE `id_groupe` `id_groupe` bigint(21) DEFAULT 0 NOT NULL
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_1957: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_1957 etape 1: sql_alter TABLE spip_documents CHANGE `mode` `mode` ENUM('vignette', 'image', 'document') DEFAULT 'document' NOT NULL
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_1957: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) meta version_installee: 1957 en 7 secondes
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_1958 etape 0: sql_alter TABLE spip_referers_articles DROP date
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_1958: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) meta version_installee: 1958 en 7 secondes
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_11042 etape 0: upgrade_types_documents 
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_11042: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) meta version_installee: 11042 en 7 secondes
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_11171 etape 0: spip_query UPDATE spip_types_documents SET upload='oui' WHERE upload IS NULL OR upload!='non'
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_11171: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) meta version_installee: 11171 en 7 secondes
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_11268 etape 0: maj_11268 
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_11268: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) meta version_installee: 11268 en 7 secondes
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_11276 etape 0: maj_11276 
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_11276: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) meta version_installee: 11276 en 7 secondes
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_11388 etape 0: maj_11388 
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_11388: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) meta version_installee: 11388 en 7 secondes
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_11431 etape 0: maj_11431 
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_11431: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) meta version_installee: 11431 en 7 secondes
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_11778 etape 0: maj_11778 
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_11778: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) meta version_installee: 11778 en 7 secondes
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_11790 etape 0: maj_11790 
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_11790: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) meta version_installee: 11790 en 7 secondes
+Feb 13 08:40:42 41.249.135.145 (pid 15052) meta version_installee: 11794 en 7 secondes
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_11961 etape 0: sql_alter TABLE spip_groupes_mots CHANGE `tables` tables_liees text DEFAULT '' NOT NULL AFTER obligatoire
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_11961: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_11961 etape 1: sql_alter TABLE spip_groupes_mots ADD tables_liees text DEFAULT '' NOT NULL AFTER obligatoire
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_11961: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_11961 etape 2: sql_update spip_groupes_mots,Array,articles REGEXP '.*'
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_11961: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_11961 etape 3: sql_update spip_groupes_mots,Array,articles='oui'
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_11961: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_11961 etape 4: sql_update spip_groupes_mots,Array,breves='oui'
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_11961: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_11961 etape 5: sql_update spip_groupes_mots,Array,rubriques='oui'
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_11961: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_11961 etape 6: sql_update spip_groupes_mots,Array,syndic='oui'
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_11961: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) meta version_installee: 11961 en 7 secondes
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12008 etape 0: sql_alter TABLE spip_documents_liens DROP PRIMARY KEY
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12008: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12008 etape 1: sql_alter TABLE spip_documents_liens ADD id_objet bigint(21) DEFAULT '0' NOT NULL AFTER id_document
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12008: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12008 etape 2: sql_alter TABLE spip_documents_liens ADD objet VARCHAR (25) DEFAULT '' NOT NULL AFTER id_objet
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12008: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12008 etape 3: sql_update spip_documents_liens,Array,id_article IS NOT NULL AND id_article>0
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12008: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12008 etape 4: sql_update spip_documents_liens,Array,id_rubrique IS NOT NULL AND id_rubrique>0
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12008: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12008 etape 5: sql_update spip_documents_liens,Array,id_breve IS NOT NULL AND id_breve>0
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12008: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12008 etape 6: sql_update spip_documents_liens,Array,id_auteur IS NOT NULL AND id_auteur>0
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12008: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12008 etape 7: sql_update spip_documents_liens,Array,id_forum IS NOT NULL AND id_forum>0
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12008: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12008 etape 8: sql_alter TABLE spip_documents_liens ADD PRIMARY KEY  (id_document,id_objet,objet)
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12008: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12008 etape 9: sql_alter TABLE spip_documents_liens DROP id_article
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12008: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12008 etape 10: sql_alter TABLE spip_documents_liens DROP id_rubrique
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12008: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12008 etape 11: sql_alter TABLE spip_documents_liens DROP id_breve
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12008: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12008 etape 12: sql_alter TABLE spip_documents_liens DROP id_auteur
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12008: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12008 etape 13: sql_alter TABLE spip_documents_liens DROP id_forum
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12008: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12008 etape 14: maj_12008 
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12008: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) meta version_installee: 12008 en 7 secondes
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12009 etape 0: sql_drop_table spip_documents_articles
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12009: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12009 etape 1: sql_drop_table spip_documents_breves
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12009: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12009 etape 2: sql_drop_table spip_documents_rubriques
+Feb 13 08:40:42 41.249.135.145 (pid 15052) version_installee_maj_12009: ok
+Feb 13 08:40:42 41.249.135.145 (pid 15052) maj meta version_installee_maj_12009 etape 3: sql_drop_table spip_documents_auteurs
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_12009: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_12009 etape 4: sql_drop_table spip_documents_syndic
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_12009: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) meta version_installee: 12009 en 8 secondes
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_12010 etape 0: sql_alter TABLE spip_groupes_mots DROP articles
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_12010: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_12010 etape 1: sql_alter TABLE spip_groupes_mots DROP breves
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_12010: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_12010 etape 2: sql_alter TABLE spip_groupes_mots DROP rubriques
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_12010: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_12010 etape 3: sql_alter TABLE spip_groupes_mots DROP syndic
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_12010: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) meta version_installee: 12010 en 8 secondes
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_13135 etape 0: maj_13135 
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_13135: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) meta version_installee: 13135 en 8 secondes
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_13333 etape 0: upgrade_types_documents 
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_13333: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) meta version_installee: 13333 en 8 secondes
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_13833 etape 0: sql_alter TABLE spip_documents_liens ADD INDEX objet(id_objet,objet)
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_13833: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) meta version_installee: 13833 en 8 secondes
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_13904 etape 0: sql_alter TABLE spip_auteurs ADD webmestre varchar(3)  DEFAULT 'non' NOT NULL
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_13904: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_13904 etape 1: sql_update spip_auteurs,Array,((id_auteur  IN (8)))
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_13904: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) meta version_installee: 13904 en 8 secondes
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_13929 etape 0: sql_update spip_syndic,Array,syndication LIKE '\'%'
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_13929: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) meta version_installee: 13929 en 8 secondes
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_14558 etape 0: upgrade_types_documents 
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_14558: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) meta version_installee: 14558 en 8 secondes
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_14559 etape 0: sql_alter TABLE spip_auteurs ADD webmestre varchar(3)  DEFAULT 'non' NOT NULL
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_14559: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_14559 etape 1: sql_update spip_auteurs,Array,((id_auteur  IN (8)))
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_14559: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) meta version_installee: 14559 en 8 secondes
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_15676 etape 0: upgrade_types_documents 
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_15676: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) meta version_installee: 15676 en 8 secondes
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_15827 etape 0: upgrade_types_documents 
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_15827: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) meta version_installee: 15827 en 8 secondes
+Feb 13 08:40:43 41.249.135.145 (pid 15052) maj meta version_installee_maj_15828 etape 0: sql_alter TABLE spip_forum CHANGE `ip` `ip` VARCHAR(40) DEFAULT '' NOT NULL
+Feb 13 08:40:43 41.249.135.145 (pid 15052) version_installee_maj_15828: ok
+Feb 13 08:40:43 41.249.135.145 (pid 15052) meta version_installee: 15828 en 8 secondes
+Feb 13 08:40:43 41.249.135.145 (pid 15052) MAJ terminee. version_installee: 15828

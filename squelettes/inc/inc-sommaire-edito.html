@@ -1,0 +1,35 @@
+   [(#REM) 
+   		- On affiche le TITRE, le LOGO et le DESCRIPTIF (sinon le TEXTE) de la premiere rubrique (par num titre ou titre) affecte du mot-cle "Editorial", et ce, pour chaque langue,
+   		- Puis on affiche le TITRE, le LOGO et le DESCRIPTIF (sinon le TEXTE) des 3 premiers articles (par num titre ou titre) affecte du mot-cle "Editorial", et ce, pour chaque langue, 
+		- sinon le DESCRIPTIF du SITE, suivi des articles 'Editorial'
+		- sinon, le DESCRIPTIF de la premiere rubrique racine (par num titre), pour chaque langue, suivi des articles 'Editorial'
+		- sinon un texte statique de Bienvenue ! (inc-install.html)
+	]
+
+	<B_articles_edito2>
+	<BOUCLE_articles_edito2(ARTICLES) {lang?} {par date} {inverse} {titre_mot=Editorial} {0,10}>
+	  <br class="nettoyeur" />
+      [<h3 class="edito-titre"><a href="#URL_ARTICLE">(#TITRE|supprimer_numero)</a></h3>]
+	  [<div class="logo-liste-art">
+		(#LOGO_ARTICLE_RUBRIQUE|#URL_ARTICLE||image_reduire{150,0})
+	  </div>]
+
+	  [<div class="chapo">(#DESCRIPTIF|?{
+		[<div class="#EDIT{descriptif}">(#DESCRIPTIF)</div>]
+		,
+      	[(#CHAPO|?{
+      	[<div class="#EDIT{chapo}">(#CHAPO)</div>]
+      		,
+      	[<div class="#EDIT{texte}">(#TEXTE|couper{300})</div>]
+		})]
+	})	<div class="suite"><a href="#URL_ARTICLE" title="...<:suite:> : [(#TITRE|supprimer_numero|attribut_html)]" ><:suite:></a></div>
+	</div><!-- fin chapo -->]
+
+	</BOUCLE_articles_edito2>
+	</B_articles_edito2>
+
+	</B_rub_first>
+	<INCLURE{fond=inc/inc-install}{lang}>
+	<//B_rub_first>
+	<//B_rubriques_edito>
+    

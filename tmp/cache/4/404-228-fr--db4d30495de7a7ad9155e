@@ -1,0 +1,88 @@
+a:11:{s:5:"texte";s:3678:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Erreur 404 - Forum des Alternatives Maroc</title>
+	<?php echo recuperer_fond( 'inc/inc-meta', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/404.html','html_ada45d03631a85b05968f11a77fddfc8','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/404.html','html_ada45d03631a85b05968f11a77fddfc8','',9,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</head>
+<body dir="ltr">
+<div id="page">
+
+<!-- *****************************************************************
+	Entete et menu principal (haut et droite)
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/404.html','html_ada45d03631a85b05968f11a77fddfc8','',19,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<div id="principal">
+	
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+	<div id="bloc-contenu">		
+		<div class="cartouche">
+			<h1 class="titre-article">Erreur 404</h1>
+      <h2>Erreur dans la requ&ecirc;te : Aucun r&eacute;sultat.</h2>
+      
+		</div><!-- cartouche -->
+		<div class="chapo">
+			Le chemin que vous avez choisi
+			ne semble pas valide. Veuillez retourner &agrave; la page pr&eacute;c&eacute;dente et v&eacute;rifier les informations fournies.
+		</div>
+		<div class="texte">
+
+			<h2>Choisir</h2> 
+			<ul>
+				<li>
+					<a href="javascript:history.back()">page pr&eacute;c&eacute;dente</a> 
+				</li>
+				<li>
+					<a href="http://www.forumalternatives.org/spip.php?page=recherche">Rechercher</a> 
+				</li>
+				<li>
+					<a href="http://www.forumalternatives.org">Accueil du site</a> 
+				</li>
+				<li>
+					<a href="http://www.forumalternatives.org/spip.php?page=plan">Plan du site</a> 
+				</li>
+			</ul>
+		</div>
+	</div><!-- bloc-contenu -->
+
+
+<!-- *****************************************************************
+	Menus contextuels (gauche)
+	Contextual menus (left) 
+    ************************************************************* -->
+	<div id="encart">	
+
+<?php echo recuperer_fond( 'inc/inc-breves', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/404.html','html_ada45d03631a85b05968f11a77fddfc8','',64,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-syndic', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/404.html','html_ada45d03631a85b05968f11a77fddfc8','',66,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+    <!-- Inscription au site -->
+    
+
+	</div><!-- encart -->
+<?php echo recuperer_fond( 'inc/inc-menu', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/404.html','html_ada45d03631a85b05968f11a77fddfc8','',72,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- principal -->
+
+<!-- *****************************************************************
+	Pied-de-page (bas)
+	Footer (bottom) 
+    ************************************************************* -->
+<?php echo recuperer_fond( 'inc/inc-bas', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/404.html','html_ada45d03631a85b05968f11a77fddfc8','',79,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>";s:9:"squelette";s:37:"html_ada45d03631a85b05968f11a77fddfc8";s:6:"source";s:30:"plugins/auto/ahuntsic/404.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"4/404-228-fr--db4d30495de7a7ad9155e";}s:7:"entetes";a:3:{s:13:"Cache-Control";s:35:"no-store, no-cache, must-revalidate";s:6:"Pragma";s:8:"no-cache";s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:10:"id_article";s:3:"228";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2014-12-05 02:35:06";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-05 02:35:06";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417764906;s:2:"gz";b:0;}

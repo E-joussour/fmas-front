@@ -1,0 +1,154 @@
+a:11:{s:5:"texte";s:8268:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>[HaCkeD By GaSSpEr] : En r&eacute;sum&eacute;</title>
+	<?php echo recuperer_fond( 'inc/inc-meta', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/statistiques.html','html_fe24f391ae1f0eee52b30e473dee5d41','',6,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/statistiques.html','html_fe24f391ae1f0eee52b30e473dee5d41','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</head>
+
+<body dir="ltr" class="fr resume">
+<div id="page">
+
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/statistiques.html','html_fe24f391ae1f0eee52b30e473dee5d41','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+	<div id="bloc-contenu">
+		<div class="cartouche">
+			<div class="surtitre">Statistiques du site</div>
+		</div><!-- cartouche -->
+			
+    <div class="bande-stats">
+                                                                                                                                                             
+        <b>157 Articles</b>
+       
+        | <b>7 Nouvelles br&egrave;ves</b>
+                 
+        | <b>17 sites</b>
+     
+        | <b>5 auteur(s)&nbsp;: </b>
+        | <b>Visiteurs <?php echo recuperer_fond( 'inc/inc-affvisit', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/statistiques.html','html_fe24f391ae1f0eee52b30e473dee5d41','',38,$GLOBALS['spip_lang'])), _request("connect"));
+?></b>
+    </div>
+
+		<!-- Articles les plus populaires -->
+			<h1 class="titre-article">Articles les plus populaires</h1>
+		
+			<h3><a href="spip.php?article200" > Communiqué   Le Forum des Alternatives Maroc, en collaboration avec l’Observatoire Marocain des Libertés publiques, organisent une conférence de presse sur les libertés de rassemblement et de manifestation au Maroc   Le 06 mai 2014 à 10h00,  à l’Hôtel Golden Tulip Farah, 160 Avenue F.A.R Casablanca</a></h3>
+			<div class="detail">
+				<span class="date">lundi 5 mai 2014</span> 
+				<span class="auteurs">par  <span class="vcard author"><a class="url fn spip_in" href="spip.php?auteur1">FMAS</a></span></span>				
+				Popularit&eacute;&nbsp;: <span class="important">100</span> %
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article191" >Déclaration du Comité de Suivi du Forum Social Maghrébin sur la tenue du Forum Social Mondial 2013 à Tunis</a></h3>
+			<div class="detail">
+				<span class="date">vendredi 12 octobre 2012</span> 
+				<span class="auteurs">par  <span class="vcard author"><a class="url fn spip_in" href="spip.php?auteur1">FMAS</a></span></span>				
+				Popularit&eacute;&nbsp;: <span class="important">83</span> %
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article165" >Financement des associations marocaines&nbsp;: Kamal Lahbib réplique au ministre PJD Habib Choubani [Interview] </a></h3>
+			<div class="detail">
+				<span class="date">mardi 10 avril 2012</span> 
+				<span class="auteurs">par  <span class="vcard author"><a class="url fn spip_in" href="spip.php?auteur1">FMAS</a></span></span>				
+				Popularit&eacute;&nbsp;: <span class="important">56</span> %
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article104" >Collectif pour l&#8217;éradication du travail des "petites bonnes"</a></h3>
+			<div class="detail">
+				<span class="date">jeudi 23 septembre 2010</span> 
+								
+				Popularit&eacute;&nbsp;: <span class="important">30</span> %
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article198" >Interdiction du Forum maghrébin pour la lutte contre le chômage et le travail précaire&nbsp;: Arrestations, expulsions</a></h3>
+			<div class="detail">
+				<span class="date">lundi 25 f&eacute;vrier 2013</span> 
+				<span class="auteurs">par  <span class="vcard author"><a class="url fn spip_in" href="spip.php?auteur1">FMAS</a></span></span>				
+				Popularit&eacute;&nbsp;: <span class="important">22</span> %
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article190" >Forum social des migrants&nbsp;: déclaration d&#8217;Oujda du Forum social Maghrébin</a></h3>
+			<div class="detail">
+				<span class="date">vendredi 12 octobre 2012</span> 
+				<span class="auteurs">par  <span class="vcard author"><a class="url fn spip_in" href="spip.php?auteur1">FMAS</a></span></span>				
+				Popularit&eacute;&nbsp;: <span class="important">18</span> %
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article28" >Lancement IFAD</a></h3>
+			<div class="detail">
+				<span class="date">jeudi 4 janvier 2007</span> 
+								
+				Popularit&eacute;&nbsp;: <span class="important">18</span> %
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article117" >Forum Mondial de l&#8217;Education étendu au Maroc </a></h3>
+			<div class="detail">
+				<span class="date">jeudi 28 octobre 2010</span> 
+								
+				Popularit&eacute;&nbsp;: <span class="important">11</span> %
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article187" >Seconde édition du Forum Thématique sur l’immigration les 6 et 7 octobre 2012 à Oujda</a></h3>
+			<div class="detail">
+				<span class="date">mardi 9 octobre 2012</span> 
+				<span class="auteurs">par  <span class="vcard author"><a class="url fn spip_in" href="spip.php?auteur1">FMAS</a></span></span>				
+				Popularit&eacute;&nbsp;: <span class="important">11</span> %
+			</div><!-- detail -->
+			<br />
+		
+			<h3><a href="spip.php?article183" >Dossier spécial "Assemblée préparatoire du Forum social Mondial - Tunis 2013"</a></h3>
+			<div class="detail">
+				<span class="date">mercredi 29 ao&ucirc;t 2012</span> 
+				<span class="auteurs">par  <span class="vcard author"><a class="url fn spip_in" href="spip.php?auteur1">FMAS</a></span></span>				
+				Popularit&eacute;&nbsp;: <span class="important">11</span> %
+			</div><!-- detail -->
+			<br />
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+  <div id="encart">  
+<?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/statistiques.html','html_fe24f391ae1f0eee52b30e473dee5d41','',59,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-breves', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/statistiques.html','html_fe24f391ae1f0eee52b30e473dee5d41','',61,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-syndic', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/statistiques.html','html_fe24f391ae1f0eee52b30e473dee5d41','',63,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+ <?php echo recuperer_fond( 'inc/inc-forums', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/statistiques.html','html_fe24f391ae1f0eee52b30e473dee5d41','',65,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+ 
+  </div><!-- encart -->
+<?php echo recuperer_fond( 'inc/inc-menu', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/statistiques.html','html_fe24f391ae1f0eee52b30e473dee5d41','',68,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+<?php echo recuperer_fond( 'inc/inc-bas', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/statistiques.html','html_fe24f391ae1f0eee52b30e473dee5d41','',69,$GLOBALS['spip_lang'])), _request("connect"));
+?></div><!-- page -->
+
+</body>
+</html>  ";s:9:"squelette";s:37:"html_fe24f391ae1f0eee52b30e473dee5d41";s:6:"source";s:39:"plugins/auto/ahuntsic/statistiques.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"c/sta-sta-fr--8541c79eef64f4c0e4756";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"page";s:12:"statistiques";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2014-12-07 20:36:51";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 20:36:51";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1418002611;s:2:"gz";b:0;}

@@ -1,0 +1,24 @@
+a:11:{s:5:"texte";s:380:"<?xml 
+version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+
+<channel xml:lang="fr">
+	<title>Forum des Alternatives Maroc</title>
+	<link>http://www.forumalternatives.org/</link>
+	
+	<language>fr</language>
+	<generator>SPIP - www.spip.net</generator>
+
+
+
+
+
+
+
+</channel>
+
+</rss>
+";s:9:"squelette";s:37:"html_6e2efe63dd9202a6371932853505f2fb";s:6:"source";s:28:"squelettes-dist/backend.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"2/bac-bac-35-fr--aaee6e34f54b27af1b";}s:7:"entetes";a:2:{s:12:"Content-Type";s:23:"text/xml; charset=utf-8";s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"page";s:7:"backend";s:11:"id_rubrique";s:2:"35";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2014-12-07 14:52:42";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 14:52:42";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417981962;s:2:"gz";b:0;}

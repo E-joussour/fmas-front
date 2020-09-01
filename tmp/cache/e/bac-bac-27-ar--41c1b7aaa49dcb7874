@@ -1,0 +1,64 @@
+a:11:{s:5:"texte";s:2771:"<?xml 
+version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+
+<channel xml:lang="ar">
+	<title>Forum des Alternatives Maroc</title>
+	<link>http://www.forumalternatives.org/</link>
+	
+	<language>ar</language>
+	<generator>SPIP - www.spip.net</generator>
+
+
+
+
+<?php echo recuperer_fond( 'inc-rss-item', array('id_article' => '177',
+	'lang' => 'ar'), array("compil"=>array('squelettes-dist/backend.html','html_6e2efe63dd9202a6371932853505f2fb','',25,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc-rss-item', array('id_article' => '72',
+	'lang' => 'ar'), array("compil"=>array('squelettes-dist/backend.html','html_6e2efe63dd9202a6371932853505f2fb','',25,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc-rss-item', array('id_article' => '66',
+	'lang' => 'ar'), array("compil"=>array('squelettes-dist/backend.html','html_6e2efe63dd9202a6371932853505f2fb','',25,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc-rss-item', array('id_article' => '65',
+	'lang' => 'ar'), array("compil"=>array('squelettes-dist/backend.html','html_6e2efe63dd9202a6371932853505f2fb','',25,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc-rss-item', array('id_article' => '64',
+	'lang' => 'ar'), array("compil"=>array('squelettes-dist/backend.html','html_6e2efe63dd9202a6371932853505f2fb','',25,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc-rss-item', array('id_article' => '63',
+	'lang' => 'ar'), array("compil"=>array('squelettes-dist/backend.html','html_6e2efe63dd9202a6371932853505f2fb','',25,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc-rss-item', array('id_article' => '62',
+	'lang' => 'ar'), array("compil"=>array('squelettes-dist/backend.html','html_6e2efe63dd9202a6371932853505f2fb','',25,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc-rss-item', array('id_article' => '61',
+	'lang' => 'ar'), array("compil"=>array('squelettes-dist/backend.html','html_6e2efe63dd9202a6371932853505f2fb','',25,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc-rss-item', array('id_article' => '60',
+	'lang' => 'ar'), array("compil"=>array('squelettes-dist/backend.html','html_6e2efe63dd9202a6371932853505f2fb','',25,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc-rss-item', array('id_article' => '56',
+	'lang' => 'ar'), array("compil"=>array('squelettes-dist/backend.html','html_6e2efe63dd9202a6371932853505f2fb','',25,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+
+
+</channel>
+
+</rss>
+";s:9:"squelette";s:37:"html_6e2efe63dd9202a6371932853505f2fb";s:6:"source";s:28:"squelettes-dist/backend.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"e/bac-bac-27-ar--41c1b7aaa49dcb7874";}s:7:"entetes";a:2:{s:12:"Content-Type";s:23:"text/xml; charset=utf-8";s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"page";s:7:"backend";s:11:"id_rubrique";s:2:"27";s:4:"lang";s:2:"ar";s:4:"date";s:19:"2014-12-07 17:26:54";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 17:26:54";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417991214;s:2:"gz";b:0;}

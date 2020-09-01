@@ -1,0 +1,1665 @@
+<body>
+<div><h1>SPIP kurulumu</h1>
+<h2>install0/Erişim haklarını ayarlamak</h2>
+
+<h3 class="spip">Ön bilgi: Erişim haklarını ayarlamak</h3>
+
+<p>SPIP dosyalarını Ftp ile kendi hizmet biriminize yüklediğinizde bazı <strong>dizinler</strong> doğru biçimde yapılandırılmamış olabilir: bu dizinlere her zaman kullandığınız ftp programı ile müdahale etmeniz ve ayarları değiştirmeniz gerekir.</p>
+
+<p>Şu dizinlerin «erişim haklarını düzeltmeniz» 
+gerekir:
+<br />- &nbsp;<strong>/CACHE</strong>
+<br />- &nbsp;<strong>/IMG</strong>
+<br />- &nbsp;<strong>/ecrire</strong>
+<br />- &nbsp;<strong>/ecrire/data</strong></p>
+
+<p>(«kullanıcı») tipi ftp programlarının çalışması faklıdır ama genellikle yordam şöyledir:</p>
+
+<p>- &nbsp;«erişim haklarını» değiştirmek istediğiniz dizini seçin;</p>
+
+<p>- &nbsp;Ftp programınızda «erişim haklarını <i>değiştirmek</i> veya <i>düzeltmek</i>)» komutunu bulun;</p>
+
+<p>- &nbsp;eğer bu komut grafik bir arayüz biçimindeyse, 
+«Diğer» (veya «Tüm kullanıcılar») isimli kullanıcılar için «Yazma» kutusunu işaretleyin:</p>
+
+<CENTER><img src="./?exec=aide_index&amp;img=0:AIDE-fr-install0.gif" alt=" "  
+border="0">
+</CENTER>
+
+<p>- &nbsp;eğer bu değişiklik «metin» biçimindeyse, sayısal yapılandırma  «777»dir.</p>
+
+<p>Kurulum sisteminin belirttiği her bir dizin için bu işlemi yaptıktan sonra sayfayı yeniden yükleyin, yordam otomatik olarak kaldığı yerden devam edecektir.</p>
+
+<h2>install1/MySQL bağlantınız</h2>
+
+<h3 class="spip">MySQL bağlantınız</h3>
+
+<p>Bu aşama SPIP&#8217;in MySQL hizmet birimine bağlanması için gereken bilgilerin belirtilmesidir.</p>
+
+<p>- &nbsp;<i>Veritabanının adresi:</i> servis sağlayıcınızın seçimleri doğrultusunda bu bilgi sadece «localhost» veya sizin sitenizin adresi («<a href="http://www.sitem.org»" class='spip_url spip_out' rel='nofollow external' target="_blank">www.sitem.org»</a>) olabilir.</p>
+
+<p>- &nbsp;<i>Bağlantı/Kullanıcı ismi:</i> genellikle bu isim Ftp ile dosya yollarken kullandığınız isimdir.</p>
+
+<p>- &nbsp;<i>Bağlantı şifresi:</i> genellikle bu şifre siteye Ftp ile erişim için kullandığınız şifredir.</p>
+
+<p>- &nbsp;Bu bilgiler uydurulamaz: eğer bu bilgileri bilmiyorsanız servis sağlayıcınız bunları size vermemiş demektir. O zaman: bu 3 bilgiye sahip değilseniz devam edemezsiniz.</p>
+
+<p>- &nbsp;Bu bilgiler <strong>sitenizin barındırma firması tarafından</strong> sağlanacaktır: bunları elde etmek için, barındırma firması ile direkt temasa geçmelisiniz (bu bilgileri SPIP geliştirme ekibinden istemeyin, bilmiyoruz!). Bazı servis sğlayıcılar bu bilgileri çevrimiçi olarak bir kullanım kılavuzu ile bildiriyorlar.</p>
+
+<p>- &nbsp;Ayrıca unutmayın ki, çoğunlukla MySQL erişiminizi açtırmak için servis sağlayıcınızdan bunu aktive etmesini <strong>istemeniz</strong> gerekir veya bu işlemi kendi başınıza yapmanız gerekir. MySQL veritabanı desteği verdiğini söyleyen çoğu servis sağlayıcı sitenizin açılışında bu bağlantıyı ektive etmez; genellikle (bu servis sağlayıcıda hesabınız açıldıktan sonra) sizin bir adım daha atmanız gerekir. Bu durumda, MySQL bağlantınızı nasıl <i>aktive</i> edeceğinizi öğrenmek için servis sağlayıcınızın dokümantasyonunu okuyun.  (Burada da SPIp ekibi size yardım edemez.)</p>
+
+<h2>install2/Veritabanınızın seçimi</h2>
+
+<h3 class="spip">Veritabanınızın seçimi</h3>
+
+<p>- &nbsp;Servis sağlayıcınız tarafından size atanan veritabanının <i>ismini</i> belirtmek zorundasınız. Bu bilgi servis sağlayıcınız tarafından verilecektir: eğer bilmiyorsanız servis sağlayıcınza sorun veya çevrimiçi dokümantasyonu inceleyin (SPIP geliştirme ekibine sormanız bir işe yaramaz, bu bilgiye sahip değiliz).</p>
+
+<p>- &nbsp;Sıklıkla, bu <i>kullanıcı ismi</i> bilgisi sizin siteye bağlanmak için kullandığınız isimdir.</p>
+
+<p>- &nbsp;İlk olasılık (sıklıkla): bir hesap listesi görüntülenir  (servis sağlayıcı tarafından seçilen konfigürasyona bağlı olarak bazen biraz uzunca bir listedir). Belirtilen hesaplar içinde sadece bir tanesi sizinkine uyar, bu hesabı seçmeniz ve bir sonraki aşamaya geçmek için onu geçerli kılmanız yeterlidir.</p>
+
+<p>- &nbsp;İkinci olasılık: sizin hesabınıza karşı düşen tek bir hesap görüntülenir (servis sağlayıcınız, sistemini sadece sizin hesabınız otomatik olarak görüntülenecek biçimde konfigüre etmiştir). Bu durumda yapmanız gerekn son derece basittir: bu hesabı seçin ve geçerli kılın .</p>
+
+<p>- &nbsp;Üçüncü olasılık (genellikle profesyoneller için verilen ve yüksek haklara sahip olduğunuz servislerde): kendi veritabanınızı kendiniz <i>yaratmalısınız</i>. Bu durumda (yukarıda belirtilen hesap listesinde bulunmayan) bir hesap seçmelisiniz ve «Yeni bir veritabanı yarat» uyarısından sonra istediğiniz ismi belirtmelisiniz.</p>
+
+<p>- &nbsp;Son olasılık (başarısızlık): hesabınız görüntülenen listede yoktur ve siz de yeni bir hesap yaratamıyorsunuzdur. Bu, oldukça az rastlanan bir durumdur: bu demektir ki servis sağlayıcınız sizin için bir erişim hesabı yaratmış ama bir hesap oluşturmayı unutmuş. Servis sağlayıcınıza direkt olarak sormaktan başka çareniz yoktur.</p>
+
+<h2>install5/Kişisel bilgiler</h2>
+
+<h3 class="spip">Kişisel bilgiler</h3>
+
+<p>Bu aşama oldukça basittir ama dikkatle gerçekleştirilmelidir. Aslında, kendi sitenize bağlantı bilgilerini bu aşama belirler! Bu aşamayı çok hızlı geçerseniz bağlanamama riski doğabilir...</p>
+
+<p>Sitenizin kurulumu bittiğinde bu bilgileri değiştirebileceğinizi unutmayın.</p>
+
+<p>- &nbsp;<i>Kamu (Halka açık) kimliğiniz:</i> makalelerinizde imza olarak görünecek bilgi.</p>
+
+<p>- &nbsp;<i>Bağlantı tanımlayıcılarınız:</i> bunlar kendi SPIP sisteminize bağlanmak üzere <strong>sizin seçtiğiniz</strong> bilgilerdir. Bu tanımlayıcıların servis sağlayıcının Ftp bağlantınız için verdikleriyle aynı olması gerekmez. Tam tersine, kendi SPIP bağlantınız için <i>biz size kesinlikle aynı tanımlayıcıları kullanmamanızı salık veriyoruz</i>  kullandığınız (ve özgürce seçtiğiniz) tanımlayıcılar  FTP bağlantınız için kullandığınız (ve servis sağlayıcınız tarafından empoze edilen) tanımlayıcılardan tamamen farklı olmalıdır.</p>
+
+<h2>ftp_auth/FTP ile kimlik kontrolü</h2>
+
+<h3 class="spip">FTP ile kimlik kontrolü</h3>
+
+<p>SPIP&#8217;in bazı işlevleri veritabanının yapısını ve içerğini  direkt olarak etkiler (özellikle: veritabanının güncellenmesi, yedeklenmesi ve geri yüklenmesi...). Çok hassas olan bu işlevler için siteye Ftp ile erişim hakkı olan bazı kişilere erişim sağlamak üzere kimlik kontrolü yordamı eklenmişti (genellikle bir sitede bir çok yönetici olabilir ama Ftp erişimi bir sadece sitenin ana yöneticisine verilmiştir).</p>
+
+<p>Bu işlevleri kullanmak için eşzamanlı olarak şunları yapmalısınız:</p>
+
+<UL><LI>her zamanki gezgininizi kullanarak web üzerinden bağlanın; işlemi başlattığınızda SPIP size «admin_<i>xxxxx</i>» tipinde bir isim belirtir, bunu kopyalamalısınız;</LI>
+<LI>sitenizin hizmet birimine Ftp ile bağlanın; burada  <TT>/ecrire/data</TT> dizininde «admin_<i>xxxxx</i>» isimli bir dosya (veya boş bir dizin) yaratın;</LI>
+<LI>bu dosya veya dizin yaratıldığında, web gezgininize dönün ve sayfayı yeniden yükleyin. Ftp ile kimlik kontrolü hemen yapılacak ve istenen işlem başlatılacaktır.</LI>
+</UL><h2>erreur_mysql/Bir iskelet problemi mi ?</h2>
+
+<h3 class="spip">Bir iskelet problemi mi?</h3>
+
+<p>SPIP bir MySQL veritabanıyla haberleşirken bir iletişim hatasıyla karşılaştığında başarısız olan isteği ve veritabanının yolladığı (kırmızı renkteki) hata mesajını görüntüler.</p>
+
+<p>Sorunun kaynağı şunlar olabilir:
+<br />- &nbsp;eğer bir iskeleti değiştirmekteyseniz iskelet tanımınız;
+<br />- &nbsp;bir veritabanı arızası.</p>
+
+<p>Örneğin, <font color='red'><b>
+<br /><code class='spip_code' dir='ltr'>&gt; Unknown column 'articles.chapi' in 'where clause'</code>
+</b></font> tipinde bir mesaj döngünün öngörülmeyen bir seçim kriterini çağırdığını (<code class='spip_code' dir='ltr'>chapi</code>) belirtiyor.</p>
+
+<p>Ama, <font color='red'><b>
+<br /><code class='spip_code' dir='ltr'>&gt; Can't open file: 'spip_articles.MYD'</code></b></font>
+tipinde bir mesaj MySQL veritabanının kendisinde büyük bir sorun olduğunu belirtiyor : bu durumda servis sağlayıcınızı arayıp kendi kurulumunu gözden geçirmesini veya sizin veritabanınızı tamir etmesini istemelisiniz. Eğer MySQL&#8217;in son sürümlerinden birini kullanıyorsanız (3.23.14&#8217;den itibaren), siz de <a href="http://www.spip.net/ecrire/?exec=admin_repair" target="_blank" target="_blank"> veritabanınızı otomatik olarak tamir etmeyi deneyebilirsiniz</a>.</p>
+
+<h1>Makaleler</h1>
+<h2>raccourcis/Kısa yollar</h2>
+
+
+<p><strong>SPIP ile yayınlanan dokümanların sayfa düzeninin yapılmasını kolaylaştırmak için sistem bir kaç «SPIP kısayolu» içerir. Bu kısayollar:
+<br />- &nbsp;HTML bilmeyen kullanıcılar tarafından kullanılmasını kolaylaştırır;
+<br />- &nbsp;otomatik sayfa düzeni yönetimini kolaylaştırır.</strong></p>
+
+<p>Bunun sonucu olarak, siz yine de HTML kodlarını dokümanlarınızda kullanabilirsiniz ama biz size bu (az sayıdaki) kısayolları kullanmanızı tavsiye ediyoruz. Bunlar akılda tutulması kolay ve sistemin bir çok işlemi otomatik yapmasını sağlayan kısayollardır.</strong></p>
+
+<p>&nbsp;</p>
+
+<h3 class="spip">Basit SPIP kısayolları</h3>
+
+<p>İlk olarak burada en basit ve en sık kullanılan metinsel kısayolları tanıtacağız. Metinlerinin biçimlendirilmesini daha rafine biçimde yapmak isteyen kullanıcılar için bu kısayolların daha karmaşık uyarlamalarını da vereceğiz.</p>
+
+<p><i>N.B.</i> Basit kısayollar zaten çoğu ihtiyaca cevap verirler ve e-posta yazıyormuşçasına kolay bir biçimde çevrimiçi metin yayınlamaya olanak tanırlar.</p>
+
+<p>- &nbsp;<strong>Otomatik fransızca metin yazımı</strong></p>
+
+<p>SPIP otomatik olarak temel fransızca kurallarına uyar - böylece «:», «;», «!», «?»&nbsp;-, karakterlerinin önüne ayrılamaz boşluklar eklenmiş olur ve «fransız tipi tırnakların» önüne ve arkasına da birer ayrılamaz boşluk ekler.</p>
+
+<p>(Not: bu işlev sadece ana dil fransızca olarak ayarladığında etkinleşir.)</p>
+
+<p>- &nbsp;<strong>Paragraf oluşturmak</strong></p>
+
+<p>Paragraf oluşturmak için bir satır boşluk bırakmak yeterlidir, sanki e-postalarda paragrafları ayırmak istermiş gibi (bir satır «atlanır»).</p>
+
+<p>Basitçe iki paragrafı ayırmadan «satır başına gitmek» yani paragrafları basit bir boş satırla ayırmak paragraf değişikliğine yetmez (bu, satır başı yapılmasını bile sağlamaz).</p>
+
+<p>Görünümü değiştirmeden peşpeşe bir sürü boş satır bırakabilirsiniz.</p>
+
+<p>- &nbsp;<strong>Liste ve numaralı liste oluşturmak</strong></p>
+
+<p>SPIP&#8217;te e-postalarda olduğu gibi liste oluşturulabilir: il satır başına gelmek ve yeni satıra bir tire ile başlamak yeter («-»).</p>
+
+<p>Not: burada basit bir satır başı yeter (aynı paragrafta numaralandırma yapılabilir); ama eğer tire ile başlayan satırdan önce satır atlanırsa numaralardan önce boş bir staır oluşur.</p>
+
+<p>Örneğin,</p>
+
+<form action=''  method='get'><div>
+<input type='hidden' name='exec' value='' />
+<textarea readonly='readonly' cols='40' rows='7' class='spip_cadre' dir='ltr'>- Qu'est-ce que cela peut faire que je lutte pour la mauvaise cause 
+puisque je suis de bonne foi?
+- Et qu'est-ce que ça peut faire que je sois de mauvaise foi 
+puisque c'est pour la bonne cause. (Jacques 
+Prévert)</textarea></div></form>
+
+
+<p>satırları şöyle görünecektir:</p>
+
+<blockquote class="spip">
+
+<p>
+<br />- &nbsp;Qu&#8217;est-ce que cela peut faire que je lutte pour la mauvaise cause puisque je suis de bonne foi?
+<br />- &nbsp;Et qu&#8217;est-ce que ça peut faire que je sois de mauvaise foi
+puisque c&#8217;est pour la bonne cause. (Jacques Prévert)</p>
+
+</blockquote>
+<div align='right'><a href='#listes'>listeler hakkında daha fazla bilgi</a></div>
+
+<p>- &nbsp;<strong>Koyu ve italik</strong></p>
+
+<p>Bir metni <i>italik</i> göstermek için onu tek paragraf işareti içine almak yeterlidir: «<TT>...metin {italik} metin...</TT>».</p>
+
+<p>Bir metni <strong>koyu</strong> göstermek için onu çift paragraf işareti içine almak gerekir: «<TT>...metin {{koyu}} 
+metin...</TT>».</p>
+
+<p>- &nbsp;<strong>Ara-başlıklar</strong></p>
+
+<p>Ara-başlıklar bir metnin içinde metnin yapısını belirten başlıklardır. SPIP&#8217;te ara-başlık eklemek için başlığı 3lü paragraf işareti içine almak gerekir: «<TT>{{{buraya başlık gelecek}}}</tt>» belirtilen başlık koyu ve ortalanmış olacaktır:</p>
+
+<blockquote class="spip">
+<h3 class="spip">Buraya başlık gelecek</h3>
+</blockquote>
+
+<p>- &nbsp;<strong>Yatay ayırma çizgi</strong></p>
+
+<p>Bir yatay ayırma çizgisi eklemek için en az dört tane peşpeşe tire işareti koyulur:</p>
+
+<form action=''  method='get'><div>
+<input type='hidden' name='exec' value='' />
+<textarea readonly='readonly' cols='40' rows='2' class='spip_cadre' dir='ltr'>----</textarea></div></form>
+
+
+<p>böylece şu elde edilir:</p>
+
+<blockquote class="spip">
+<hr class="spip" />
+</blockquote>
+<hr class="spip" />
+
+<p>- &nbsp;<strong>Hiper metin bağları</strong></p>
+
+<p>Aşağıdaki kod ile kolayca bir hiper metin bağı oluşturulur:</p>
+
+<form action=''  method='get'><div>
+<input type='hidden' name='exec' value='' />
+<textarea readonly='readonly' cols='40' rows='2' class='spip_cadre' dir='ltr'>SPIP bir [minirézo-&gt;http://www.minirezo.net/]inisyatifidir.</textarea></div></form>
+
+
+<p>bu yazı şu biçime dönüşecektir:</p>
+
+<blockquote class="spip">
+
+<p>SPIP bir minirézo inisyatifidir <a href="http://www.minirezo.net/" class='spip_out' rel='external' target="_blank">minirézo</a>.</p>
+
+</blockquote>
+
+<p>
+(Hatırlatma: çizilen bir çeşit ok (oktan önceki) bağ metninin (oktan sonraki) bir adresi «gösterdiğini» belirtir.)</p>
+
+<p>Bağ adresi mutlak bir adres olabilir (<code class='spip_code' dir='ltr'>http://</code> ile başlayabilir),
+bağıl bir adres olabilir (sitenin başka bir sayfasına), internet protokolü kullanan bir dokümana bağlayabilir 
+(<code class='spip_code' dir='ltr'>ftp://</code>...), bir e-posta adresi olabilir
+(«<code class='spip_code' dir='ltr'>[-&gt;minirezo@rezo.net]</code>»)...</p>
+
+<p>Özel bir uygulama: bir bağın, «ok»&#8217;tan önce hiçbir şey yazmayarak URL biçiminde harf harf gösterilmesini sağlayabilirsiniz. Örneğin:</p>
+
+<form action=''  method='get'><div>
+<input type='hidden' name='exec' value='' />
+<textarea readonly='readonly' cols='40' rows='2' class='spip_cadre' dir='ltr'>[-&gt;http://dmoz.org/World/Deutsch/Kultur/Literatur/Autoren_und_Autorinnen/P/Proust,_Marcel/]</textarea></div></form>
+
+
+<p>şuna dönüşür:</p>
+
+<blockquote class="spip">
+
+<p><a href="http://dmoz.org/World/Deutsch/Kultur/Literatur/Autoren_und_Autorinnen/P/Proust,_Marcel/" class='spip_url spip_out' rel='external' target="_blank">http://dmoz.org/World/Deutsch/Kultu...</a></p>
+
+</blockquote>
+
+<p>URL çok uzunsa gösterilim esnasında adres kesilir ama hipermetin yine doğru adresi gösterir.</p>
+
+<p>- &nbsp;<strong>Site içinde hipermetin</strong></p>
+
+<p>Hipermetin bağlar SPIP sitesi içinde bağ oluşturmayı kolaylaştırır. Önemli olan hipermetni bağlayacağınız makalenin, bölümün veya kısa haberin <i>numarasını</i> bilmektir:
+<img src="./?exec=aide_index&amp;img=0:AIDE-fr-articlenumero.gif" alt="NUMARA" border="0" align="right">
+özel alanda bir makalenin, kısa haberin veya bölümün sayfalarını «ziyaret» ettiğinizde soldaki sütun koyu harflerle bu numarayı gösterir.</p>
+
+<p>Hipermetinde belirteceğiniz numara işte bu numaradır:</p>
+
+<ul class="spip"><li> Makale 342ye bir bağ  (4 olasılık):</i>
+<TT>
+<BR>bağ [makale->342]
+<BR>bağ [makale->art342]
+<BR>bağ [makale->article 342]
+<BR></tt>
+Özel uygulama: <TT>[->art342]</tt> («ok»tan önce hiçbir şey belirtilmedi) otomatik olarak makale 342&#8217;ye bir bağ ile bu makalenin başlığını gösterecektir.</li></ul>
+<ul class="spip"><li> Bölüm 12&#8217;ye bir bağ:</i>
+<TT>
+<BR>bağ [bölüm->rub12]
+<BR>bağ [bölüm->rubrique 12]
+</tt></li></ul>
+<ul class="spip"><li> Kısa habere bir bağ 65:</i>
+<TT>
+<BR>bağ [kısa haber->br65]
+<BR>bağ [kısa haber->breve 65]
+<BR>bağ [kısa haber->brève 65]
+</tt></li></ul>
+<ul class="spip"><li> Yazarlar, anahtar sözcükler, siteler, resimler, dokümanlar:</i>
+<TT>
+<BR>bağ [yazar->aut13] ou [aynı yazar->auteur13]
+<BR>bağ [sözcük->mot32]
+<BR>bağ [sendikalı bir site->site1]
+<BR>bağ [ek doküman->doc17] veya [aynı doküman->document17]
+<BR>bağ [resim->img13] veya [aynı resim->image13]
+<BR>
+</tt></li></ul>
+
+<p>Özel uygulama: burada da «ok»tan önce hiçbir şey yazılmayabilir 
+(<tt>[->aut13]</tt>...).
+SPIP gerekli bilgileri otomatik olarak ekleyecektir. Bir ek doküman veya resim olması durumunda, eğer başlık el ile girildiyse bu girilen başlık gösterilir; aksi halde dosyanın kendi ismi kullanılacaktır.</p>
+
+<div align='right'><a href='#içerik>daha fazla bilgi: bağ içerik</a></div>
+
+<p>- &nbsp;<strong>Sayfa sonu notu</strong></p>
+
+<p>Bir sayfa sonu notu genellikle metnin içine yerleştirilen bir sayı ile belirtilir ve bu ayı sayfanın altında ek bir bilgi verilerek açıklanır.</p>
+
+<p>SPIP&#8217;te (HTML&#8217;de yönetimi oldukça zahmetli olan) bu işlev otomatiktir: notlar SPIP tarafından numaralanır, SPIP aynı zamanda hipermetinleri de yönetir.</p>
+
+<p>SPIP&#8217;te sayfa sonu notu çift tırnak ile belirtilir : «<TT>Sayfa sonu notu [[Burada ek bilgi vardır.]] .</TT>» şöyle görünecektir: «Bir not&nbsp;[<a href='#nb1' class='spip_note' rel='footnote' title='Burada ek bilgi vardır.' id='nh1'>1</a>].»</p>
+
+<div align='right'><a href='#notes'>daha fazla bilgi için: otomatik olmayan notlar</a></div>
+
+<p>- &nbsp;<strong>Bir alıntı yapmak (forumdan)</strong></p>
+
+<p>Bir tartışma forumunda cevaplanan mesajdan alıntı yapmak büyük kolaylık sağlar. Bu tür tekrarların sunumunu homojen kılmak için SPIP şu kısa yolu sunar 
+<tt>&lt;quote>...&lt;/quote></tt>.</p>
+
+<p>Örneğin:</p>
+
+<form action=''  method='get'><div>
+<input type='hidden' name='exec' value='' />
+<textarea readonly='readonly' cols='40' rows='3' class='spip_cadre' dir='ltr'>&lt;quote&gt;Bu SPIP gerçekten çok iyi.&lt;/quote&gt;
+
+Evet, ben de aynı fikirdeyim :-)</textarea></div></form>
+
+
+<p>sonuç şudur:</p>
+
+<blockquote class="spip">
+<blockquote class="spip">
+
+<p>Bu SPIP gerçekten çok iyi.</p>
+
+</blockquote>
+
+<p>Evet, ben de aynı fikirdeyim :-)</p>
+
+</blockquote>
+<h3 class="spip">İşlevlerin detayları</h3>
+
+<p>Aşağıdaki kısayollar daha güçlü işlevler ve daha özel kullanımlar içindir.</p>
+
+<p>Eğer bu sizin SPIP kısayolları ile ilk karşılaşmanız ise hemen ezberlemeye çalışmanız gereksizdir. Var olduklarını bilmeniz yeter. İhtiyaç duydukça bu sayfaya gelirsiniz ve gerçekten yararlı bulduklarınızı daha kolay ezebrlersiniz.; lorsque
+vous en aurez réellement besoin, revenez</p>
+
+<p>- &nbsp;<strong>Tablolar</strong></p>
+
+<p>SPIP&#8217;te basit tablolar oluşturmak için «hücreleri» «|» (<i>pipe</i>, dik bir çizgi) sembolüyle ayrılmış ve başında ve sonunda da çizgi olan satırlar oluşturmak yeterlidir. Bu tablodan önce ve sonra birer boş satır bırakmak zorunludur.</p>
+
+<p>Örneğin:</p>
+
+<table class="spip">
+<thead><tr class='row_first'><th scope='col'> Nom </th><th scope='col'> Prénom </th><th scope='col'> Age </th></tr></thead>
+<tbody>
+<tr class='row_even'>
+<td> Marso </td>
+<td> Ben </td>
+<td> 23 ans </td></tr>
+<tr class='row_odd'>
+<td> Capitaine </td>
+<td> </td>
+<td> non connu </td></tr>
+<tr class='row_even'>
+<td> Philant </td>
+<td> Philippe </td>
+<td> 46 ans </td></tr>
+<tr class='row_odd'>
+<td> Cadoc </td>
+<td> Bébé </td>
+<td> 4 mois </td></tr>
+</tbody>
+</table>
+
+<p>şöyle kodlanacaktır:</p>
+
+<form action=''  method='get'><div>
+<input type='hidden' name='exec' value='' />
+<textarea readonly='readonly' cols='40' rows='5' class='spip_cadre' dir='ltr'>| {{Nom}} | {{Prénom}} | {{Age}} |
+| Marso | Ben | 23 ans |
+| Capitaine | | non connu |
+| Philant | Philippe | 46 ans |
+| Cadoc | Bébé | 4 mois |</textarea></div></form>
+
+
+<p>İlk satırdaki tüm bilgilerin koyu yazıldığına dikkat edin. SPIP böylece bunların başlık olduklarını algılar ve diğer satırlardan farklı görünmesini sağlar (fon rengi değişik). Bu başlık satırının bulunması zorunlu değildir.</p>
+
+<p><a name='listes'></a>
+<br />- &nbsp;<strong>Listelerin ve numaraların kaliteli biçimde yönetilmesi</strong></p>
+
+<p>- &nbsp;Basit bir satır başı <tt>_</tt> yazılarak elde edilir, satır başında bir (alt çizgi veya <i>underscore</i>) ve peşinden bir boşluk.</p>
+
+<p><i>N.B.</i> Klasik yazımda (tipografi&#8217;de) basit satır başı çok az kullanılır (özellikle şiirde). Sık sık basılı evraklardaki gibi paragraf değişimi ile karıştırılır  (paragraflar arasında boş satır bulunmaz) oysa gezginler paragraf aralarına birer satır boşluk eklerler. Bir çok kullanıcı bu basılı evrağa benzer bir özelliğe gereksinim duyar (dikey boşluksuz) ve paragraf addeddikleri yazıların arasına basit sayfa başı karakterleri koyarlar;  bu, sitelerinin bakımını ve gelişimini bozan bir hatadır. Çözüm iskeletlerde paragrafın davranışını belirleyen bir stil sayfası tanımlamaktır (CSS) (yani, isteğe bağlı olarak paragraflar arasında dikey boşluk bırakmamak, ilk satırı içerden başlatmak gibi...).</p>
+
+<p>- &nbsp;Numaralama çizgisinden sonra yıldız koyarak içiçe numaralama yapmak olasıdır.</p>
+
+<p> Böylece:</p>
+
+<form action=''  method='get'><div>
+<input type='hidden' name='exec' value='' />
+<textarea readonly='readonly' cols='40' rows='8' class='spip_cadre' dir='ltr'>-* Ton cheval est:
+-** alezan;
+-** bai;
+-** noir;
+-* mais mon lapin est:
+-** blanc;
+-*** angora; 
+-*** ou à poil ras.</textarea></div></form>
+
+
+<p> şunu verir:</p>
+
+<blockquote class="spip">
+<ul class="spip"><li> Ton cheval est:<ul class="spip"><li> alezan;</li><li> bai;</li><li> noir;</li></ul></li><li> mais mon lapin est:<ul class="spip"><li> blanc;<ul class="spip"><li> angora; </li><li> ou à poil ras.</blockquote>
+</li></ul></li></ul></li></ul>
+
+<p>- &nbsp;Son olarak, yıldız yerine <code class='spip_code' dir='ltr'>#</code> kullanılarak numaralı listeler yapılabilir :</p>
+
+<form action=''  method='get'><div>
+<input type='hidden' name='exec' value='' />
+<textarea readonly='readonly' cols='40' rows='3' class='spip_cadre' dir='ltr'>-# birinci
+-# ikinci
+-# üçüncü</textarea></div></form>
+
+
+<p>şunu verecektir:</p>
+
+<blockquote class="spip">
+<ol class="spip"><li> birinci</li><li> ikinci</li><li> üçüncü</blockquote>
+</li></ol>
+
+<p><a name='glossaire'>
+<br />- &nbsp;<strong>Dıştaki bir listeye doğru hipermetinler</strong></p>
+
+<p>Dıştaki bir listenin herhangi bir terimine hızlıca bir hiper metin ekleyebilirsiniz; belirli bir terim için metninizin içine <code class='spip_code' dir='ltr'>[?terim]</code> kısayolunu koymanız yeterlidir.</p>
+
+<p>Böylece aşağıdaki kod:
+« <code class='spip_code' dir='ltr'>{Kayıp zamanın peşinde} [?Marcel Proust]un en önemli eseridir</code> »
+şunu verecektir:
+«<i>Kayıp zamanın peşinde</i> <a href="http://tr.wikipedia.org/wiki/Marcel_Proust" class='spip_glossaire' rel='external' target="_blank">Marcel Proust</a>un en önemli eseridir».
+Bağa tıklayın ve girilen terimin (özel isim veya değil) düzgün olarak yazıldığından ve geçerli bir hedefi gösterdiğinden emin olun.</p>
+
+<p>Dıştaki liste şudur <a href="http://www.wikipedia.org" class='spip_out' rel='external' target="_blank">Wikipedia</a>.
+Ortaklaşa bir çalışmayla hazırlanan çok dilli bir ansiklopedi olan wikipedia yardım etmek isteyen herkese Internet üzerinden açıktır. Lütfen inceleyin ve paylaşılan bu bilgi kaynağı zenginleştirmek katkıda bulunun.</p>
+
+<p><a name='notes'></a>
+<br />- &nbsp;<strong>Otomatik olmayan notlar</strong></p>
+
+<p>Çoüu durumda yukarıda belirtilen otomatik not sistemi yeterlidir. Ama siz yine de otomatik olmayan ve «zorlayarak» numara veya bağ ismi verilecek bir not sistemi isteyebilirsiniz.</p>
+
+<p>Buradaki genel prensip nota verilecek ismi notun başında tırnak içinde belirtmenizdir:</p>
+
+<form action=''  method='get'><div>
+<input type='hidden' name='exec' value='' />
+<textarea readonly='readonly' cols='40' rows='2' class='spip_cadre' dir='ltr'>«zorlama» bir not [[&lt;xxx&gt; Nota verilecek metin.]]</textarea></div></form>
+
+
+<p>Bu prensiple:</p>
+
+<form action=''  method='get'><div>
+<input type='hidden' name='exec' value='' />
+<textarea readonly='readonly' cols='40' rows='21' class='spip_cadre' dir='ltr'>[[Metni köşeli parantezler içine alarak.]] otomatik olarak numaralanan notlar kullanabilirsiniz ,
+- bu arada notun numarasını zorla verebilirsiniz [[&lt;23&gt; Bunun için notun numarasını küçüktür «&lt;» ve büyüktür «&gt;» sembolleri arasında belirtmelisiniz.]],
+- asterisk biçiminde notlar da girebilirsiniz [[&lt;*&gt; Bunun için «&lt;» ve «&gt;» sembolleri arasına bir asterisk koymanız yeter.]],
+- referanssız (numaralanmamış) notlar oluşturabilirsiniz ; dikkat, bu tür notlar not ile notun atıf yaptığı hedef arasında herhangi bir bağ içermez [[&lt;&gt; Bunun için «&lt;» ve «&gt;» sembolleri arasına hiçbir şey yazmazsınız.]],
+- nota bir isim verebilirsiniz (ismi açık olarak yazarsınız); bu kullanım bibliyografya için yaygın biçimde kullanılır[[&lt;Rab&gt; François Rabelais.]];
+- önceden var olan bir notu hatırlatabilirsiniz [[&lt;23&gt;]] bunun için hatırlatacağınız notun numarasını «&lt;» ve «&gt;» sembolleri arasına yazarsınız ve notun geri kalanını boş bırakırsınız.</textarea></div></form>
+
+
+<p>böylece şunu elde edersiniz:</p>
+
+<blockquote class="spip">
+
+<p>vous pouvez utiliser les notes numérotées automatiques&nbsp;[<a href='#nb2' class='spip_note' rel='footnote' title='Notun metnini köşeli parantezler içine yerleştirerek.' id='nh2'>2</a>],
+<br />- &nbsp;ama aynı zamanda notun numaralanmasını da zorlayarak&nbsp;[<a href='#nb23' class='spip_note' rel='footnote' title='Notun numarasını «» sembolleri arasında belirterek.' id='nh23'>23</a>],
+<br />- &nbsp;asterisk biçiminde notlar kullanarak&nbsp;[<a href='#nb_2A' class='spip_note' rel='footnote' title='«» sembolleri arasına sadece bir asterisk koyarak.' id='nh_2A'>*</a>],
+<br />- &nbsp;referanssız (veya numarasız) notlar kullanarak ; dikkat, bu tür notlar not ile notun çağrılması arasında hiç bir bağ içermez,
+<br />- &nbsp;nota bir isim vererek (açık isim); bu kullanım bibliyografya için çok yaygındır&nbsp;[<a href='#nbRab' class='spip_note' rel='footnote' title='François Rabelais.' id='nhRab'>Rab</a>];
+<br />- &nbsp;var olan bir notu çağırarak&nbsp;[<a href='#nb23' class='spip_note' rel='footnote'>23</a>] (Bu notun numarasını «<» ve «>» sembolleri arasında belirterek.) ve notun geri kalanını boş bırakarak.</p>
+
+</blockquote>
+
+<p>- &nbsp;<strong>SPIP kısayollarını kısa devre etmek</strong></p>
+
+<p>Bazı durumlarda, SPIP&#8217;e dokümanın bazı yerlerinin kısayol filtresi tarafından «işlenmemesi» gerektiğini belirtmek gerekebilir: örneğin, yazılımının düzeltilmesini istemediğiniz kaynak kodları göstermek istediğinizde (PHP, JavaScript gibi)...</p>
+
+<p>Bu kısayolun kodu şöyledir:</p>
+
+<form action=''  method='get'><div>
+<input type='hidden' name='exec' value='' />
+<textarea readonly='readonly' cols='40' rows='2' class='spip_cadre' dir='ltr'>&lt;HTML&gt;işlenmeyecek kod; dikkat!&lt;/HTML&gt;</textarea></div></form>
+
+
+<p>şunu verir:</p>
+
+<blockquote class="spip">
+
+<p>
+işlenmeyecek kod; dikkat!</p>
+
+</blockquote>
+
+<p>
+(burada, noktalı virgül ile ünlem işaretlerinin önünde hiç boşluk olmamasına dikkat edin).</p>
+
+<p>- &nbsp;<strong>Bilgisayar kodu göstermek</strong></p>
+
+<p>Bazı SPIP kullanıcıları sayfalarında bilgisayar kodları göstermek istiyorlar. 
+Bunun için gereken kısayol şudur:
+<TT>&lt;code>...&lt;/code></TT>.</p>
+
+<p>Örnek :</p>
+
+<form action=''  method='get'><div>
+<input type='hidden' name='exec' value='' />
+<textarea readonly='readonly' cols='40' rows='3' class='spip_cadre' dir='ltr'>&lt;code&gt;&lt;?php     // bu php dilidir
+      echo &quot;merhaba&quot;;
+?&gt;&lt;/code&gt;</textarea></div></form>
+
+
+<p>şunu verir</p>
+
+<blockquote class="spip">
+<div style='text-align: left;' class='spip_code' dir='ltr'><code>&lt;?php &nbsp; &nbsp; // bu php dilidir<br />
+ &nbsp; &nbsp; &nbsp;echo &quot;merhaba&quot;;<br />
+?&gt;</code></div>
+</blockquote>
+
+<p>Bir kaç satırdan oluşan bilgisayar kodlarını göstermek için bir başka yol daha var:
+<tt>&lt;cadre>...&lt;/cadre></tt>. Bu, kodu bir «form» içine yerleştirir (bu yöntem şu anda okumakta olduğunuz sayfada sıkça kullanılmakta). Bu yöntemin avantajı web sayfalarından yapılan kopyala-yapıştır işlemlerini son derece kolaylaştırmasıdır: imleci kodun içine yerleştirmek ve «her şeyi seç» (alt-A) işlemini uygulayıp kodu direkt olarak kopyalamak çok kolaydır. Ayrıca bir çok gezginde bu çerçeve satır başındaki boşlukları da düzenlemeye yarar.</p>
+
+<p> Bir örnek görelim:</p>
+
+<form action=''  method='get'><div>
+<input type='hidden' name='exec' value='' />
+<textarea readonly='readonly' cols='40' rows='19' class='spip_cadre' dir='ltr'>class Texte {
+	var 
+type = 'metin';
+	var 
+texte;
+}
+
+ class Champ {
+	var 
+type = 'alan';
+	var 
+nom_champ, 
+id_champ;
+	var 
+cond_avant, 
+cond_apres; // nesne tabloları
+	var 
+fonctions;
+}</textarea></div></form>
+
+<hr class="spip" />
+
+<div class='notes'><small><div id='nb1'>
+
+<p>[<a href='#nh1' class='spip_note' title='Notlar 1' rev='footnote'>1</a>] Burada ek bilgi vardır.</p>
+
+</div>
+<div id='nb2'>
+
+<p>[<a href='#nh2' class='spip_note' title='Notlar 2' rev='footnote'>2</a>] Notun metnini köşeli parantezler içine yerleştirerek.</p>
+
+</div>
+<div id='nb23'>
+
+<p>[<a href='#nh23' class='spip_note' title='Notlar 23' rev='footnote'>23</a>]  Notun numarasını «<» ve «>» sembolleri arasında belirterek.</p>
+
+</div>
+<div id='nb_2A'>
+
+<p>[<a href='#nh_2A' class='spip_note' title='Notlar _2A' rev='footnote'>*</a>]  «<» ve «>» sembolleri arasına sadece bir asterisk koyarak.</p>
+
+</div>
+<div id='nb'>
+
+<p> «<» ve «>» sembolleri arasında hiçbir şey belirmeden.</p>
+
+</div>
+<div id='nbRab'>
+
+<p>[<a href='#nhRab' class='spip_note' title='Notlar Rab' rev='footnote'>Rab</a>]  François Rabelais.</p>
+
+</div></small></div>
+<h2>arttitre/Başlık, üstbaşlık, altbaşlık</h2>
+
+<h3 class="spip">Başlık, üstbaşlık, altbaşlık</h3>
+
+<p>- &nbsp;<i>başlık</i> zorunludur.</p>
+
+<p>- &nbsp;<i>Üstbaşlık</i> ve <i>altbaşlık</i> tamamen seçimliktir. Eğer gereksiniminiz yoksa bunları boş bırakın, sitenin biçimi bunların var olup olmamalarına göre kendini otomatik olarak ayarlayacaktır.</p>
+
+<p><i>Site yöneticileri, eğer isterlerse, üstbaşlık ve/veya altbaşlık kullanımını «<A HREF="aide_index.php?aide=confart" 
+TARGET="_top">Configuration précise</A>» sayfası üzerinden tamamen kaldırabilirler.</i></p>
+
+<h2>artrub/Konuyu seçmek</h2>
+
+<h3 class="spip">Konuyu seçmek</h3>
+
+<p>Mönü tüm konu  <A HREF="aide_index.php?aide=rubhier" 
+target="_top"> hiyerarşisini gösterir </A> (site yöneticileri tarafından yaratıldıkları biçimleriyle): makalenizi eklemek istediğiniz konuyu seçiniz.</p>
+
+<p>Bir çok yeni kullanıcı gayet basit kullanımlı bu işlevi tamamen bilmezlikten gelmektedir ve makelelerini sitede «orada burada» bir yerlerde bırakmaktadırlar.  
+Site yöneticilere, bir makaleyi onaylamadan önce o makalenin doğru konu altında bulunduğunu kontrol etmeleri önerilir.</p>
+
+<h2>artdesc/Hızlı tanım</h2>
+
+<h3 class="spip">Hızlı tanım</h3>
+
+<p><i>Hızlı tanım</i> site içinde gezinti için kullanılır: örneğin özet bölümünde makalenin teması hakkında kısa bilgi vermek için kullanılır.</p>
+
+<p>Bu tanım seçimliktir; ve istenen uzunlukta yazılabilir. Bu arada, temel olarak makale listelerinde (özet, bir yazarın makaleleri, anahtar sözcüğe göre sıralanmış makaleler, arama motoru cevapları vb.) kullanılmak üzere çok kısa metinler için (bir veya 2 cümle) öngörülmüştür.</p>
+
+<p><i>Site yöneticileri «<A 
+HREF="aide_index.php?aide=confart" TARGET="_top">Kesin konfigürasyon</A>» arayüzünü kullanarak tanımın gösterilmesini tamamen engelleyebilirler.</i></p>
+
+<h2>artchap/Şapka (Chapeau)</h2>
+
+<h3 class="spip">Şapka</h3>
+
+<p><i>Şapka</i>, basın jargonunda makalenin başlığını temsil eden kısa metindir. Kullanımı seçimliktir.</p>
+
+<p><i>Yöneticiler «<A 
+HREF="aide_index.php?aide=confart" TARGET="_top">Kesin konfigürasyon</A>» arayüzünü kullanarak şapka kullanımını tamamen engelleyebilirler.</i></p>
+
+<h2>artvirt/Makalenin yönlendirilmesi</h2>
+
+<h3 class="spip">Makalenin yönlendirilmesi</h3>
+
+<p>Bu seçenek «sanal bir makale» yaratılmasına olanak tanır: burada sözü edilen makale başlığı, tarihi ve yazarları sizin SPIP sitenizde kayıtlı olan ama başka bir adrese yönlendiren bir makaledir.</p>
+
+<p>Bu işlev SPIP sisteminizde SPIP ile gerçekleştirilmemiş makalelere referans vermenize olanak tanır. (örneğin SPIP&#8217;i yüklemeden önce hazırladığınız sayfalarda gezinebilmek için).</p>
+
+<p>Makalenin bir «sanal makale» olduğunu belirtmek için ilgili kutucuğa hedef makalenin URL&#8217;sini yazmak yeterlidir.</p>
+
+<p>Yönlendirmeyi iptal etmek için yönlendirme kutucuğunu «boşaltmak» (yani, hedef makalenin adresini silmek) yeterlidir .</p>
+
+<h2>arttexte/Metin</h2>
+
+<h3 class="spip">Makalenin metni</h3>
+
+<p>Hiç bir zorluğu yok: adından da anlaşıldığı gibi makalenizin <i>metninden</i> ibarettir.</p>
+
+<p>- &nbsp;Yine de bazen sorun yaratabilecek bir nokta vardır: 
+metnin uzunluğu. Bazı çok uzun metinler için (bizim deneyimimizde 32kb civarinda) SPIP&#8217;e transfer esnasında metnin geri çevrilmesi veya bir kısmının kesilmesi olasıdır. Bu sorun SPIP&#8217;ten değil kullandığınız gezginden kaynaklanmaktadır. «Çok uzun» bir metinle karşılaştığınızda bir başka gezgin ile tekrar deneyin.</p>
+
+<p>- &nbsp;Makale metni genellikle SPIP&#8217;in <A HREF="aide_index.php?aide=raccourcis" 
+TARGET='_top'>tipografik kısayolları</A> ile uyumludur.</p>
+
+<h2>artdate/Tarih</h2>
+
+<h3 class="spip">On-line yayın tarihi</h3>
+
+<p>Makalenin <i>tarihi</i> genellikle <i>on-line olarak yayınlanma</i> tarihine (veya web sitesinde yayınlanma) karşı düşer.</p>
+
+<p>- &nbsp;Bu tarih makalenin bir yönetici tarafından <i>onaylandığı</i> anda otomatik olarak verilir (yani sitenin halka açık bölümünde yayınlandığında).</p>
+
+<p>- &nbsp;Onaylamadan sonra yönetici bu tarihi değiştirebilir.</p>
+
+<h2>artdate_redac/Önceki yayın tarihi</h2>
+
+<h3 class="spip">Önceki yayın tarihi</h3>
+
+<p>Bu işlev çok özel durumlar için eklenmiştir: SPIP arşivleri yüklemek için kullanıldığında <i>ve</i> bu arşivler on-line yayınlanma tarihinden başka bir tarih içermeleri gerektiğinde.</p>
+
+<p>Yani, bir dokümanın daha önceki bir yayına atıfta bulunduğunu gösterir: gazete makalesi, kitap...</p>
+
+<p>- &nbsp;Varsayılan olarak, bu tarih gösterilmez: «Önceki yayın tarihini gösterme» düğmesi makalenin yaratılması esnasında seçilmiştir.</p>
+
+<p>- &nbsp;Eğer böyle bir tarih belirtilmek istenirse ya «Tarihi göster» seçeneği işaretlenmeli veya açılan mönüler kullanılarak bu tarih tesbit edilmelidir.</p>
+
+<p>Bu tarih makalenin «yayın tarihinin» aksine makalenin onaylanması sırasında otomatik olarak hesaplanmaz. Bu yüzden her istendiği anda değiştirilebilir.</p>
+
+<p><i>Yöneticiler «<A 
+HREF="aide_index.php?aide=confart" TARGET="_top">Kesin konfigürasyon</A>» arayüzünü kullanarak önceki yayın tarihinin kullanımını engelleyebilirler.</i></p>
+
+<h2>artauteurs/Yazarlar</h2>
+
+<h3 class="spip">Yazarlar</h3>
+
+<p>Bir yönetici veya bir redaktör bir makale oluşturduğunda otomatik olarak bu makalenin yazarı olarak kabûl edilir. Bir çok durumda yazarları değiştirmek gerekecektir (siteye bir başkasının metni entegre edildiğinde, bir metin imzalanmak istenmediğinde veya bir makale bir çok kişi tarafından yazıldığında...)</p>
+
+<p>- &nbsp;<strong>Bir yazar eklemek</strong></p>
+
+<p>Sitenin tüm redaktörlerini içeren bir açılan mönü yazar seçmeye veya yeni bir yazar eklemeye olanak tanır.</p>
+
+<p><i>Eğer siteye 50&#8217;den fazla redaktör katkıda bulunuyorsa bunları açılan mönü biçiminde sunmak zorlaşır (yükleme süresi çok uzun olur); bu durumda açılan mönü yerine bir arama kutucuğu gelir: 
+eklemek istediğiniz yazarın ismini belirtiniz ve 
+«Ara» düğmesine tıklayınız. Bu arama sonucunda bir çok redaktör gelirse sistem size bunlardan uygun olanını seçmenizi isteyecektir.</i></p>
+
+<p>- &nbsp;<strong>Bir yazarı silmek</strong></p>
+
+<p>Makalenin her yazarından sonra bir «Yazarı sil» bağı basitçe bu yazarı silmenize olanak tanır.</p>
+
+<p><i>Silinen yazar sadece bu makalenin yazarları arasından silinecektir; tabii ki sitenin yazarları arasında kalmaya devam edecektir.</i></p>
+
+<p>- &nbsp;<strong>Bir yazarı bir diğeriyle değiştirmek</strong></p>
+
+<p>Bu iki aşamada yapılır: önce yeni bir yazar eklenir sonra bir önceki yazar silinir (yukarıya bakınız).</p>
+
+<p>- &nbsp;Yöneticilerin redaktörlere nazaran bu liste üzerinde çok daha fazla olanakları vardır. Redaktörler özel olarak kendilerini makalelerden silemezler. Eğer bir redaktör anonim (yazarsız) bir makale yayınlamak isterse bu işlemi yapması için bir yöneticiden yardım istemelidir.</p>
+
+<h2>logoart/Makalenin logosu</h2>
+
+<h3 class="spip">Makalenin logosu</h3>
+
+<p>SPIP makaleye karşı düşen bir logo yüklemenize izin verir. Böylece halka açık olan sitenin arayüzünde sizi makaleye yönlendiren grafik bir düğme var olacaktır.</p>
+
+<p>Bir makaleyle ilgili olarak şunlar olasıdır:
+<br />- &nbsp;logo kullanmamak;
+<br />- &nbsp;basit bir grafik logo yüklemek;
+<br />- &nbsp;hareketli bir logo kullanmak ve 
+«üzerinden geçerek» (logo «2 pozisyon»: logo fareyle üzerinden geçerken değişir).</p>
+
+<p>- &nbsp;<strong>Resim formatları</strong></p>
+
+<p>Alıştığınız programla resimlerinizi oluştururken şu formatlardan birini kullanırsınız :
+<br />- &nbsp;GIF («hareketli» de olabilir);
+<br />- &nbsp;JPEG;
+<br />- &nbsp;PNG (önerilmez, bir çok gezgin hâlâ doğru olarak gösteremiyor).</p>
+
+<p><i>Büyük hataları önlemek için SPIP 256 kb&#8217;tan büyük resim dosyalarını reddeder.</i> Öneri: bu «düğmeler» grafik arayüzün elemanları olduğundan, sitenizde gezintinin akıcı olması için <i>kilolarının</i> (kilobayt sayılarının) çok yüksek olmamasına dikkat edin. (genelde 10 kb&#8217;tan az).</p>
+
+<p>Özellikle dosyalarınızın formatı belirten bir soyadı <i>ek</i>içerdiğinden emin olun : <strong>.gif</strong>, 
+<strong>.jpg</strong> veya <strong>.png</strong>. Dosya isminin herhangi bir önemi yoktur, yeter ki <i>soyadını unutmayın</i>.</p>
+
+<p><i>Eğer «üzerinden geçiş» butonu oluşturacaksanız 2 farklı grafik dosya oluşturun (biri «normal», diğeri fare üzerinden geçerken kullanılacak) : 2 dosyanın piksel olarak aynı boyutta olmalarına dikkat edin.</i></p>
+
+<p>- &nbsp;<strong>Basit logo</strong> (üzerinden geçiş etkisi yok)</p>
+
+<p><img src="./?exec=aide_index&amp;img=0:AIDE-fr-logoart-1.gif" alt=" "  
+border="0" align="right">Bir düğme eklemek için makalenin solundaki sütunda «MAKALE LOGOSU» başlığı altında bir arayüz mevcuttur.</p>
+
+<p>Gezgininizin uyarlamasına bağlı olarak «Browse», «Seçim», 
+«Dosya»... komutuna tıklayın, böylece sabit diskten düğmeye karşı düşecek grafik dosyayı seçmenize izin verecek bir arayüz açılacaktır.</p>
+
+<p>Bu dosya seçildimi «Yükle» düğmesine tıklayın. Logonuz görüntülenecektir. Ardında logoyu silmenizi sağlayacak «Logoyu sil» butonu olacaktır.</p>
+
+<p>Eğer üzerinden geçiş etkisi istemiyorsanız başka bir işlem yapmanız gerekmez.</p>
+
+<p>- &nbsp;<strong>Logoyu değiştirmek</strong></p>
+
+<p><img src="./?exec=aide_index&amp;img=0:AIDE-fr-logoart-2.gif" alt=" "  
+border="0" align="left">Logoyu bir başka dosyayla değiştirmek isteyebilirsiniz. Bu işlem 2 aşamada yapılır:
+<br />- &nbsp;önce «Logoyu sil»e tıklayın: bir önceki arayüzdeki «Yükle» butonu yeniden görüntülenecektir;
+<br />- &nbsp;yeni dosyayı yükleyin.</p>
+
+<p>Gezginlerin çalışma biçiminden ötürü görüntülenen resim hatalı yani bir önceki resim olacaktır (çünkü resim önbellekte depolanmıştır). Bu resmin üzerine sağ tıklayın (veya Macintosh&#8217;da «ctrl» tuşunu basılı tutun) 
+bir kayan mönü çıkacaktır: 
+«Resmi tekrar yükle» (veya ingilizcede, «Reload image») komutunu seçin. Şimdi yeni logonuz görüntülenmiş olmalıdır.</p>
+
+<p>- &nbsp;<strong>Üzerinden geçiş logosu</strong></p>
+
+<p><img src="./?exec=aide_index&amp;img=0:AIDE-fr-logoart-3.gif" alt=" "  
+border="0" align="right">İlk dosyanın yüklenmesinden sonra (basit logo), arayüz sadece hizmet birimine yüklediğiniz logoyu değil ama aynı zamanda «Üzerinden geçiş için logo» isimli ikinci bir arayüz ekler. Bu arayüz yardımıyla gereken ikinci dosyayı belirtebilirsiniz.</p>
+
+<p><i>Eğer, iki dosyayı yüklediğinizde birinci dosyayı silerseniz («basit» düğmesini), ikinci logonun arayüzü artık görüntülenmez. Aslında, ilk logonun yokluğunda «üzerinden geçiş» için ikinci bir logo gereksizdir.</i></p>
+
+<p>Makalenin «metin» kısmında herhangi bir işlem yapmak gerekmez. Halka açık sitenin gösterilmesi sırasında konu logolarının işletimi tamamen otomatiktir. 
+Logonun boyutuna bağlı olarak HTML kodu ve üzerinden geçiş işlevine bağlı olarak Javascript kodu otomatik olarak üretilecektir.</p>
+
+<h2>artstatut/makalenin durumu</h2>
+
+<h3 class="spip">Makalenin durumu</h3>
+
+<p>Makalenin  <i>durumu</i> site üzerindeki editoryal durumudur. Makale şu durumlardan birindedir:
+<br />- &nbsp;yazılma aşamasında;
+<br />- &nbsp;değerlendirmeye sunulmuş;
+<br />- &nbsp;yayınlanmış;
+<br />- &nbsp;çöpe atılmış;
+<br />- &nbsp;reddedilmiş.</p>
+
+<p>Sadece yöneticilerin müdahale edebileceği bu aşamalar, sitenin yönetimini sağlar.</p>
+
+<p><strong>N.B.</strong> Makalelerin durumu renkli ikonlarla sembolize deilmiştir.</p>
+
+<p><IMG SRC="../prive/images/puce-blanche.gif">  <strong>Yazılma aşamasında</strong></p>
+
+<p>Makale yaratıldığında doğal olarak «yazılma aşamasında» kabul edilir: bu yazarlar yazma veya düzeltme işlemi yapmaktadırlar...</p>
+
+<p><i>«Yazılma aşamadında» olan makale sadece yöneticilere ve yazara görünür. Diğer yazarların makaleye erişim hakları yoktur.</i></p>
+
+<p><IMG SRC="../prive/images/puce-orange.gif">  <strong>Değerlendirmeye sunulmuş</strong></p>
+
+<p>Yazar makalesinin hazır olduğuna kanaat getirdiğinde diğer katılımcıların değerlendirmesine «sunar», böylece onaylanmadan (yayınlanmadan) veya reddedilmeden önce herkesçe tartışılmasını sağlar.</p>
+
+<p><i>Makale «değerlendirmeye sunulduğunda», 
+«takip edilecekler» sayfasında özel alandaki tüm kullanıcılara duyurulur, böylece forum aracılığıyla tartışılır.</p>
+
+<p>Bu durumdaki bir makale herkes tarafından görülebilir. Buna karşılık sadece yazer veya yönetici tarafından değiştirilebilir. </i></p>
+
+<p><IMG SRC="../prive/images/puce-verte.gif"> <strong>Yayınlanmış</strong></p>
+
+<p>Bir makale, tartışıldıktan sonra «onaylanmış» ve yönetici tarafından yayınlanmış olabilir. O andan itibaren tüm ziyaretçiler makaleye erişebilirler.</p>
+
+<p><i>Bir makale yayınlandığında sadece yöneticiler tarafından değiştirilebilir. Yazar, değişiklik yapmak istediğinde yöneticinin yardımını istemelidir.</i></p>
+
+<p><IMG SRC="../prive/images/puce-rouge.gif">  <strong>Reddedilmiş</strong></p>
+
+<p>«Önerilen» bir makale yöneticiler tarafından uygun görülmezse «reddedilebilir».</p>
+
+<p><i>«Reddedilmiş» bir makale sadece yazara ve yöneticilere görünür.</i></p>
+
+<p><i>«Reddedilmiş» bir makale yazar tarafından değiştirilemez ve yeniden yayın için önerilemez. Rötuş gerektiren makaleler «Reddedilmiş» konuma getirilmemeli, yazarın değişiklik yapabilmesi için «Yazım aşamasına» alınmalıdır. </i></p>
+
+<p><IMG SRC="../prive/images/puce-poubelle.gif">  <strong>Çöpe atılmış</strong></p>
+
+<p>Bir makale sadece bir yönetici tarafından çöpe atılabilir.</p>
+
+<p><i>«Çöpe atılmış» bir makale özel alanda yöneticilere bile görünmez. Bu seçenek oldukça «sert» bir seçenektir: makale tamamen kaybolur.</p>
+
+<p>Gerçekte makale veritabanında tutulmaya devam eder ama SPIP araçlarıyla erişilmesi çok zordur.</i></p>
+
+<p>Bu seçenek yanlışlıkla oluşturulmuş ve tamamen yok edilmek istenen makalelere ayrılmıştır. Çoğunlukla «Reddedilmiş» seçeneği tercih edilmelidir.</p>
+
+<p>- &nbsp;Yöneticilerin her an makalenin <i>durumu</i>&#8217;nu değiştirebileceklerini unutmayınız. Yayınlanmış bir makale «Yazım aşamasında» durumuna getirilebilir. 
+Bu arada, yayınlanmış bir makale üzerinde sıkça değişiklik yapmak sitenizi bir görünüp bir kaybolan makaleler yüzünden «delikli» bir biçime dönüştürür ki bu, ziyaretçiler açısından son derece rahatsız edici olabilir.</p>
+
+<h2>artprop/Makale önermek</h2>
+
+<h3 class="spip">Bir makale önermek</h3>
+
+<p>Makale «yazım aşamasında» iken  
+(bakınız «<A HREF="aide_index.php?aide=artstatut" 
+target="_top">Makalenin durumu</A>»), yanında «Bu makalenin yayınını iste» düğmesi bulunur.</p>
+
+<p><i>Bu işlemi sadece makalenin yazarı isteyebilir.</i></p>
+
+<p>Bu işlem istendiğinde makale «Değerlendirmeye sunulmuş» yani davet edilecek diğer yazarların değerlendirmesi ve olumlu bulunursa yöneticiler tarafından onaylanması (yayınlanması) aksi halde reddedilmesi için önerilmiş olur.</p>
+
+<p>Dikkat: makale bir kez «değerlendirmeye sunulmuş» konumuna getirilirse yazarın bu konumu değiştirmesi ve makaleyi tekrar «Yazım aşamasında» konumuna getirmesi olanaksızdır. Yani, «Bu makalenin yayınını iste» işlemi makale tamamen bittiğinde yapılmalıdır. Bu konumu «Yazım aşamasında» konumuna getirmek ancak bir yöneticinin yapabileceği bir işlemdir.</p>
+
+<h1>Bölümler</h1>
+<h2>rubhier/Hiyerarşik bir yapı</h2>
+
+<h3 class="spip">Bölümlerin hiyerarşik yapısı</h3>
+
+<p>Bölümlerin yapısı sitenizin belkemiğini oluşturur; arayüzü belirleyen, gezinti kipini, makalelerle kısa haberler arasındaki ilişkileri oluşturan hep odur...</p>
+
+<p>SPIP&#8217;te bu yapı <i>hiyerarşiktir</i>: bir bölüm alt-bölümler içerir, onlar da başka alt-bölümler içerir ...</p>
+
+<CENTER><IMG SRC="./?exec=aide_index&amp;img=0:AIDE-fr-rubhier-1.gif" BORDER=0 ></CENTER>
+
+<p>Yukarıdaki örnekte&nbsp;222 numaralı başlığın&nbsp;22 numaralı başlığa, onun da&nbsp;2 numaralı başlığa bağlı olduğu ve&nbsp;2 numaralı bölümün başka bir bölüme bağlı olmadığı kolayca görülür (bu durumda&nbsp;2 numaralı bölümün <i>sitenin kök dizininde</i> olduğu anlaşılır).</p>
+
+<p><i>Hiyerarşik yapı ile anlatılmak istenen bir bölümün sadece bir ve sadece bir bölüme bağlı olduğudur (bir kaç bölüme birden bağlı olamaz) ve bir bölüm sadece kendi alt-bölümlerini kendine bağlı tutabilir (yani, SPIP döngüsel (çevrimsel) yapılara izin vermez). Bu klasik yapı kolay kullanımı sebebiyle seçilmiştir..</i></p>
+
+<p><strong>Bölümleri sadece yöneticiler yaratabilir, değiştirebilir ve silebilir.</strong></p>
+
+<h2>rubrub/Bölümü seçmek</h2>
+
+<h3 class="spip">Bölümü seçmek</h3>
+
+<p>Bu kayan mönünün işlevi çok basittir: 
+mönü tüm başlıkların hiyerarşisini (site yöneticisinin onları yarattığı biçimde) gösterir,
+alt-bölümü yerleştirmek istediğiniz bölümü seçmeniz yeterlidir.</p>
+
+<p>- &nbsp;<strong>Bir bölümün yerini değiştirmek</strong></p>
+
+<CENTER><img src="./?exec=aide_index&amp;img=0:AIDE-fr-rubrub.gif"  
+border="0"></CENTER>
+
+<p>Bu kayan mönü yardımıyla aktif bölümü bir başka bölüme bağlamak olasıdır. Bu durumda aktif bölümün alt-bölümlerinin de hiyerarşik yapı içinde «yer değiştireceğini» unutmamak gerekir. Aynı biçimde aktif bölümdeki tüm makaleler ve alt-makaleler de yer değiştirecektir.</p>
+
+<h2>rublogo/Bölümün logosu</h2>
+
+<h3 class="spip">Bölümün logosu</h3>
+
+<p><a HREF="./?exec=aide_index&amp;aide=logoart" TARGET="_top"><img 
+src="./?exec=aide_index&amp;img=0:AIDE-fr-logoart-2.gif" alt=" "  border="0" 
+align="right"></a>
+Sİtenizde her bölüm için bir logo seçebilirsiniz. Bu logo tek de olabilir (sabit resim), fare üzerinden geçtiğinde değişen iki durumlu bir logo da olabilir.</p>
+
+<p>Böyle bir logo seçerseniz resimlerin kurulumu aynen <a 
+HREF="./?exec=aide_index&amp;aide=logoart" TARGET="_top">makale logosu</a> gibi gerçekleştirilir.</p>
+
+<p><strong>N.B.</strong> Bölüm logoları <i>döngüsel</i> bir işleve sahiptir: belirtilen bölümün logosu yoksa bu bölümün bağlı olduğu bölümün logosu kullanılır.</p>
+
+<CENTER><IMG SRC="./?exec=aide_index&amp;img=0:AIDE-fr-rubhier-1.gif" BORDER=0 ></CENTER>
+
+<p>Yukarıdaki hiyerarşide&nbsp;221 numaralı bölümün logosunun olmaması durumunda SPIP (sadece kamusal site gezilirken)&nbsp;22 numaralı bölümün logosunu kullanacaktır. Bu da yoksa&nbsp;2 numaralı bölümün logosunu kullanacaktır. Bunun da olmaması durumunda SPIP sitenin kök dizinindeki logoyu kullanır.</p>
+
+<p>Şunu da belirtelim ki, eğer site yöneticisi öyle programlamış ise bir bölümün logosu içerdiği tüm makalelerin logoları yerine de kullanılabilir.</p>
+
+<h1>Kısa haberler</h1>
+<h2>breves/Kısa haberler</h2>
+
+<h3 class="spip">Kısa haberler</h3>
+
+<p>Kısa haberler basit ve hızlı bir yayın yöntemidir. Makalelerin tersine, çok az bilgiden oluşurlar: bir başlık, bir metin ve bir hipermetin. Böylece kısa haber sistemi aktüalitenin takibi ve on-line dergi vb. için idealdir.</p>
+
+<h2>brevesrub/Başlığı seçmek</h2>
+
+<h3 class="spip">Site yapısı içinde kısa haberlerin yeri</h3>
+
+<p>Kullanımlarını kolaylaştırmak için (ve makalelerle aynı işleve sahip olmalarını engellemek ), 
+kısa haberlerin başlık hiyerarşisine entegrasyonları minimumda tutulmuştur : kısa haberler sadece kök dizindeki başlıklara bağlanabilirler.</p>
+
+<CENTER><img src="./?exec=aide_index&amp;img=0:AIDE-fr-rubhier-1.gif" alt="Başlıklar" border="0"></CENTER>
+
+<p>Örneğimizde, 1 ve 2 numaralı başlıklara kısa haber bağlanabilir ancak bunların alt-başlıklarına bağlanamaz (her yere bağlanabilen makalelerin tersine). Böylece kısa haberlerin gösterilimi sadece bu büyük başlıklarla yapılabilir ve yerlerini gösteren kayan mönü oldukça kısadır.</p>
+
+<h2>breveslien/Hipermetin bağı</h2>
+
+<h3 class="spip">Kısa haberlerin hipermetin bağı</h3>
+
+<p>On-line dergide kullanılacak kısa haberlerin kullanımını kolaylaştırmak her kısa haber sadece bir hipermetin alabilir. referans verilecek site veya makalenin başlığını ve (URL) adresini belirtmek yeterlidir.</p>
+
+<p>Bu bilgiler tabii ki seçimliktir, zorunlu değildir.</p>
+
+<p><i>N. B.</i> Bu bağ sistemi kısa haberin metin kısmında birden fazla hipermetin kullanımına engel oluşturmaz ama <i>ayrık</i> hipermetin site yöneticisine özel grafik efektler uygulama olanağı verir. .</p>
+
+<h2>brevesstatut/Kısa haberin durumu</h2>
+
+<h3 class="spip">Kısa haberin durumu</h3>
+
+<p>Kısa haberin işletimi makaleye göre daha basittir. 
+Kısa haberin yazarı yoktur. 
+Durumu «Önerilmiş», «Onaylanmış» veya «Reddedilmiş» olabilir. Bir kısa haberin durumunu sadece yöneticiler değiştirebilir.</p>
+
+<p>- &nbsp;<strong>Önerilmiş kısa haber</strong></p>
+
+<p>«Önerilmiş» kısa haberler «İzlenecek» sayfasında belirtilirler: tüm yazarlar bunları inceleyeip değiştirebilir. Yönetciciler 2 tane düğme görürler - onaylama ve reddetme düğmeleri.</p>
+
+<p>- &nbsp;<strong>Onaylanmış kısa haber</strong></p>
+
+<p>«Onaylanmış» kısa haberler kamusal sitede görülenlerdir. Sadece yöneticiler değişiklik yapabilir.</p>
+
+<p>- &nbsp;<strong>Reddedilmiş kısa haber</strong></p>
+
+<p>«Reddedilmiş» kısa haber kamusal sitede yayınlanmaz ve sadece yöneticiler tarafından erişilebilir.</p>
+
+<h2>breveslogo/Kısa haberin logosu</h2>
+
+<h3 class="spip">Kısa haberin logosu</h3>
+
+<p><img src="./?exec=aide_index&amp;img=0:AIDE-fr-logoart-2.gif" alt="Logo formu"  border="0" align="right">
+Sitenize her kısa haber için farklı bir logo kurabilirsiniz. Bu tek bir logo da olabilir (sabit resim), 2 durumlu (farenin üzerinden geçişine tepki veren) logo da olabilir .</p>
+
+<p>Bu tür bir logo için resim kurulumu <a HREF="./?exec=aide_index&amp;aide=logoart" TARGET="_top">makale logosu</a> ile aynı biçimde yapılır.</p>
+
+<h1>Resimler ve belgeler</h1>
+<h2>ins_img/Resim eklemek</h2>
+
+<h3 class="spip">Metne resim eklemek</h3>
+
+<p>SPIP, makaleleri ve kısa haberleri resimlerle süsleme olanağı tanır. Bu, bir kaç aşamada gerçekleşir : resmi siteye gödermeli, sonra metnin içine yerleştirmelisiniz.</p>
+
+<hr class="spip" />
+
+<p>Hazırlık: <strong>Resim formatları</strong></p>
+
+<p>Resimlerinizi (sürekli olarak kullandığınız program yardımıyla) yarattığınızda şu formatlarda birini kullanmaslısınız:
+<br />- &nbsp;GIF (<strong>.gif</strong> soyadlı),
+<br />- &nbsp;JPEG (<strong>.jpg</strong>  soyadlı),
+<br />- &nbsp;PNG (<strong>.png</strong>  soyadlı).</p>
+
+<p>Dosya isimlerinin formatı belirten bir uzantısı <i>soyadı</i> olmasına dikkat ediniz: <strong>.gif</strong>, 
+<strong>.jpg</strong> veya <strong>.png</strong>. Eğer dosyanın uzantısı yoksa sistem bu dosyayı ne yapacağını bilemez ve resmi kullanamaz.</p>
+
+<hr class="spip" />
+
+<p>Aşama 1 : <strong>Resimlerin hizmet birimine kurulması</strong></p>
+
+<p><img src="./?exec=aide_index&amp;img=0:AIDE-fr-ins_img1.gif" alt=" "  
+border="0" align="right">Resimleri metnin içine yerleştirmeden önce bu resimlerin hizmet biriminekurulması gerekir. Bu işlem grafik arayüz ile gerçekleştirilir.</p>
+
+<p>Bir makaleyi veya kısa haberi «değiştirdiğinizde», soldaki sütun size: 
+«Resim ekle» seçeneğini sunar. Bu, kullandığınız gezgine bağlı olarak arkasında «Araştır», «Parcourir», «Browse», «Seç», 
+«Dosya», «File», «Fichier»... isimli bir düğme olan bir <i>alandır</i>,</p>
+
+<p>Bu düğmeye tıkladığınızda size sabit diskinizde gezinti olanağı sağlayan bir arayüz açılır ve seçmek istediğniz resmi belirtmenize olanak tanır., une</p>
+
+<p>Daha sonra «Yükle», «Télécharger» düğmesine tıklamalısınız.</p>
+
+<p>Eğer işlem başarılı olursa resim soldaki sütunda belirir...</p>
+
+<hr class="spip" />
+
+<p>Aşama 2 : <strong>Resimle ilgili bilgiler</strong></p>
+
+<p><img src="./?exec=aide_index&amp;img=0:AIDE-fr-ins_img2.gif" alt=" "  
+border="0" align="right">Resim hizmet birimine yollandığında ekranın solunda bir kutu belirir. Bu kutuda reimle ilgili tüm bilgiler bulunur. (Bu bilgilerin bir kısmı maskelenmiştir, «aç» düğmesine tıklayarak gizlenen bu bilgilere de ulaşabilirsiniz.)</p>
+
+<p>- &nbsp;<i>İkon biçiminde gösterilim</i>. Resmin bir öngörünümü belirir. Eğer resim büyükse (200 pikselden genişse), küçültülmüş biçimi belirir.</p>
+
+<p>- &nbsp;<i>SPIP kısayolları</i>. SPIP&#8217;in 3 «kısayolu» size bu resmi metnin içine ekleme olanağı tanır. Resimlerin «IMG1», «IMG2»... biçiminde «numaralandığına» dikkat ediniz. Bu «kısayollar» aşama 3&#8217;te kullanılır.</p>
+
+<p>- &nbsp;<i>Resmin boyu.</i> Resmin hemen üstünde, genişlik ve yükseklik bilgileri (piksel veya «nokta (punto)») formatında hatırlatılır.</p>
+
+<p>- &nbsp;<i>Resmin başlığı ve tanımı.</i> Eğer isterseniz her resme bir isim ve tanım ekleyebilirsiniz. Örneğin, bir açıklama veya bir copyright...</p>
+
+<p>- &nbsp;<i>Bu resmi sil.</i> İsminden de anlaşılacağı gibi «Bu resmi sil» düğmesi dosyanın silinmesini sağlar. (eğer bir işlem hatası yaptıysanız ve bu resmi kullanmayı düşünmüyorsanız). Hizmet biriminin gereksiz dosyalarla şişmesini önlemek için kullanılmayan resimlerin silinmesini öneriyoruz.</p>
+
+<p>İstediğiniz sayıda resimle aynı işlemi tekrar edebilirsiniz. (bir makale veya kısa haber istendiği kadar resim içerebilir).</p>
+
+<hr class="spip" />
+
+<p>Aşama 3 : <strong>Metne resim eklemek</strong></p>
+
+<p>Bu aşamada, grafik dosyalar hizmet birimine kurulmuştur ama bu resimlerin metnin neresinde kullanılacağı belirtilmelidir. Bunun için HTML kullanmak gereksizdir, SPIP size basitçe resim eklemek için bir «kısayol» önerir.</p>
+
+<p>- &nbsp;<i>Açıklama içermeyen resimler</i></p>
+
+<p>Her resim için 3 kısayolu hatırlayın:
+<br />- &nbsp;&lt;img1|left>
+<br />- &nbsp;&lt;img1|center>
+<br />- &nbsp;&lt;img1|right></p>
+
+<p>Bu kısayollardan birini (le nombre correspond au numéro de l&#8217;image, il change donc pour chaque fichier) «Metin» kutusunun içine kopyalayın «left» resmi 
+sola, «right» sağa bitiştirir ve «center» ise resmi ortalar.</p>
+
+<p>SPIP ekranda bu kısayolları karşı düşen HTML kodlarla değiştirir ve resmin boyutuu otomatik hesaplar.</p>
+
+<p>- &nbsp;<i>Başlık ve açıklama içeren resimler</i></p>
+
+<p>Eğer bir başlık ve/veya açıklama eklediyseniz <img...> etiketine şu bilgiler eklenecektir :
+<br />- &nbsp;&lt;doc1|left>
+<br />- &nbsp;&lt;doc1|center>
+<br />- &nbsp;&lt;doc1|right></p>
+
+<p>Bu bilgiler de aynen yukarıda anlatıldığı biçimde kullanılırlar; bu arada, bu tipte bir «kısayol» eklediğinizde SPIP metne sadece resmi değil, başlık ve açıklamayı da ekler. Resminiz görüntülendiğinde açıklama, copyright, sanatçının ismi vb. gibi bilgileri de içerir.</p>
+
+<h2>ins_doc/Belge eklemek</h2>
+
+<h3 class="spip">Çokluortam belgeleri eklemek</h3>
+
+<p>SPIP arayüzü sitenizde çokluortam dosyaları sunmanıza olanak tanır (ses, video, metin...).</p>
+
+<p>Yazarlar makalelere belge ekleyebilirler. Bu belgeler metnin sonunda («ek belge» olarak) da verilebilir, bir ikon yardımıyla metnin içinde de kullanılabilir.</p>
+
+<p>Site yöneticileri ayrıca bölümlere de direkt olarak belge ekleyebilirler.</p>
+
+<p>Bu iki kullanım arasındaki farka lütfen dikkat edin: makalelere eklendiğinde bu belgeler «ek belge»dir, atandıkları makale olmadan hiçbir işe yaramazlar (site gezilirken bu tip dosyalar sadece makaleler üzerinden görülebilir); direkt olarak bölüme eklendiklerinde bu belgeler sitedeki diğer elemanlar gibidir, yani ek bilgi gibi değerlendirilmezler.</p>
+
+<hr class="spip" />
+
+<p>Aşama 1: <strong>Belgelerin hizmet birimine yüklenmesi</strong></p>
+
+<p><img src="./?exec=aide_index&amp;img=0:AIDE-fr-ins_doc1.gif" alt=" "  
+border="0" align="right">Dosyaların hizmet birimine yüklenmesi makaleler için arayüzün «Bir belge ekle» düğmesiyle, bölümler için «Bu bölümde bir belge yayınla» düğmesiyle gerçekleştirilir.</p>
+
+<p>Makaleler için bu arayüzün iki farklı yerde göründüğünü fark edeceksiniz: her makaleye ait sayfanın altında ve makaleyi değiştirirken sol sütunda (resimlerin altında). Bu arayüzler tamamen aynı işleve sahiptir. Bölümler için belgelerin yüklenmesi sözkonusu bölümün kendi sayfasından gerçekleştirilir.</p>
+
+<p>Dosyalarınızı yüklemeden önce bilgisayarda yaratmanız gerekir. Yükleme (gönderme) arayüzü size sistemde izin verilen dosya formatlarını anımsatacaktır. <i>Özellikle dosyalarınıza doğru uzantılar (soyadları) vermeye özen gösteriniz. (örneğin, MP3 formatındaki bir dosya için «xxxxxx.mp3» gibi.</p>
+
+<p>Arayüz resimler için kullanılanın aynısıdır : «Dosya», «Fichier» veya «File»; ve «Araştır», «Parcourir», «Browse» düğmesi (gezgine bağlı olarak değişir) sabit diskinizden bir dosya seçmeniz için bir pencere açar. Dosya seçildiğinde hizmet birimine göndermek için «Yükle» düğmesine tıklayınız. <i>Dikkat: dosyanın boyutuna bağlı olarak bu işlem zaman alabilir. Ayrıca barındırma hizmeti aldığınız firma büyük dosyalar göndermenize izin vermeyebilir. Bu kısıtlamadan kurtulmak için <a HREF="./?exec=aide_index&amp;aide=ins_upload" 
+TARGET="_top">dosyalarınızı FTP ile yüklemelisiniz.</a>.</i></p>
+
+<hr class="spip" />
+
+<p>Aşama 2: <strong>Bilgiler ve ikon</strong></p>
+
+<p><img src="./?exec=aide_index&amp;img=0:AIDE-fr-ins_doc2.gif" alt=" "  
+border="0" align="right">Dosya hizmet birimine yüklendiğinde bir bilgi kutusu açılır. Burada bir çok işlem gerçekleştirilebilir.</p>
+
+<p>- &nbsp;<i>Öngösterim ikonu</i></p>
+
+<p>Bu kavram çok önemlidir: resimlerin tersine eklenen belgeler direkt olarak görünmezler. Ziyaretçiye bir öngösterim ikonu sunulur ve belgeyi görebilmesi için bu ikona tıklaması istenir.</p>
+
+<p>Kutunun üstü öngösterim ikonunu seçmenize olanak tanır. Vous pouvez opter pour une <i>Varsayılan bir ikon</i>&#8217;da seçebilirsiniz yeni bir <i>kişisel logo</i>&#8217;da ekleyebilirsiniz.</p>
+
+<p>Varsayılan ikon sistem tarafından belgenin türüne bağlı olarak otomatik yüklenir. Bu ikonu bırakmak aynı türden belgelerin sunumunun tek tip olması açısından yararlı olabilir.</p>
+
+<p>Eğer isterseniz, varsayılan ikonun yerine (tercihen GIF, JPG veya PNG türünde ve küçük boyutlu) bir logo yükleyebilirsiniz. Böyle bir logo yüklerseniz «Kişisel ikonu sil» düğmesi her zaman varsayıolan ikona dönme olanağı tanır.</p>
+
+<p>- &nbsp;Makalelerin değiştirilmesi sayfasında resimlerdekine benzer biçimde metne belge eklemek için «kısayollar» sunulur.</p>
+
+<p>- &nbsp;Kutunun alt bölümü belgeye başlık eklemenize ve açıklama yazmanıza olanak tanır. Burada çokluortam dosyasının formatını ve boyutunu belirtmek gereksizdir, bu bilgiler yayın sistemi tarafından otomatik olarak sunulmaktadır.</p>
+
+<p>- &nbsp;Son olarak, «Bu belgeyi sil» düğmesi gereksiz belgeleri silmeye yarar. <i>Dikkat: istenmeyen belgelerin silinmesi zorunludur yoksa kamusal sitede görünürler.</i></p>
+
+<p>- &nbsp;<strong>Bölümlerde yüklü belgeler varsa,</strong> bu belgelerin yayın tarihini de değiştirebilirsiniz (makale veya kısa haberde yaptığınız gibi). Bu ayarlar yapıltığında bölümdeki belgeler kamusal sitede hemen belirirler (makale veya kısa haber gibi «onaylanmaları» gerekmez).</p>
+
+<hr class="spip" />
+
+<p>Aşama 3: <strong>Makale metinlerine belge eklemek</strong></p>
+
+<p>Makalelere atanan belgeler için yüklemek ve bilgileri belirtmek yeterlidir (yukarıdaki 1 ve 2 numaralı aşamalar). Makaleyi yayınlayacağınız zaman bu belgeler metnin ardından bir liste halinde belirecektir <i>ekli belgeler</i>.</p>
+
+<p>Bu arada, metne öngösterim ikonları da ekleyebilirsiniz. Böylece makalenin içinde tıklanabilecek resimler elde edersiniz.</p>
+
+<p>Burada kullanılan yordam resimlerdekinin aynısıdır, ama ufak bir fark vardır : resimlere tıklanabilir. Sadece ikonu veya başlığı ve açıklamayı göstermek istediğinizde &lt;imgxx|yy> veya &lt;docxx|yy> biçiminde bir kısayol ekleyiniz.</p>
+
+<p><i>Dikkat:</i> metnin içine ekleyeceğiniz belgeler artık <i>makalenin altında</i> görünmezler. Makalelerde belgelerin görüldüğü 2 yer vardır : metnin içinde (tıklanabilir ikon) veya «Ekli belge» başlığı altında makalenin ardında.</p>
+
+<hr class="spip" />
+
+<p>Özel durum : <strong>Video ve ses belgeleri</strong></p>
+
+<p>Bazı çokluortam dosya formatları Web sayfasında direkt olarak gösterilmek üzere tasarlanmışlardır. (örneğin makale içine direkt olarak eklenmiş bir video).</p>
+
+<p>Makalenin içine bu tür belgeler ekleyebilmek için (artık tıklanabilir ikon tipinde olamaz, ama çokluortam animasyonu tipinde olabilir) boyutları belirtmeniz gerekir : genişlik ve yükseklik kesi,nlikle sıfırdan büyük olmalıdır (ses dosyaları için genişlik olarak imleç boyutu verilecek, yükseklik olarak örneğin 25&nbsp;piksel verilecektir).</p>
+
+<p><i>Dikkat:</i> boyut girmek için açılan kutular sadece SPIP tarafından kabûl edilen dosya formatları (tipleri) için görünür (özellikle: avi, quicktime, real, flash).</p>
+
+<p>Bu boyutlar belirlendiğinde size ekstra bir&nbsp;SPIP kısayolu önerilecektir : &lt;embxx|yy> (anımsamak için: «<strong>emb</strong>ed»).</p>
+
+<p>Bu türden eklemeleri biliyorsanız ekstra parametreler ekleyebileceğinizi de biliyorsunuzdru örneğin :</p>
+
+<form action=''  method='get'><div>
+<input type='hidden' name='exec' value='' />
+<textarea readonly='readonly' cols='40' rows='2' class='spip_cadre' dir='ltr'>&lt;emb54|center|autostart=true|quality=high&gt;</textarea></div></form><h2>ins_upload/FTP ile dosya yüklemek</h2>
+
+<h3 class="spip">FTP ile dosya yüklemek</h3>
+
+<p>Bazı hizmet birimleri Web arayüzü ile dosya gönderme seçeneğini engellerler. Özellikle büyük dosyaları bu yolla göndermek çok eziyetli olabilir. SPIP bu kısıtlamaları aşmak için kullanmak istediğiniz resim, belge gibi dosyaları  FTP ile göndermenize olanak tanır.</p>
+
+<p>Bu işlem tabii ki hizmet birimine bağlantı kodlarına sahip kişilere ayrılmıştır.</p>
+
+<p>- &nbsp;<strong>/ecrire/upload dizini</strong></p>
+
+<p>SPIP sitenizin /ecrire/upload dizinine, sürekli olarak kulandığınız FTP yazılımınızla dosyalarınızı yüklemeniz yeterlidir (resimler, çokluortam belgeleri).</p>
+
+<p>- &nbsp;<strong>Dosyalara ait kayan mönü</strong></p>
+
+<p>Yükleme işleminden sonra otomatik olarak bi rkayan mönü açılır ve size bu dizindeki dosyaların listesini sunar. Dosyayı seçmeniz ve bu seçiminizi onaylamanız yeterlidir.</p>
+
+<p>İşlem başarılı olursa eklediğiniz dosyayı /ecrire/upload dizininden silmeyi unutmayınız (çünkü hizmet birimi, bu kayan mönüyü sonsuza kadar uzatmamak için dosyanın bir kopyasını başka bir yere kopyalamıştır ve orijinal dosyanız artık kullanılamaz).</p>
+
+<p>- &nbsp;<strong>Bir kerede tüm dosyalar</strong></p>
+
+<p>Eğer bir kerede tüm dosyaları /ecrire/upload dizinine yüklemek isterseniz size ek bir işlev sunulur : tüm bu dosyaları tek bir işlemle yükleyebilirsiniz. Bu seçenek portföy yaratmak için çok kullanışlı olabilir.</p>
+
+<h3 class="spip">Resim ve belge koleksiyonu</h3>
+
+<p><i>Zip</i> formatında bir arşiv dosyası yüklenerek bir kerede  resim ve belge koleksiyonu kolayca eklenebilir.</p>
+
+<p>SPIP, bu arşivi olduğu gibi makaleye eklemeyi veya arşivi açmayı ve tüm resimleri ve belgeleri makaleye atamayı önerecektir.</p>
+
+<h1>Anahtar sözcükler</h1>
+<h2>mots/Anahtar sözcük prensibi</h2>
+
+<h3 class="spip">Anahtar sözcükler</h3>
+
+<p>SPIP&#8217;in en önemli kısıtlaması hiyerarşik yapısıdır: her makale sadece bir bölümde bulunabilir, bu da bazen sınıfladırmada problem yaratır.</p>
+
+<p>Anahtar sözcükler sitede gezinirken dikey geçişlere olanak tanır. Bir makaleye bir çok anahtar sözcük ekleyerek farklı bölümde benzer temadaki diğer makalelere bağ sağlanır.</p>
+
+<p>Eğer anahtar sözcüklerin herbiri makaleler arasında bağlantı sağlamak için birçok makaleye birden bağlanırsa pek işe yaramaz.</p>
+
+<p><i>Anahtar sözcükleri sadece yöneticiler yaratıp değiştirebilir.</i></p>
+
+<p><i>Eğer iyi düzenlenmişse bölümlerin yapısı çoğunlukla anahtar sözcüklerin kullanımını gereksiz kılar: benzer temadaki makaleler aynı bölüm altında bulunurlar, böylece herbirinin temasını belirtmek için anahtar sözcük eklemek gereksizleşir. Yöneticiler <a 
+HREF="./?exec=aide_index&amp;aide=confart" TARGET="_top">İnce ayar</a> sayfasında anahtar sözcük kullanımını tamamen iptal edebilirler.</i></p>
+
+<h2>artmots/Anahtar sözcükler</h2>
+
+<h3 class="spip">Anahtar sözcükler</h3>
+
+<p>Sitede gezintiyi ayırabilmek için <a HREF="./?exec=aide_index&amp;aide=mots" 
+TARGET="_top">anahtar sözcükleri</a> makalelere, kısa haberlere ve referans verilen sitelere bağlamak olasıdır. Böylece ziyaretçi bölümden bölüme gezmekle kalmaz ayrıca (anahtar sözcükle belirtilen) temadaki bir makaleden aynı anahtar sözcüğe bağlı başka bir makaleye geçebilir.</p>
+
+<p>Her makale, kısa haber veya site için istenen sayıda anahtar sözcük eklemek olasıdır.</p>
+
+<p>Bir kayan mönü sitenin tüm anahtar sözcüklerini listeler. Kullanımı gayet basittir. <i>Dikkat: 50&#8217;den fazla anahtar sözcük varsa bu kayan mönünün yerine bir arama motoru gelir: 
+arzu etiğiniz sözcüğü giriniz ve «Ara» düğmesine tıklayınız.</i></p>
+
+<p><strong>N. B.</strong> Anahtar sözcükleri sadece yöneticiler kendilerine ayrılan (gezinti arayüzünde «Anahtar sözcükler» düğmesiyle yapabilirler).</p>
+
+<p><i>Yöneticiler anahtar sözcük kullanımını tüm sitede «<a 
+HREF="./?exec=aide_index&amp;aide=confart" TARGET="_top">İnce ayar
+</a>» arayüzünü kullanarak iptal edebilirler.</i></p>
+
+<h2>motsgroupes/Sözcük grupları</h2>
+
+<h3 class="spip">Sözcük grupları</h3>
+
+<p>Çok anahtar sözcük olduğunda hızlı biçimde yönetmek zorlaşır. Bu yüzden bu sözcükleri birleştiren gruplar yaratılabilir. Arayüz bu durumda daha açık olur (örneğin, «Ülke» grubu 
+«Namibya», «Almanya», 
+«Peru» sözcüklerini; «Tema» grubu «İşsizlik», 
+«Şiir», «hayvanlar» sözcüklerini kapsar...).</p>
+
+<h1>Atıfta bulunulan siteler</h1>
+<h2>reference/Bir siteye atıfta bulunmak</h2>
+
+<h3 class="spip">Atıfta bulunulan siteler</h3>
+
+<p>SPIP başka sitelere bağ listelerini yönetmek için mükemmel bir sistem sunar. Bu sistem eksiksizdir ve şu işlemlere olanak tanır:
+<br />- &nbsp;bu listeleri bölümler halinde gruplamak (makalelerle aynı bölümlerde veya bir rehber gibi bu kullanıma özgü bölümlerde);
+<br />- &nbsp;her siteye bir logo atamak;
+<br />- &nbsp;referans verilen her siteye bir anahtar sözcük atamak;
+<br />- &nbsp;her site için kişiselleştirilmiş bir açıklama eklemek.</p>
+
+<p>Ayrıca, bu işleme izin veren sitelerde yayınlanan son makaleleri otomatik olarak almak (bkz «<a 
+href="./?exec=aide_index&amp;aide=rubsyn" target="_top">Haber paylaşılan siteler</a>»).</p>
+
+<p><strong>Yeni bir siteye atıfta bulunmak</strong></p>
+
+<p>Her bölüm sayfasındaki «Yeni bir siteye atıfta bulun» düğmesi yeni bir site belirtmenize olanak tanır.</p>
+
+<p>«Klasik» yöntem sitenin adını belirtmek, URL&#8217;sini yazmak ve bir açıklama eklemektir. Bunlara ek olarak sitenizde bu atıfın ekleneceği bölümü seçmek de olasıdır.</p>
+
+<p>Sayfanın altındaki çerçeve ile içeriğin paylaşılmasını sağlayabilirsiniz. Bu konu hakkında daha detaylı bilgi almak için  <a 
+href="./?exec=aide_index&amp;aide=rubsyn" target="_top">haber paylaşılan siteler</a>. Basit bir atıfta bulunma yöntemi de «Paylaşım yok» seçeneğini bırakmaktır.</p>
+
+<p><strong>Hızlı referans</strong></p>
+
+<p>Yeni bir atıf yaratıldığında sayfanın üstünde bir çerçeve çıkar ve başlığını ve açıklamayı girmeden hızlı biçimde atıfta bulunmanız olanak tanır. Bunun için sayfanın URL&#8217;sini vermek ve onaylamak yeterlidir. SPIP, olanak dahilinde bu sayfaya bir açıklama ve başlık ekleyecektir. Bu bilgileri daha sonra değiştirebilirsiniz.</p>
+
+<p><strong>Referans verilen siteleri kimler önerebilir ?</strong></p>
+
+<p>«Sitenin ince ayarı» sayfasında yöneticiler site sadece yöneticilerin veya yazayların veya ziyaretçilerin site önermelerine izin verebilirler (bu durumda, kamusal sitede bir form ziyaretçilere site önerme olanağı tanır).</p>
+
+<p>Her 3 durumda da sadece yöneticiler atıf için önerilen siteleri onaylayabilir. Bir site atıf için önerildiğinde özel alan katılımcıları forumda bu sitenin tutarlılığını tartışabilirler.</p>
+
+<h2>rubsyn/Paylaşımlı siteler</h2>
+
+<h3 class="spip">Paylaşımlı siteler</h3>
+
+<p>Otomatik yayım sistemi ile (SPIP veya phpNuke)üretilen  siteler  son makaleleri sürekli olarak gösterebilirler. Bu tür bir dosya için «backend dosyası» isimli standart bir format vardır.</p>
+
+<p>Bu dosya otomatik olarak basitçe incelenebilir ve yenilikler görülebilir. SPIP bu biçimde başka sitelerdeki yenilikleri gösterebilir.</p>
+
+<p>Bölümlerinizde <a 
+href="./?exec=aide_index&amp;aide=reference" target="_top">atıfta bulunulan her site</a> için bu sitede yayımlanan son makaleleri belirtebilirsiniz. Tabii bunun için atıfta bulunulan sitenin <i>backend</i> dosyası hizmetini sunuyor olması gerekir.</p>
+
+<p>- &nbsp;<strong>«backend.php3» dosyalarını nasıl buluruz ?</strong></p>
+
+<p>SPIP veya phpNuke ile yönetilen sitelerde <i>backend</i> dosyalarının yerini bulmak kolaydır: sitenin kök dizininde bulunan bir dosyadır ve ismi 
+«backend.php3»&#8217;tür. (veya «backend.php»). Örneğin, uZine için 
+(<TT><a href="http://www.minirezo.net/" class='spip_url spip_out' rel='nofollow external' target="_blank">http://www.minirezo.net/</a></TT>) backend dosyasının ismi</p>
+
+<LI> <TT><a href="http://www.minirezo.net/backend.php3" class='spip_url spip_out' rel='nofollow external' target="_blank">http://www.minirezo.net/backend.php3</a></TT>
+
+<p>Diğer backend dosyaları:</p>
+
+<LI> <code class='spip_code' dir='ltr'>http://www.davduf.net/backend.php</code></LI>
+<LI> <code class='spip_code' dir='ltr'>http://www.vacarme.eu.org/backend.php3</code></LI>
+<LI> <code class='spip_code' dir='ltr'>http://www.vakooler.com/backend.php3</code></LI>
+
+<p>Son olarak şunu da belirtelim <i><A HREF="http://rezo.net/backend" 
+TARGET="autre">Bir başka portal da</A></i> referasn verdiği sitelerin backend dosyaları olmasa da yenilikleri listeler. Bu sayfada <i>Diğer portal</i> taafından referans verilen sitelere ait 30&#8217;a yakın backend dosyası ve tematik dosya bulunmaktadır.</p>
+
+<p>- &nbsp;<strong>Haber paylaşılan bir sitenin kendi sisteminize eklenmesi</strong></p>
+
+<p>Bölümlerden birinde bir sitenin adresini belirtmekten öte bu siteye referans verirseniz, sitenin URL&#8217;sini ve açıklamasını girerseniz nu siteyle haber paylaşımı yapmayı önerebilirsiniz (demek ki haber paylaşılan bir site öncelikle referans verilen ve SPIP&#8217;in son değişikliklerini listelediği bir sitedir).</p>
+
+<p>Bunun için, «Haber paylaş» seçeneğini seçiniz ve <i>backend</i> dosyasının adresini giriniz. Onaylamadan sonra haber paylaşımının başarılı olup olmadığı ileti olarak size yollanacaktır.</p>
+
+<p>Eğer haber paylaşımı başarılı olmazsa:
+<br />- &nbsp;sitenin URL&#8217;sini kontrol ediniz; 
+<br />- &nbsp;haber paylaşmak istediğiniz sitenin çevrimiçi olarak erişilebilir olduğunu kontrol ediniz.</p>
+
+<p>- &nbsp;<strong>Hızlı referans</strong></p>
+
+<p>Bir sitenin hızlı referans işlevi (sitenin direkt URL&#8217;sini belirtmek ve SPIP&#8217;in diğer gerekli bilgileri otomatik almasını beklemek) özellikle haber paylaşılan sitelere özel bir uygulamadır. Aslında, hızlı referans esnasında sitenin URL&#8217;sini vermek yerine <i>backend</i> dosyasının adresini belirtmek daha mantıklıdır: SPIP otomatik olarak bir çok bilgiyi alacak ve direkt olarak haber paylaşımına başlayacaktırrmations et procédera directement à la syndication.</p>
+
+<p>- &nbsp;<strong>Paylaşılan makaleler</strong></p>
+
+<p>Paylaşım çalışınca SPIP bu site tarafından yayınlanan son makaleleri gösterir. Bu konuya ayrılmış yardım sayfalarını <a 
+href="./?exec=aide_index&amp;aide=artsyn" target="_top">şu adreste görebilirsiniz</a>.</p>
+
+<p>- &nbsp;<strong>Kendi sitenizin backend dosyası</strong></p>
+
+<p>SPIP backend dosyasını otomatik olarak oluşturur. Bu arada, sitenin ismini ve adresini belirtmeyi unutmayınız <a 
+HREF="./?exec=aide_index&amp;aide=confnom" TARGET="_top">İnce ayar</a>.</p>
+
+<h2>artsyn/Paylaşılan makaleler</h2>
+
+<h3 class="spip">Paylaşılan makaleler</h3>
+
+<p><a 
+HREF="./?exec=aide_index&amp;aide=rubsyn" TARGET="_top">Bir siteden paylaşım</a> istediğinizde SPIP bu sitede yayınlanan son makaleleri «Bu siteden alınan paylaşımlı makaleler» başlığı altında gösterir</p>
+
+<p>SPIP her makale için:
+<br />- &nbsp;makale başlığını (makalenin orijinaline ulaşmak için bu başlığa tıklamak yeterlidir);
+<br />- &nbsp;makalenin yazarlarını;
+<br />- &nbsp;makale açıklamasını
+gösterir.</p>
+
+<p>Haber paylaşılan siteden alınan bu bilgiler değiştirilemez.</p>
+
+<p>Ayrıca, her makale için kendi sitenizde yayınlanmasını engelleyen «bu bağı iptal et» düğmesi bulunur. (bir makale size uymayabilir, bir hata bu bağın çalışmasını engelleyebilir...). İstediğiniz an daha önce iptal ettiğiniz bir makalenin tekrar yayınlanmasını sağlayabilirsiniz.</p>
+
+<p>İleride gelebilecek tüm bağların önceden iptal edilmesini de sağlayabilirsiniz. Bu biçimde alınan makaleler birer birer «el ile» onaylandıktan sonra gösterileceklerdir.</p>
+
+<h2>confhttpproxy/Bir vekil kullanmak</h2>
+
+<h3 class="spip">HTTP bir vekil kullanmak</h3>
+
+<p>Eğer siteniz bir ateş-duvarının (<i>firewall</i>) ardındaysa Internet üzerinde paylaşılan sitelere ulaşmak için bir HTTP vekil kullanmanız uygun olacaktır.</p>
+
+<p>Bu vekil dışarıya doğru arama isteklerine onay vermelidir.</p>
+
+<p>Sitenizin konfigürasyonunda («SPIP işlevleri» bölümünde) vekili şu biçimde ayarlayınız:</p>
+
+<p><code class='spip_code' dir='ltr'>http://proxyismi:port/</code></p>
+
+<p>burada <i>proxyismi</i> vekilin hizmet birimini <i>port</i> ise isteklerin gönderileceği TCP kapısını gösterir (çoğunlukla 3128, 8080, belki de 80).</p>
+
+<p>Dikkat: bu ayar geneldir: SPIP tüm paylaşılan siteleri bu vekil üzerinden arayacaktır. Daha ince ayar yapmanız gerekiyorsa sitenizin yöneticisine başvurmalısınız.</p>
+
+<h1>İç mesajlaşma</h1>
+<h2>messut/<img src='../prive/images/m_envoi.gif' border=0> Kullanıcılar arası iletiler</h2>
+
+<h3 class="spip">Kullanıcılar arası iletiler</h3>
+
+<p>SPIP site kullanıcıları arasında e-posta göndermeden mesajlaşmayı kolaylaştırı.</p>
+
+<p>Bir ileti bir veya bir kaç kullanıcıya «gönderildiğinde»  özel bir tartışma forumuna dönüşür. Böylece bir ileti gönderildiğinde bu ileti metninin altında bir tartışma forumu biçiminde yer alabilir. SPIP&#8217;te bir iletinin aynı zamanda özel bir tartışma forumu olduğu düşünülebilir (yani tartışmak için tonlarca ileti göndermek gereksizdir, yazışılan kişiyle aynı iletide «kalmak» ve bu iletiye ayrılan özel forum sayesinde «tartışmak» yeterlidir).</p>
+
+<p><i>Not:</i> Kullanıcılar arasındaki iletiler ve bu iletilere bağlı forumlar özeldir, yani SPIP site yöneticilerine bu iletileri görmeleri için bir arayüz sunmaz. Ama yine de bu güvenliğin bağıl bir güvenlik olduğuna dikkatinizi çekmek isteriz: veritabanına ulaşmak için herhangi bir araca sahip bir site yöneticisi iletilerinizi okuyabilecektir.</p>
+
+<p>- &nbsp;<strong>Bir ileti/tartışma oluşturmak</strong></p>
+
+<p>Bir ileti göndermenin en kolay yolu alıcının isminin yanındaki yeşil logo&#8217;ya tıklamaktır (küçük bir «M» ve bir üçgen). Bu hemen yeni bir ileti oluşturacaktır.</p>
+
+<p>İkinci yöntem her SPIP sayfasında bulunan «Yeni ileti» düğmesini kullanmaktır. Bu alıcısız bir ileti oluşturur. Bu iletiyi göndermeden önce alıcıyı belirtmeniz gerekir</p>
+
+<p>Bu iletilerin yazımı için kullanılan arayüz çok basittir.</p>
+
+<p>Yapılan yaygın yanlış iletiyi «göndermeyi» unutmaktır: ileti «yazılmakta» olduğu sürece sadece yazar tarafından ulaşılabilir. Alıcılara gösterilmesi için gönderilmesi gerekir. (dikkat: ileti gönderildikten sonra değiştirilemez).</p>
+
+<p>- &nbsp;<strong>Bir alıcı Eklemek/silmek</strong></p>
+
+<p>Her an yeni bri alıcı eklenebilir: ister iletinin yazımı esnasında, ister gönderildikten sonra (örneğin yeni bir katılımcıyı ilgisini çeken bir foruma eklemek için).</p>
+
+<p>Aynı biçimde, bir katılımcı her an listeden çıkarılabilir «Bu foruma artık katılma» düğmesi her bir katılımcıya tartışmadan kendini çıkarma olanağı tanır.</p>
+
+<p>- &nbsp;<strong>Bir randevu ayarlamak</strong></p>
+
+<p>Her ileti randevuya dönüştürülebilir: yani bir tarihe bağlanabilir ve SPIP takviminde yayınlanabilir.</p>
+
+<p>- &nbsp;<strong>Sitedeki herhangi bir kullanıcıya yazılabilir mi ?</strong></p>
+
+<p>Bazı redaktörler ulaşılamaz olabilir («Bir katılımcı ekle» listesinde görülmezler ve isimlerinin yanında mesajlaşma ikonu bulunmaz):
+<br />- &nbsp;iç mesajlaşmayı kullanmak istemeyen redaktörler;
+<br />- &nbsp;15 günden fazla bir süredir sitenin özel alanına bağlanmamış redaktörler ulaşılamazdır (az bağlanan bu kullanıcılar klasik e-posta tercih edilmelidir).</p>
+
+<h2>messpense/<img src='../prive/images/m_envoi_bleu.gif' border=0> Anımsatıcılar</h2>
+
+<h3 class="spip">Anımsatıcılar</h3>
+
+<p>Anımsatıcılar biçim olarak iletiye benzerler: ama alıcıları yoktur. Sadece yazarı tarafından ulaşılabilirdir.</p>
+
+<p>İsminin de belirttiği gibi anımsatıcı korunmak istenen elemanları not etmek içindir.</p>
+
+<p>- &nbsp;<strong>Takvime anımsatıcı yerleştirmek</strong></p>
+
+<p>Anımsatıcının en basit kullanımı ona bir tarih vermektir. Bu yöntemle, anımsatıcı verilen tarhe kadar (ve izleyen 24 saat boyunca) yazarına anımsatılır ve SPIP takviminde görülür.</p>
+
+<p><i>Not:</i> Kullanıcılar arası iletiler gibi anımsatıcılarda da güvenlik konusuna dikkatinizi çekiyoruz. SPIP site yöneticileri bu anımsatıcıları görme olanağı sağlamaz ama veritabanına erişim araçları buna izin veirler.</p>
+
+<h2>messcalen/Takvim</h2>
+
+<h3 class="spip">Takvim</h3>
+
+<p>SPIP takvimi iki farklı bilgi verir:</p>
+
+<p>- &nbsp;<strong>sitenin tamamına yönelik ortak bilgiler;</strong> makale ve kısa haberlerdir - böylece takvim yayın tarihlerine göre makalelerin bulunmasını sağlar;</p>
+
+<p>- &nbsp;<strong>özel bilgiler;</strong> kullanıcılar ve randevu özelliği olan anımsatıcılar arasındaki mesajlaşmalardır. Bu takvim ayrıca randevu kaydetmeyi ve anımsatmayı da gerçekleştirir.</p>
+
+<p>Takvimin her gününün yanında küçük mavi bir logo olduğuna dikkat ediniz : bu logo size, o tarihte bir anımsatıcı oluşturma olanağı tanır (bir randevunun saati bu anımsatıcıya ait editör yardımıyla daha net olarak ayarlanabilir).</p>
+
+<h2>messconf/Mesajlaşmanın kişisel düzenlenmesi</h2>
+
+<h3 class="spip">İç mesajlaşmanın kişisel düzenlenmesi</h3>
+
+<p>Sitedeki her kullanıcı iç mesajlaşmayı kendi istediği biçimde düzenleyebilir.</p>
+
+<p><i>Lütfen dikkat:</i> Site yöneticileri sitede mesajlaşma kullanmamaya karar verebilirler.</p>
+
+<p>- &nbsp;<strong>İç mesajlaşmayı kullanmamak</strong></p>
+
+<p>Eğer iç mesajlaşma tüm site için açıksa (yöneticilere verilmiş bir seçenektir), her kullanıcı bu sistemi kullanıp kullanmayacağına kendi karar verir (yani, bu sistem aracılığıyla diğer kullanıcılara ileti atıp onlardan da ileti almaya).</p>
+
+<p>- &nbsp;<strong>Bağlı bulunan redaktör listesini kullanmamak</strong></p>
+
+<p>Bu işlev kullanılabilir olduğunda (yöneticinin seçimine bağlıdır) ve bir kullanıcı iç mesajlaşmayı da kullanıyorsa «bağlı redaktörler listesi»&#8217;ne girip girmemeye kendi karar verir.</p>
+
+<p>Bu işlev sürekli olarak o adna bağlı olan redaktörleri gösterir, böylece kendi aralarında haberleşmelerini kolaylaştırır. Bazı kullanıcılar bu işlevi rahatsız edici bulurlar. Bu durumda bu seçeneği kapatmak yeterlidir: böylece listede yer almazlar ve liste kendi sayfalarında da görünmez.</p>
+
+<p><i>Not:</i> Bir yönetici bağlı redaktörler listesinde yer almak istemediğinde liste yine de sayfasında görünecektir: yani bir yönetici diğer redaktörleri «görecek» ama diğerleri onu «göremeyecek»lerdir.</p>
+
+<h1>Forumların izlenmesi</h1>
+<h2>suiviforum/Forumların izlenmesi</h2>
+
+<h3 class="spip">Forumların izlenmesi</h3>
+
+<p>Forumların izlenmesi sayfası sitenizin önemli bir elemanıdır, eğer kamusal forum kullanımına izin verdiyseniz 
+(bu konu hakkında <a 
+HREF="./?exec=aide_index&amp;aide=confforums" TARGET="_top">kamusal forumların düzenlenmesi</a>)&#8217;ne bakabilirsiniz. Bu forumların yönetimi buradan yapılır.</p>
+
+<p>- &nbsp;<strong>Mesajların sunulması</strong></p>
+
+<p>Mesajlar burada hiyerarşik yapılarına göre değil (<i>thread</i>&#8217;e göre) tarihe göre ters sıralı olarak (en yeniler en üstte) birbirlerinin peşi sıra gösterilirler. Buna karşılık her mesaj bağlı olduğu makalenin ismiyle gösterilir.</p>
+
+<p>- &nbsp;<strong>Bir mesajı silmek</strong></p>
+
+<p>Ana olasılık katılımları <i>silmek</i>tir.  <strong>Dikkat:</strong> bu işlem geri alınamaz. Silinmiş bir mesaj yeniden yayınlanamaz. Ama veritabanından silinmez: bu sayfada kırmızı çerçeveli olarak gönderiliş tarihi ve gönderi,cinin Ip&#8217;siyle birlikte görülür.</p>
+
+<p>- &nbsp;Eğer kamusal forumları <i>a priori</i> bir yönetim için düzenlediyseniz bekleyen mesajlar sarı renkte gösterilir ve size 2 düğme sunar : <i>Bu measjı sil</i> ve <i>Bu mesajı onayla</i>.</p>
+
+<h1>Sitenin yapılandırılması</h1>
+<h2>confnom/Sitenizin ismi ve adresi</h2>
+
+<h3 class="spip">Sitenizin ismi ve adresi</h3>
+
+<p>Sitenizin ismi ve adresi (URL) özellikle «backend.php» dosyasının oluşturulması için kullanılır. Bu dosya sitenizin sendikasyonu için kullanılır (yani, diğer bir sitede sizin sitenizde yayınlanan son 10 makalenin gösterimi için).</p>
+
+<p>Sitenizin adresi ana sayfadaki <i>dizin</i> adresi olmalıdır buna karşı düşen HTML sayfanınki değil; yani «/» karakteri ile bitmelidir. Örneğin, ana sayfanızıan adresi şöyle ise:</p>
+
+<p><TT>http://www.benimsitem.net/index.html</TT>,</p>
+
+<p>sitenizin URL&#8217;si şöyle olmalıdır:</p>
+
+<p><TT>http://www.benimsitem.net/</TT></p>
+
+<h2>confart/Makalelerin içeriği</h2>
+
+<h3 class="spip">Makalelerin içeriği</h3>
+
+<p>Makaleler şu elemanlardan oluşur : başlık, üst-başlık, alt-başlık, açıklama, şapka, metin sonu (P.S. post-scriptum)... Bazı siteler tüm bu elemanlara gereksinim duymaz: bunlar yazarlar tarafından hiç kullanılmaz veya grafik arayüz bu bilgileri içermez.</p>
+
+<p>Sitenin yönetim arayüzünü hafifletmek için ve/veya yazarların yönetici tarfından kullanılmayacak bilgileri kullanmasını engellemek için «İnce Yapılandırma» sayfası kullanılır.</p>
+
+<p><strong>N. B.</strong> Burada şunu anlamak çok önemlidir <A 
+HREF="aide_index.php?aide=intersimple" target="_top"><i>basit arayüz/ tam arayüz</i></A> sadece her bir kullanıcının arayüzünü etkilerken, «ince konfigürasyon» tüm kullanıcıları etkiler. Böylece, üst-başlık kullanımını yasaklarsanız artık hiçbir yazar ve hiçbir yönetici makalelerinde üst-başlık kullanamaz.</p>
+
+<p>Arayüz bu elemanların olup olmamalarına göre kendini ayarlar. Örneğin anahtar sözcüklerin kullanımını yasaklarsanız gezinti çubuğunda bu işleve karşı düşen düğme çubuktan tamamen kaybolacaktır.</p>
+
+<h2>confdates/Tarihi gelmemiş makaleler </h2>
+
+<h3 class="spip">Tarihi gelmemiş makalelerin yayınlanması</h3>
+
+<p>Yöneticiler bir makalenin <A 
+HREF="aide_index.php?aide=artdate" TARGET="_top">yayın tarihini</A> (makale «Yayınladı» olarak tanımlanmışsa)değiştirebilirler.</p>
+
+<p>SPIP yayın tarihi ileri bir tarih olan bir makaleye rastlarsa nasıl davranmalıdır ? Yayın tarihi ne olursa olsun yayınlamalı mıdır ?
+(garip bir biçimde tarih henüz «21 mayıs» iken 23&nbsp;mayıs tarihli bir makaleyi yayınlamalı mıdır) veya bu makaleyi yayınlamak için belirtilen tarihin gelmesini mi beklemelidir ?</p>
+
+<p>- &nbsp;Bu işlemin yararı bir seri makaleyi önceden programlamaktır. Örneğin: site yöneticisi tatile çıkacaktır ve hazırladığı bir kaç makaleyi özel alana «Yayınlandı» biçiminde yerleştiri ama yayın tarihi olarak 1 aya yayılmış ileri tarihler belirtir. Bu şekilde tüm makaleleri bir anda <i>paket</i> halinde koymak yerine teler teker 1 aya yayılmış olarak yayınlar. Böylece site, yazarın yokluğunda bile 1 ay boyunca sürekli olarak «yeni» makaleler yayınlamış olur.</p>
+
+<p>- &nbsp;Bir bilim-kurgu sitesi <i>marslılar günlüğü</i> için 2030 yılını beklememek için bu özelliği kapatabilir. Aylık bir dergi için 20 Mart&#8217;ta Nisan sayısını yayınlamak hoş olmayacaktır.</p>
+
+<h2>confforums/Forumların işleyişi</h2>
+
+<h3 class="spip">Kamusal forumların işleyişi</h3>
+
+<p>Kamusal forumların yönetimi her yönetici için farklıdır. Bazı site yöneticileri forum istemez, bazıları ise mesajların (önceden) kontrol edildikten sonra yayınlanmasını ister.</p>
+
+<p>SPIP kamusal forumlarınızın işleyişini belirlemenize olanak tanır (iç forumlar da tüm yazarlara açık dış forumlar gibi yönetilir ve (sonradan) kontrol edilir).</p>
+
+<p>- &nbsp;<strong>Kamusal forumları kapatmak</strong></p>
+
+<p>Forumlar kapatıldığında katılım arayüzü kaybolur, ve eski katılımlar artık gösterilmez (veritabanından silinmezler ama gösterilmeleri engellenir). Bu seçenek sayfa düzeninde (iskelette) forumlara yer verilse bile forumların çalışmasını önler..</p>
+
+<p>Bu seçeneği sürekli olarak veya (site hiçbir zaman tartışam forumu sunmaz) geçici olarak kullanabilirsiniz.(forum etkinliğini bir süreliğine durdurmak için).</p>
+
+<p>- &nbsp;<strong>Sonradan kontrol edilen forumlar</strong></p>
+
+<p>Forumlar sonradan kontrol edildiğinde <i>a posteriori</i> katılımlar hemen yayınlanır. Daha sonra forum takip sayfası aracılığı ile kontrol edebilirsiniz. <i>SPIP&#8217;in varsayılan ayarı sonradan kontroldur.</i></p>
+
+<p>- &nbsp;<strong>Önceden (a priori) kontrol edilen forumlar </strong></p>
+
+<p>Önceden kontrol edilen forumlarda katılımlar biriktirilir ama yayınlanmaz. Yöneticiler takip sayfasını kullanarak her mesajı onaylar veya reddederler.</p>
+
+<p>- &nbsp;<strong>Abone yöntemiyle çalışan forumlar</strong></p>
+
+<p><i>Abone yöntemiyle çalışan</i> forumlarda katılmak isteyen kullanıcılar e-posta adreslerini girerek kayıt olurlar ve karşılığında isim içeren bir e-posta mesajı alırlar. 
+Özel alana erişim hakkı olan yazarlar için bu isim kendi "login" isimleridir.</p>
+
+<p>Bu yöntem hem kişileri sorumluluk almaya iten (katılımcılar e-posta adreslerini belirtirler) hem de önceden kontrolu ortadan kaldıran bir yöntemdir (katılımcılar kayıt olduktan sonra direkt olarak mesaj yazmaya başlayabilirler).</p>
+
+<p>Bu yöntem ayrıca (<i>kara-liste</i>) aracılığıyla istenmeyen kullanıcıları dışarıda tutmaya da yarar. Aslında, «abone yöntemiyle» gönderilen bir katılımı («Forumları izle» sayfası aracılığıyla) silerseniz yazara ait (çok özet) bir «fiş» sayfasına ulaşabilirsiniz. Böylece yazarı tamamen «Çöpe» atabilirsiniz: böylece kullandığı isim 
+«çalışmayacak» ve bu e-posta adresi ile bir başka isim de alamayacaktır.</p>
+
+<p><span style='color: red;'>Dikkat: «abone yöntemiyle forum» servis sunucunuzun otomatik e-posta hizmeti verdiğini varsayar. Eğer bu hizmet yoksa barındırma servisi veren firmanızı değiştirin ;)</span></p>
+
+<h2>confbreves/Kısa haber sistemi</h2>
+
+<h3 class="spip">Kısa haber sistemini açmak / kapamak</h3>
+
+<p>Bazı siteler <i>kısa haber</i> hizmetini kullanmaz. Site yöneticisi kamusal gezinti alanındaki arayüzde bunlara yer vermemiş olabilir.</p>
+
+<p>Bu durumda, kısa haberleri tamamen kapatabilirsiniz. Yazarlar artık kısa haber yazamayacaklardır. Arayüz de hafifleyecektir.</p>
+
+<h2>confmessagerie/İç ileti sistemi</h2>
+
+<h3 class="spip">İç ileti sistemi</h3>
+
+<p>SPIP bir iç ileti hizmeti sunar (bu hizmetlerle ilgili açıklayıcı bölümler vardır <a href="aide_index.php?aide=messut" target="_top">kullanıcılar arası iletiler</a>,  <a href="aide_index.php?aide=messpense" target="_top">hatırlatma</a> ve <a href="aide_index.php?aide=messcalen" target="_top">takvim</a>).</p>
+
+<p>Bu sistemin tümünü veya bir kısmını kullanabilirsiniz.</p>
+
+<p>- &nbsp;<strong>Activer/désactiver la messagerie interne</strong></p>
+
+<p>Une raison pour décider de ne pas utiliser la messagerie interne est la place que les messages occupent dans la base de données: ces messages (comme par exemple les messages des forums liés à vos articles) sont conservés dans la base de données, et ainsi occupent de l&#8217;espace chez votre hébergeur. De plus, les fonctions de messagerie interne provoquent un travail supplémentaire sur la machine qui vous héberge (interrogations de la base de données): sur une machine peu puissante (et/ou très lente), vous pouvez préférer alléger le travail de la machine en désactivant la messagerie.</p>
+
+<p>- &nbsp;<strong>Bağlı yazarlar listesini açmak / kapamak</strong></p>
+
+<p>Bu işlevi açarsanız, özel alana bağlı kullanıcılar sürekli olarak liste halinde gösterilecektir. Bu da anlık ileti göndermeyi kolaylaştıracaktır.</p>
+
+<p>Bu işlev veritabanına ek yük getireceğinden güçsüz hizmet birimlerinde kapatılması daha uygundur. Bazı kullanıcıların bu işlevi müdahaleci bulduklarını unutmayın.</p>
+
+<p><i>Dikkat:</i> Yukarıdaki işlevleri tüm site için açtığınızda her kullanıcı <a href="aide_index.php?aide=messconf" target="_top">kendisi için bu işlevi kapatma</a> hakkına sahiptir. Bu şekilde, bir kullanıcı bu işlevi müdahaleci buluyorsa basitçe kendisi kapatabilir.</p>
+
+<h2>confstat/Ziyaret istatistikleri</h2>
+
+<h3 class="spip">Ziyaret istatistikleri</h3>
+
+<p>SPIP size site için ve her makale için ziyaretçileri sayma olanağı tanır. Ayrıca hangi sitelerin sizin sitenize ve makalelere ziyaretçi gönderdiğini de bilmenizi sağlar.</p>
+
+<p>- &nbsp;<strong>Ziyaret sayısı</strong></p>
+
+<p>SPIP her gün IP adresleri sayesinde «tek ziyaretçileri» sayar. Bu yöntem hızlı ve <i>bağıl olarak</i> güvenilirdir (burada yapılan şey ziyaretçi sayısına bakarak <i>bağıl</i> bir kestirimdir «hits» veya «gösterilen sayfalar» değildir. Bir ziyaretçi aynı sayfaya defalarca girdiğinde sadece «tek ziyaretçi» olarak kabûl edilecek ve yalnız bir kere sayılacaktır).</p>
+
+<p>- &nbsp;<strong>Direkt girişler veya «atıfta bulunanlar»</strong></p>
+
+<p>Bir sitedeki bağ aracılığıyla yapılan girişlere «direkt giriş» denir. (Bu siteye de «atıfta bulunan» denir).</p>
+
+<p>SPIP sitenin tamamı ve her bir makale için temel «atıfta bulunanları» ve «direkt giriş» sayılarını tutar (bu bağı izleyerek sitenize gelen ziyaretçi sayılarını).</p>
+
+<hr class="spip" />
+
+<p>- &nbsp;<strong>«Bağıl» olarak güvenilir bir sistem</strong></p>
+
+<p>Bir sitenin tüm trafiğini eksiksiz analiz eden sistemler çok güç tüketirler ve çok fazla bellek harcarlar. SPIP ise hızlı olması ve çok az yer tutması için gayet basit bir sisteme sahiptir. Ayrıca «tek ziyaretçilerin» sayımı pek de güvenilir olmayan bir yöntemle, her gün gelen ziyaretçilerin IP adreslerine göre yapılır. Yine de bu yöntemin <i>bağıl</i> olarak güvenilir bir sonuç sağlasığı varsayılır.</p>
+
+<p>Site trafiğiyle ilgili mutlak bir bilgi elde etmek için daha uzmanlaşmış bir sitem kullanılmalıdır.</p>
+
+<p>- &nbsp;<strong>Un calcul quotidien</strong></p>
+
+<p>SPIP&#8217;te bulunan trafik izleme sistemi her gün ziyaretçi ve yönlendirici ("referer") hesabı yapar (bu hesabı gerçek zamanlı olarak yapmaz). Bazı bilgiler size tutarsız bile gelebilir çünkü o günkü ziyaretleri hesaba katmamaktadır, bir şüpheniz varsa istatistikleri gösteren sayfa hem daha güvenilir hem de daha detaylıdır. Bu mantıkla, istatistik sayfası ancak makale yayınlandıktan bir gün sonra hazır olur (sayılar önceden bilinemez çünkü henüz SPIP analiz etmemiştir).</p>
+
+<p>- &nbsp;<strong>İstatistikleri ve yönlendiricileri ("referer") aktifleştirmek/kapatmak</strong></p>
+
+<p>Tek ziyaretçilerin sayımı fazla yer tutmaz ve fazla makine gücü harcamaz. Sadece çok yavaş hizmet birimlerinde kapatılmalıdır.</p>
+
+<p>Yönlendiricilerin ve direkt gelenlerin sayımı çok daha fazla makine gücü gerektirir. Bu yüzden varsayılan olarak kapalıdır. Hesaplama gücü açısından hiç bir problem yaratmayan hizmet birimlerinde aktifleştirilmesi önerilir (önceden uzun makaleleri  hesaplarken problem yaratan hizmet birimleri yönlendiricileri zaten hesaplayamayacaktır.).</p>
+
+<p><strong>Önemli not </strong> Ziyaretlerin ve yönlendiricilerin izlenmesi için gereken hesaplama süresi ve disk alanı site trafiğiyle orantılı olarak artar. Bir site ne kadar fazla ziyaret edilirse hesaplamalar için teknik gereksinimler de o oranda artar.</p>
+
+<h2>confmails/Otomatik e-posta gönderimi</h2>
+
+<h3 class="spip">Otomatik e-posta gönderimi</h3>
+
+<p>Editörler ve site yöneticileri tüm zamanlarını yönetim alanında geçirmezler. Ortak çalışmayı kolaylaştırmak ve site yaşamını izlemek için sistem sizi e-posta ile uyarabilir...</p>
+
+<p><span style='color: red;'>Dikkat: bazı barındırma firmaları otomatik e-posta işlevini kapatırlar. Eğer bu durumdaysanız izleyen işlevler aktif hale getirilemeyecektir.</span></p>
+
+<p>- &nbsp;<strong>Kamusal forum iletilerinin izlenmesi</strong></p>
+
+<p>Yazarlara kendi makaleleri hakkındaki tartışmaları izleyebilmeleri için bu seçenek otomatik olarak makalelere yazılan her iletiyi görebilme olanağı sağlar.</p>
+
+<p>Eğer bu seçenek aktifse, kamusal siteye makaleye bağlı bir ileti gönderildiğinde yazar veya yazarlar katılımcının metnini eve makalenin URL&#8217;sini e-posta ile alırlar böylece hemen o makaleye ulaşıp düşüncelere yanıt verebilirler.</p>
+
+<p>- &nbsp;<strong>Sitenin yönetimsel etkinliklerini izlemek</strong></p>
+
+<p>Bir makale onaya sunulduğunda veya yayınlandığında SPIP&#8217;in e-posta ile haber vermesi istenebilir. Böylece site yaşamına katılanlar önemli gelişmelerden anında haberdar olurlar.</p>
+
+<p>Ortak bir site (bir çok editör) için editörlere özel bir mesajlaşma listesi oluşturmanızı öneriririz (mesajlaşma listesi SPIP tarafından sunulan bir hizmet değildir).</p>
+
+<p>- &nbsp;<strong>Yeniliklerin duyurulması</strong></p>
+
+<p>SPIP&#8217;in bu işlevi «Yenilikler» tipinde bir ileti oluşturmaya yarar: eğer bu hizmeti aktif hale getirirseniz ve duyurular arasında belirli bir zaman aralığı seçerseniz belirttiğiniz adrese düzenli son çıkan makaleleri ve kısa haberleri içeren olarak e-posta gönderilecektir.</p>
+
+<p>İşleyiş gayet basittir: bu seçeneği aktif hale getirirseniz ve 7 günlük bir zaman aralığı seçerseniz SPIP istenen adrese haftada bir son 7 içinde yayınlanan makale ve kısa haberlerin listesini gönderecektir.</p>
+
+<p>«Şimdi gönder» düğmesi bu iletinin hemen o anda gönderilmesini sağlar (ve belirtilen zaman aralığını tekrar sıfırdan başlatır).</p>
+
+<p>Bu duyuru iletisini asıl site yöneticisine gönderirseniz o diğerlerine postalayacaktır veya tamamen otomatik olmasını isterseniz direkt olarak abonelerinizin mesajlaşma listesine gönderebilirsiniz. (mesajlaşma listesi SPIP tarafından sunulan bir hizmet değildir).</p>
+
+<h2>confmoteur/Entegre arama motoru </h2>
+
+<h3 class="spip">Arama motorunu aktifleştirmek/kapatmak</h3>
+
+<p>SPIP entegre arama motoruna sahiptir. Aktif hale getirildiğinde makaleler bir endeksleme sistemiyle analis edilir. Bu işlem dha sonra büyük kolaylık sağlasa ve hızlı olsa da siteyi barındıran hizmet birimine başlangıçta önemli bir yük getirir. Yavaş bir hizmet biriminde bir çok zorlukla karşılaşılabilir.</p>
+
+<p>Bu sebeple endeksleme sistemini kapatmak isteyebilirsiniz.</p>
+
+<p>SPIP&#8217;in entegre arama motoru  oluşturduğu veriler, veritabanı tarafından kullanılan disk alanını yaklaşık <strong>üç katına çıkarır</strong>. Diğer yandan yavaş veya aşırı yüklenen sistemlerde performans düşüşü görülebilir, hatta işletim hataları bile oluşabilir (bu uç bir örnektir).</p>
+
+<p>Genel olarak, eğer siteniz çok büyükse SPIP&#8217;in entegre arama motorunu kullanmayınız, özel ürünlere yöneliniz, örneğin <A 
+HREF='http://www.htdig.org/' target="_blank">ht://Dig</A>.</p>
+
+<p>Ayrıca arama motorunun tüm sayfaları bir çırpıda endekslemediğini de unutmayınız. Eğer sitenizde çok sayıda makale varken arama motorunu aktif hale getirirseniz, motorun güncel hale gelmesi için  sitenin <i>aşağı yukarı</i> endekslenecek makale sayısına eşit sayıda ziyaret etmesi gerekecektir.</p>
+
+<h1>Kişisel arayüzün yapılandırılması</h1>
+<h2>intersimple/Basit / tam arayüz</h2>
+
+<h3 class="spip">Basit arayüz / tam arayüz</h3>
+
+<p>Her SPIP kullanıcısı («<A 
+HREF="aide_index.php?aide=confart" TARGET="_top">İnce Ayar - Configuration 
+précise</A>» sayfasının aksine (diğer kullanıcılarınkini etkilemeksizin) kendi gösterimini değiştirebilir.</p>
+
+<p>Bir çok SPIP işlevi bazı redaktörler tarafından oldukça az (belki de hiç) kullanılırlar. «Basit arayüze» geçmek arayüzü sadeleştirir ve anlaşılmasını kolaylaştırır. Bu modda sadece sitenin yönetimi için gerçekten vazgeçilmez elemanlar gösterilir. Örneğin, çok az kullanıcı «<A 
+HREF="aide_index.php?aide=artdate_redac" TARGET="_top">bir önceki düzenleme</A>», sayfasını çağırır, yani bu sayfa «basit gösterilim»&#8217;de bulunmaz.</p>
+
+<p><strong>N.B.</strong> Gösterilim farklılıkları yöneticiler için daha etkilidir çünkü onlar site redaktörlerine göre çok daha fazla işlev kullanırlar.</p>
+
+<p><i>Bu değişikliklerin uygulanabilmesi için kurabiye kullanımına izin vermelisiniz.</i></p>
+
+<h2>cookie/Haberleşme kurabiyesi</h2>
+
+<h3 class="spip">Yönetim kurabiyesi</h3>
+
+<p>Yöneticiler sitenin gezilmesi esnasında ek bilgiler gösterilmesi için bir kurabiye çalıştırabilirler. Bu bilgiler sitenin yönetimini kolaylaştırır.</p>
+
+<p>- &nbsp;<strong>Sayfayı yeniden hazırla</strong></p>
+
+<p>Sitenin kamuya açık her sayfasında «Sayfayı yeniden hazırla» butonu bulunur. SPIP bir <i>ön bellek</i> sistemi içerdiğinden, bazı değişiklikler hemen çevrimiçi olarak görüntülenemez. (Görüntülenen sayfalar direkt olarakveritabanından alınmaz: belli aralıklarla hazırlanıp ön belleğe kaydedilirler.)</p>
+
+<p>Yönetici, bir sayfayı <i>yeniden hazırlayarak</i> bu sayfanın bir sonraki güncellemeyi beklemeden veritabanındaki elemanları kullanarak yaratılmasını sağlar.</p>
+
+<p>- &nbsp;<strong>Değiştirme...</strong></p>
+
+<p>Makale sayfaları, başlıklar ve kısa haberler «Bu makaleyi değiştir» (veya «bölümü»...) butonu içerir. Bu buton sizi direkt olarak makalenin (veya bölümün...) bulunduğu özel alana götürür. Bu buton fark edilen hataların çevrimiçi olarak düzeltilmesini veya herhangi bir elemanın güncellenmesini kolaylaştırır.</p>
+
+<p>- &nbsp;<strong>Ziyaret sayısı</strong></p>
+
+<p>Eğer SPIP&#8217;in istatistik sistemi aktive edilirse makale sayfalarına şu bilgiler eklenir: ziyaret sayısı 
+(tahminî) ve farklı <i>gelen</i> (referrer) sayısı.</p>
+
+<p>Gelen sayısı sitenin dışından bu makaleye doğru bağ sayısıdır (yani: başka bir site bu makaleye direkt bir bağ eklediğinde veya bu makalenin adresi e-posta ile iletildiğinde).</p>
+
+<p>- &nbsp;<strong>Bağlantı bilgileri</strong></p>
+
+<p>Yönetici kurabiyesi ayrıca SPIP&#8217;e siteye bağlandığınızda kullandığınız gezgini tanıma olanağı verir&nbsp;: böylece siz sadece şifrenizi yazarak özel alana girebilirsiniz.</p>
+
+<p>(NB&nbsp;: eğer bağlantı kurabiye radımıyla yapılırsa - bu en sık rastlanan durumdur&nbsp;-,
+bu kurabiye sizin gelişinizde hemen özel alana kopyalanır.)</p>
+
+<h2>deconnect/Bağlantıyı kesmek</h2>
+
+<h3 class="spip">Bağlantıyı kesmek</h3>
+
+<p>«Bağlantıyı kes» butonu sizi özel alana tanıtma işlemini sonlandırır. Bu işlemi yaptığınızda özel alana girmek için yaptığınız tanıtım bilgileri sistem tarafından «unutulur»; SPIP bu bilgileri yeniden girmenizi veya kamuya açık alana girmenizi önerir.</p>
+
+<p><i>Bu işlemin asıl yararı aynı makineyi kullanan farklı kişilerin sitenin özel alanına sizin bilgilerinizi kullanarak girmelerini engellemektir..</i></p>
+
+<p>- &nbsp;<strong>Evinizden bağlanıyorsunuz ve bu bilgisayarı sadece siz kullanıyorsunuz</strong></p>
+
+<p>Bu durumda, özel alandaki çalışmanız bittiğinde bu fonksiyon yardımıyla bağlantınızı kesmeniz biraz flu bir işlem olabilir. Bağlantıyı kesme işlemi elbette önerilir ama bu işlemi unutursanız çok da önemli değil.</p>
+
+<p>- &nbsp;<strong>Özel alana başkalarının da kullandığı bir makineden bağlanıyorsanız </strong> (işten veya bir internet kafeden...)</p>
+
+<p>Bu durumda, sistemden düzenli olarak bağlantıyı kes fonksiyonu ile çıkmanızı öneririz. Bu işlem, yabancıların bu makineyi kullanarak sizin bilgilerinizle özel alana erişmesini engeller.</p>
+
+<p>- &nbsp;<strong>Aynı site üzerinde farklı kimlikler kullanmak</strong></p>
+
+<p>Bazı kullanıcılar özel alana farklı kimlikler kullanarak bağlanmak gereksinimi duyabilirler. Bu durumda, bağlantıyı kes fonksiyonunu kullanarak başka kimlikle tekrar bağlanmak olasıdır.</p>
+
+<h1>SPIP, bir serbest yazılım</h1>
+<h2>licence/Lisans ve kullanım koşulları</h2>
+
+
+<p><font face="Verdana,Arial,Sans,sans-serif" size="4" color="#970038"><b>Lisans ve kullanım koşulları</b></font></p>
+
+<p><font face="Verdana,Arial,Sans,sans-serif" size="3"><b>SPIP, Internet için yayın sistemi</b></font></p>
+
+<p><strong>Copyright © 2001-2006, Arnaud Martin, Antoine Pitrou, Philippe Rivière ve Emmanuel Saint-James.</strong></p>
+
+<p>Bu program bir serbest yazılımdır; dağıtabilir ve/veya GNU kurallarına bağlı kalarak Free Software Foundation tarafından yayınlanan lisansın 2. sürümüne veya (tercihinize göre) sonraki bir sürüme göre değiştirebilirsiniz.</p>
+
+<p>Bu program yararlı olacağı ümidiyle dağıtılmaktadır, ama HİÇ BİR GARANTİ İÇERMEZ; hatta TİCARİLEŞTİRME veya ÖZEL BİR NESNEYE UYARLAMA garantisi bile içermez. Daha fazla detay için GNU lisansını inceleyiniz.</p>
+
+<p>Bu programla birlikte bir GNU lisans örneği verilmelidir; eğer durum buna uymuyorsa lütfen Free Software Foundation Inc., 675 Mass Ave, Cambridge, MA 02139, USA adresine bildiriniz.</p>
+
+<p><strong> Bu yazılım şu adresten indirilebilir  <a href="http://www.spip.net/" class='spip_url spip_out' rel='external' target="_blank">http://www.spip.net/</a>; bu sitede ayrıca bir kullanım kılavuzu ve ek bilgiler bulacaksınız. </strong></p>
+
+<p>SPIP, Fransız kanunlarına göre Fikir Eserleri Kanunu ile korunmaktadır. SPIP çekirdeği yukarıda isimleri verilen yazarların ortak eseridir (Kanunun 113-1 maddesi). SPIP projesinin tamamı 113-2 ve 113-5 maddelerine göre bir ortak eserdir. Yazarlar eseri GNU ile tanımlanan hak ve ödevlere dayanarak dağıtmaktadırlar.</p>
+
+<hr class="spip" />
+
+<p><strong>Arayüz ikonları  <a href="http://diala.rezo.net/" class='spip_out' rel='external' target="_blank">Diala Aschkar</a> ve <a href="http://jimmac.musichall.cz/" class='spip_out' rel='external' target="_blank">Jakub «Jimmac» Steiner</a> &#8217;a aittir.</strong></p>
+
+<hr class="spip" />
+
+<p><strong>Arayüzün çevirileri <a href="http://www.spip.net/rubrique4.html" class='spip_out' rel='external' target="_blank">spip.net</a> sitesinde bir araya gelmiş olan bir çevirmen grubunun eserleridir.</strong></p>
+
+<hr class="spip" />
+
+<p>GNU General Public License:
+<br />&mdash;&nbsp;<a href="../COPYING.txt" class='spip_out'>version texte</a>;
+<br />&mdash;&nbsp;<a href="http://www.gnu.org/copyleft/gpl.html" class='spip_out' rel='external' target="_blank">version HTML</a>;
+<br />&mdash;&nbsp;<a href="http://www.april.org/gnu/gpl_french2.html" class='spip_out' rel='external' target="_blank">resmî olmayan fransız sürümü</a>.</p>
+
+</div></body>

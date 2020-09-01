@@ -1,0 +1,35 @@
+a:11:{s:5:"texte";s:1446:"	<div class="menu" id="menu-principal">
+		<ul>
+			<li id="menu-principal-accueil"><a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc" accesskey="0">Accueil du site</a></li>
+
+			
+			
+
+			<li id="menu-principal-contact"><a href="spip.php?auteur1" title="Contact"  accesskey="7">Contact</a></li>
+			
+						
+
+			<li id="menu-principal-plan"><a href="http://www.FORUMALTERNATIVES.ORG/spip.php?page=plan" title="Plan du site" accesskey="3">Plan du site</a></li>
+
+			<li id="menu-principal-sites"><a href="http://www.FORUMALTERNATIVES.ORG/spip.php?page=site" title="Nouveaut&eacute;s sur le Web">Sites Web</a></li>
+
+			<li id="menu-principal-resume"><a href="http://www.FORUMALTERNATIVES.ORG/spip.php?page=resume" title="En r&eacute;sum&eacute;" accesskey="5">En r&eacute;sum&eacute;</a></li>
+			
+	
+			<li id="menu-principal-recherche">
+			<div class="menu" id="menu-recherche">
+				<h3 class="structure">Rechercher</h3>
+					<ul>
+						<li>
+					<?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/formulaire_.php");
+if ($lang_select = "fr") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_FORMULAIRE__dyn('FORMULAIRE_RECHERCHE', '', ''), array('plugins/auto/ahuntsic/inc/inc-menu-principal.html', 'html_15e01f8a49e9558cec4a5078211255b2', '', 0, 'fr'));
+if ($lang_select) lang_select();
+?>			
+						</li>			
+					</ul>
+			</div><!-- menu-recherche -->
+			</li>
+		</ul>
+	</div>";s:9:"squelette";s:37:"html_15e01f8a49e9558cec4a5078211255b2";s:6:"source";s:49:"plugins/auto/ahuntsic/inc/inc-menu-principal.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"3/inc-men-pri-fr--ef1f28bd1040d1fb4";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"lang";s:2:"fr";s:4:"date";s:19:"2014-12-06 22:33:40";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-06 22:33:40";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417923220;s:2:"gz";b:0;}

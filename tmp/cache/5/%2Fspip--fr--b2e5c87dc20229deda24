@@ -1,0 +1,106 @@
+a:11:{s:5:"texte";s:6478:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>[Forum des Alternatives Maroc] : Clic Citoyen</title>
+	<?php echo recuperer_fond( 'inc/inc-meta', array('id_breve' => '4',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/breve.html','html_0a137b7d77ec51f5216e98bd3b3e5279','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/breve.html','html_0a137b7d77ec51f5216e98bd3b3e5279','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+</head>
+<body dir="ltr" class="fr breve sect2 rub2 br4">
+<div id="page" class="breve">
+
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_breve' => '4',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/breve.html','html_0a137b7d77ec51f5216e98bd3b3e5279','',20,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+	<div id="bloc-contenu">
+		<div id="cartouche">
+			
+			<h2 class="titre-article">Clic Citoyen</h2>
+			<h6>vendredi 16 mars 2007.</h6>
+		</div><!-- cartouche -->
+		<br />
+		<div class="texte"><p>Préoccupé par les questions de la participation citoyenne des jeunes et notamment à l’approche des échéances électorales importantes, Action Jeunesse, le groupe Jeunes du FMAS a lancé un projet de création d’un Cd Rom facilitant aux différents acteurs en lien avec la jeunesse un support d’animation destiné aux jeunes citoyens Marocains. Il s’agit d’un outils interactif &#171;&nbsp;Cd Rom&nbsp;: clic citoyen&nbsp;&#187; dans le but de promouvoir l’exercice des droits des jeunes citoyens Marocains dans tous les domaines régissant leur vie. Le Cd  Rom &#171;&nbsp;Clic citoyen&nbsp;&#187; sera l’amorce  et l’outil d’un travail d’éducation par les pairs. La participation des jeunes à la vie de la cité ne peut se décréter et fait partie d’un long processus d’apprentissage. Il nous parait donc indispensable que cette démarche de sensibilisation des jeunes à la participation citoyenne s’accompagne par des acteurs de terrains tels des animateurs.</p></div>
+		
+		
+		<br />
+
+		<!-- Forums -->
+		
+
+		
+	</div><!-- bloc-contenu -->
+
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+	<div id="encart">
+
+		<!-- Breves dans la meme rubrique -->
+		
+		<div class="menu">
+		<h2 class="structure">Br&egrave;ves</h2>
+      <ul>
+        <li><b>Autres br&egrave;ves</b>
+					<ul>
+					
+          	<li><span>15 mai 2012</span>
+              <a href="http://www.forumalternatives.org/spip.php?breve9" title="La nouvelle version du Portail de la société civile Maghreb-machrek e-joussour est en ligne ! Retrouvez toute l’actualité des droits humains dans la région sur : http://www.e-joussour.net">PORTAIL E-JOUSSOUR</a>
+          	</li>
+					
+          	<li><span>14 mai 2012</span>
+              <a href="http://www.forumalternatives.org/spip.php?breve1" title="L’action Jeunesse a pour mission la participation des jeunes au processus d’émergence d’une citoyenneté basée sur le respect des droits et l’exercice des pouvoirs des citoyens, et tout particulièrement l’enracinement et la promotion des valeurs attachées à la dignité humaine, aux droits de l ‘homme et (...)">ACTION JEUNESSE</a>
+          	</li>
+					
+          	<li><span>3 mai 2012</span>
+              <a href="http://www.forumalternatives.org/spip.php?breve5" title="Retrouvez toute l’actualité de l’Observatoire Marocain des Libertés Publiques sur leur site : Observatoire Marocain des Libertés Publiques">Observatoire Marocain des Libertés Publiques</a>
+          	</li>
+					
+          	<li><span>2 juin 2009</span>
+              <a href="http://www.forumalternatives.org/spip.php?breve10" title="Les populations de Gafsa (au sud-ouest de la Tunisie) et de Sidi-Ifni (Sud-est du Maroc), mènent depuis plus d’une année un mouvement social de grande ampleur. Des luttes légitimes et pacifiques, pour demander de travailler et vivre au pays et l’arrêt de la marginalisation de leurs régions. En dépit (...)">Maghreb des Luttes Sociales&nbsp;: De Gafsa à Sidi Ifni</a>
+          	</li>
+					
+          	<li><span>16 mars 2007</span>
+              <a href="http://www.forumalternatives.org/spip.php?breve3" title="Le FMAS anime un cycle de rencontres de réflexion, de renforcement du dialogue et de la collaborations entre les acteurs associatifs, académiques et institutionnels pour l’identification de pistes thématiques visant la mise en œuvre de programmes de recherche – action pour l’amélioration de la (...)">Promotion des Droits humains et libertés fondamentales</a>
+          	</li>
+					
+          	<li><span>16 mars 2007</span>
+              <a href="http://www.forumalternatives.org/spip.php?breve2" title="Le FMAS co-anime une plate forme associative (32 associations) pour l’action d’observation des élections législatives 2007. L’idée est de mettre sur pied un dispositif de 3000 observateurs/trices dans les 16 régions du Maroc, formés aux standards internationaux d’observation neutre des processus (...)">Collectif pour l’Observation des Elections</a>
+          	</li>
+					
+          </ul>
+        </li>
+      </ul>
+		</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_breve' => '4',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/breve.html','html_0a137b7d77ec51f5216e98bd3b3e5279','',113,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_breve' => '4',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/breve.html','html_0a137b7d77ec51f5216e98bd3b3e5279','',114,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+
+";s:9:"squelette";s:37:"html_0a137b7d77ec51f5216e98bd3b3e5279";s:6:"source";s:32:"plugins/auto/ahuntsic/breve.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"5/%2Fspip--fr--b2e5c87dc20229deda24";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:6:"breve4";s:0:"";s:4:"lang";s:2:"fr";s:8:"id_breve";s:1:"4";s:4:"date";s:19:"2014-12-06 13:47:01";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-06 13:47:01";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417891621;s:2:"gz";b:0;}

@@ -1,0 +1,68 @@
+a:11:{s:5:"texte";s:4520:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>[HaCkeD By GaSSpEr] : Poster un message</title>
+	<?php echo recuperer_fond( 'inc/inc-meta', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/forum.html','html_bfa416db517e672b02ef4b3eb3e6a563','',6,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	<?php echo recuperer_fond( 'page', array('fond' => 'styles',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/forum.html','html_bfa416db517e672b02ef4b3eb3e6a563','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</head>
+<body dir="ltr">
+<div id="page" class="forum">
+
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/forum.html','html_bfa416db517e672b02ef4b3eb3e6a563','',17,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+	<div id="bloc-contenu">
+		<h1 class="structure">Poster un message</h1>
+		
+			<h2>En r&eacute;ponse &agrave;&nbsp;:</h2>
+			
+			
+			<h3 class="titre-extrait"><a href="spip.php?article31">Réseautage</a></h3>
+			
+			<div class="detail">
+				jeudi 4 janvier 2007
+				
+			</div><!-- detail -->
+			<div class="texte"><div class="extrait"><p>Alternatives International (AlterInter) est une association internationale composée de neuf groupes membres créée en 2003 et incorporée à Montréal, Paris, Jérusalem en tant qu’association à but non-lucratif. Chacune de nos associations a son existence juridique propre et s&#8217;est entendue pour créer une structure internationale disposant également de son existence juridique.</p>
+
+<p>Notre association travaille au développement international en mettant en œuvre des projets et des programmes dans plusieurs pays dans le monde et en agissant en tant qu’acteur important sur la scène internationale. De plus en plus, les associations sont considérées par les gouvernements et par l’ONU comme des partenaires indispensables. À travers des réseaux comme le Forum social mondial (FSM), au sein duquel AlterInter joue un rôle important, nous cherchons à développer un mouvement citoyen à l’échelle mondiale et locale.</p>
+
+<p>Concrètement, nos associations membres sont impliquées dans le développement social à l’échelle locale, nationale et internationale au Canada, en France, au Niger, en Afrique du Sud, au Brésil, en Inde, en Israël et dans les Territoires palestiniens. AlterInter promeut le développement durable, la justice sociale et la construction de la paix. Nous travaillons à plusieurs échelles en nous concentrant notamment sur l’échelle municipale.</p>
+
+<p>AlterInter déploit ses activités dans plusieurs domaines dont les principaux sont les suivants&nbsp;:</p>
+
+<ul class="spip"><li> La mise en place d’un réseau international d’associations citoyennes dédiées au développement durable, notamment dans le cadre du &#171;&nbsp;Forum social mondial&nbsp;&#187;.</li><li> Le renforcement des liens de coopération entre des entités locales et municipales sur des chantiers comme la gouvernance, la participation citoyenne, l’intégration des immigrants et l’écologie urbaine.</li><li> Les nouvelles technologies de l’information comme instrument principal de promotion du développement durable.</li></ul></div></div>
+			<br />
+		
+		
+		
+		
+		<!--*****************************************************************
+			Forum
+		******************************************************************-->
+		
+	</div><!-- bloc-contenu -->
+<?php echo recuperer_fond( 'inc/inc-menu', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/forum.html','html_bfa416db517e672b02ef4b3eb3e6a563','',64,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+<?php echo recuperer_fond( 'inc/inc-bas', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/forum.html','html_bfa416db517e672b02ef4b3eb3e6a563','',65,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+
+
+";s:9:"squelette";s:37:"html_bfa416db517e672b02ef4b3eb3e6a563";s:6:"source";s:32:"plugins/auto/ahuntsic/forum.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"c/for-for-31-359-fr--bfa795da2363d1";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:8:{s:4:"page";s:5:"forum";s:10:"id_article";s:2:"31";s:8:"id_forum";s:3:"359";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2014-12-08 00:46:37";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-08 00:46:37";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1418017597;s:2:"gz";b:0;}

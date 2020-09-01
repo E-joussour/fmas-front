@@ -1,0 +1,89 @@
+a:11:{s:5:"texte";s:3637:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>mohammed blal - [Forum des Alternatives Maroc]</title>
+	<?php echo recuperer_fond( 'inc/inc-meta', array('id_auteur' => '8',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/auteur.html','html_a39c9101743424a34322c1072538d427','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	<link rel="alternate" type="application/rss+xml" title="mohammed blal" href="http://www.forumalternatives.org/spip.php?page=backend&amp;id_auteur=8" />
+	<?php echo recuperer_fond( 'styles', array('id_auteur' => '8',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/auteur.html','html_a39c9101743424a34322c1072538d427','',9,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</head>
+<body dir="ltr" class="fr auteur aut8">
+<div id="page" class="auteur">
+
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_auteur' => '8',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/auteur.html','html_a39c9101743424a34322c1072538d427','',19,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+	<div id="bloc-contenu">
+		<div class="cartouche">
+		
+			<h1 class="">mohammed blal</h1>
+			<div class="texte">
+				
+				
+				
+				<br />
+				<h2 id="message">Envoyer un message priv&eacute; &agrave; cet auteur</h2><?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/formulaire_.php");
+if ($lang_select = "fr") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_FORMULAIRE__dyn('FORMULAIRE_ECRIRE_AUTEUR', '8', '', 'mohammed.blal@gmail.com'), array('plugins/auto/ahuntsic/auteur.html', 'html_a39c9101743424a34322c1072538d427', '_auteur_principal', 27, 'fr'));
+if ($lang_select) lang_select();
+?>
+			</div><!-- texte -->
+		</div><!-- cartouche -->
+		<!-- Articles de l'auteur -->
+		<h2>Articles de cet auteur</h2>
+		
+		
+	</div><!-- bloc-contenu -->
+
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+	<div id="encart">
+	<?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/auteur.html','html_a39c9101743424a34322c1072538d427','',53,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+		
+		<!-- Tous les auteurs -->
+			<div class="menu">
+				<ul class="titre">
+					<li><b>Tous les auteurs</b>
+						
+						<ul>
+							<li>
+								<a href="spip.php?auteur1">FMAS</a>	
+							</li>
+						</ul>
+						
+					</li>
+				</ul>
+			</div><!-- menu -->
+		
+	</div><!-- encart -->
+<?php echo recuperer_fond( 'inc/inc-menu', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/auteur.html','html_a39c9101743424a34322c1072538d427','',72,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_auteur' => '8',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/auteur.html','html_a39c9101743424a34322c1072538d427','',73,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+
+ ";s:9:"squelette";s:37:"html_a39c9101743424a34322c1072538d427";s:6:"source";s:33:"plugins/auto/ahuntsic/auteur.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"a/%2Frac%2Fauteur8-fr--c4637a6c8b98";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"lang";s:2:"fr";s:9:"id_auteur";s:1:"8";s:4:"date";s:19:"2014-12-06 06:39:47";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-06 06:39:47";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417865987;s:2:"gz";b:0;}

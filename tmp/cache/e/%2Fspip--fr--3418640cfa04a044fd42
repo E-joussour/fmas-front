@@ -1,0 +1,184 @@
+a:11:{s:5:"texte";s:8660:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Rapport d’observation des élections législatives du 7 Septembre 2007 - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '70',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub26 art70">
+<div id="page" class="article art70">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '70',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique26">Gouvernance et Démocratie</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			<div  class="surtitre">OSERVATION DES ELECTIONS LEGISTATIVES 2007</div>
+			<h1 class="titre-article">Rapport d’observation des élections législatives du 7 Septembre 2007</h1>
+            <div class="sous-titre">Rapport d’observation des élections législatives du 7 Septembre 2007</div>
+      		<div class="detail">
+				<span class="date">jeudi 27 septembre 2007</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>Le Collectif Associatif pour l&#8217;observation des élections est un regroupement d&#8217;associations attachées aux principes universels des Droits Humains et œuvrant pour la promotion de la citoyenneté et la primauté de l&#8217;état de droit. Il vise à travers son action d&#8217;observation du processus électoral à contribuer à l’édification de la démocratie au Maroc en renforçant la prise de conscience et la vigilance de la société civile quant à l&#8217;enjeu de la protection des élections de toute manipulation. Ses observations documentées, recueillies de manière neutre, objective et non partisane permettront, nous l’espérons, de susciter une réaction positive en faveur de la promotion de la transparence, la liberté et l&#8217;honnêteté du scrutin. Le Collectif Associatif pour l&#8217;observation des élections avait formulé en 2002 des recommandations dans ce sens. 
+De même qu’il faut relever que le processus électoral est une opération liée au cadre général institutionnel, politique, économique, social et culturel du pays.</p></div>
+		<div class="texte"><p>Consultez le rapport final de l&#8217;observation des élections législatives de 2007 sur le site du <a href="http://www.observatoireelectionsmaroc.org/" class='spip_out' rel='external'>Collectif Associatif pour l&#8217;Observation des Élections</a></p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique26">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article163" >"Pour l&#8217;effectivité de l&#8217;initiative populaire, la pétition et la démocratie participative"</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article152" >Rapport préliminaire d’observation du référendum du 1er juillet 2011 </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article148" >Rapport sur les circonstances de la mort de &#171;&nbsp;Kamal AMARI" et les suites de la violence envers les manifestants à Safi</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article142" >&#171;&nbsp;La société civile et la réforme de la Constitution&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article137" >Rencontre internationale &#171;&nbsp;Migrations et Développement&nbsp;: Quelles dynamiques Sud/Sud/Nord&nbsp;?&nbsp;&#187; à Agadir les 15 et 16 janvier 2011</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article123" >Atelier de formation et sensibilisation sur la gouvernance de la sécurité et le rôle de la société civile dans la promotion de la réforme des systèmes de sécurité</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article97" >Vers une nouvelle dynamique de coopération entre les élus locaux et la société civile</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article93" >Mouvement associatif et régionalisation </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article92" >Le Conseil économique et social au Maroc, et les défis pour le respect des droits économiques, sociaux et culturels et environnementaux</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article88" >Réforme des politiques sécuritaires&nbsp;: réalité et exigences</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article32" >Charte de l&#8217;Observatoire Marocain des Libertés Publiques</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article33" >Fiche d&#8217;observation des législatives 2007</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article149" >25 -26 Juin 2011&nbsp;: Rencontre "médias communautaires, pour une information citoyenne" à Tetouan </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article26" >Libertes publiques</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '26',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '70',
+	'id_rubrique' => '26',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"e/%2Fspip--fr--3418640cfa04a044fd42";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:9:"article70";s:0:"";s:4:"lang";s:2:"fr";s:10:"id_article";s:2:"70";s:4:"date";s:19:"2014-12-07 12:16:46";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 12:16:46";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417972606;s:2:"gz";b:0;}

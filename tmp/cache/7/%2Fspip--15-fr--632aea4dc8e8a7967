@@ -1,0 +1,190 @@
+a:11:{s:5:"texte";s:8501:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Rencontre internationale à Monastir (Tunisie) du 12 au 18 juillet 2012 - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '172',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect29 rub29 art172">
+<div id="page" class="article art172">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '172',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique29">Nouveauté</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			<div  class="surtitre">12 au 18 Juillet 2012</div>
+			<h1 class="titre-article">Rencontre internationale à Monastir (Tunisie) du 12 au 18 juillet 2012</h1>
+            <div class="sous-titre">INVITATION</div>
+      		<div class="detail">
+				<span class="date">lundi 14 mai 2012</span> 
+				<span class="auteurs">par  <span class="vcard author"><a class="url fn spip_in" href="spip.php?auteur1">FMAS</a></span></span>				
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>Dans le cadre de la mobilisation pour le Forum Social Mondial-Tunisie 2013, le comité préparatoire tunisien et le comité de suivi FS MAGH lancent une série d’activités du 12 au 18 juillet 2012 à Monastir&nbsp;:</p></div>
+		<div class="texte"><ul class="spip"><li> Réunion du Conseil Africain.</li><li> Réunion du Conseil International du FSM.</li><li> Rencontre des Indignés.</li><li> Rencontre préparatoire internationale pour le FSM 2013.</li><li> Assemblée Maghreb-Machreq.</li><li> Journées autour de&nbsp;: La migration, avec La Flotille des Peuples (boats4people), La protection sociale &amp; les biens communs, les mouvements sociaux en Tunisie.</li></ul>
+<p><span class='spip_document_164 spip_documents spip_documents_center'>
+<img src='local/cache-vignettes/L448xH640/forumTunis_2013-61700.jpg' width='448' height='640' alt="" style='height:640px;width:448px;' /></span></p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+			<div class="ps" id="articles-recents-auteur">
+				
+				<h4><a href="spip.php?auteur1" title="FMAS">FMAS</a></h4>	
+					
+					<h3><em>Articles de cet auteur</em></h3>
+					<ul>
+						
+						<li>	
+							<a href="spip.php?article195" >Termes de référence&nbsp;:  2 JOURNALISTES / ANIMATEURS &#171;&nbsp;WEBRADIO E-JOUSSOUR&nbsp;&#187;</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article175" >Termes de référence&nbsp;: CHARGE ( E ) DE CONTENU DU SITE &#171;&nbsp;WEBRADIO JOUSSOUR&nbsp;&#187;</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article202" >   منتدى بدائل المغرب بتعاون مع المرصد المغربي للحريات العامة ينظمان ندوة صحفية حول حرية التجمعات والتجمهر والتظاهرات بالمغرب</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article200" > Communiqué   Le Forum des Alternatives Maroc, en collaboration avec l’Observatoire Marocain des Libertés publiques, organisent une conférence de presse sur les libertés de rassemblement et de manifestation au Maroc   Le 06 mai 2014 à 10h00,  à l’Hôtel Golden Tulip Farah, 160 Avenue F.A.R Casablanca</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article204" >Communiqué de presse La Dynamique de l’appel de Rabat des associations démocrates confirme la continuité de son boycott du dialogue sur la société civile, organisé par le gouvernement.</a>
+						</li>
+							
+						<li><a href="spip.php?auteur1" title="suite">[...]</a></li>
+					</ul>
+					
+				
+			</div><!-- notes chapo -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique29">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article169" >كمال لحبيب يهاجم الاسلاميين في حوار مع "كود"&nbsp;:  التشكيك بالجمعيات مساس بالديموقراطية والحداثة ووراء هذا الخطاب دوافع ايديولوجية محضة   </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article168" >إعـلان ونداء الربـاط  للجمعيات الديمقراطية</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article167" >&#171;&nbsp;Le Forum des Quartiers Populaires&nbsp;&#187; les 19 et 20 mai 2012 (Casablanca)</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article166" >Déclaration et Appel de Rabat  des associations démocratiques</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article165" >Financement des associations marocaines&nbsp;: Kamal Lahbib réplique au ministre PJD Habib Choubani [Interview] </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article164" >Plaidoyer pour la liberté de conscience au Maroc</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article146" > حصيلة منتديات&nbsp;: " المجتمع المدني و الإصلاح الدستوري"</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				<a href='spip.php?article172#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>0</a>
+	|
+
+ <span class="on">15</span>
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '29',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '172',
+	'id_rubrique' => '29',
+	'id_secteur' => '29',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"7/%2Fspip--15-fr--632aea4dc8e8a7967";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:8:{s:10:"article172";s:0:"";s:23:"debut_articles_rubrique";s:2:"15";s:4:"lang";s:2:"fr";s:10:"id_article";s:3:"172";s:4:"date";s:19:"2014-12-05 20:44:28";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-05 20:44:28";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417830269;s:2:"gz";b:0;}

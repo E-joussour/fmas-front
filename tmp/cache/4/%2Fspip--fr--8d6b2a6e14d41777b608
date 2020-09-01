@@ -1,0 +1,191 @@
+a:11:{s:5:"texte";s:13130:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Forum sur la Santé, l’Environnement et la Terre en Egypte - [HaCkeD By GaSSpEr]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '115',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect29 rub29 rub30 art115">
+<div id="page" class="article art115">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '115',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : HaCkeD By GaSSpEr">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique29">Nouveauté</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique30">Agenda</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Forum sur la Santé, l’Environnement et la Terre en Egypte</h1>
+            
+      		<div class="detail">
+				<span class="date">mercredi 29 septembre 2010</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>La deuxième édition du forum Santé et Environnement aura lieu au Caire du 23 au 25 Octobre 2010.</p></div>
+		<div class="texte"><p><strong>Les principaux objectifs pour cette 2ème édition du forum sont&nbsp;:</strong></p>
+
+<p><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Créer des canaux par lesquels la voix des populations, en particulier celles des plus marginalisées et des plus démunies, peuvent se faire entendre et influer sur la vie sociale, les politiques de santé et environnementales en relation avec leur conditions de vie et leur santé.
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Consolider le dialogue entre les différents acteurs dans le même pays et entre les pays de la région.
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Développer la coopération et la communication entre la société civile des différents pays de la région d’une part, et entre la société civile et les autres parties qui influent sur les politiques de santé et d’environnement d’autre part.
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Contribuer à une identification collective des besoins nécessaires au renforcement des capacités du secteur non gouvernemental à but non lucratif dans la région.
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Créer une plateforme de solidarité dans la région, en plus d’actions conjointes des acteurs de la société civile et des mouvements sociaux et particulièrement pour la protection de la santé et des droits économiques, sociaux et politiques des populations.</p>
+
+<p><strong>Thèmes</strong></p>
+
+<p>Le Forum adoptera les thèmes suivants&nbsp;:</p>
+
+<p><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Paradigme alternatif pour le développement et le rôle du secteur non gouvernemental à but non lucratif).
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Droits relatifs à la santé et à l’environnement et les structures de gouvernance actuelles (Agenda de la campagne pour les réformes de la gouvernance en matière de santé et d’environnement).
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Notre région et le danger du réchauffement climatique (actions collectives pour atténuer / réduire l’impact du réchauffement climatique).
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;La réforme des systèmes de santé et les politiques sanitaires (Agenda de la campagne pour revitaliser les soins médicaux primaires complets comme articulé dans la déclaration Alma Ata).
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;L’équité et la justice en matière de santé (actions collectives contre les déterminants structurels de la santé et actions pour réduire les inégalités).
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Le droit au logement et à la terre et le contrôle collectif des ressources naturelles.</p>
+
+<p><strong>Partenaires</strong></p>
+
+<p>La deuxième édition du &#171;&nbsp;Forum Régional sur le Développement de la Santé et de l’Environnement&nbsp;&#187; vise la diversité et la globalité. Par conséquent, toutes les organisations non gouvernementales et les associations à but non lucratif, les mouvements sociaux, etc. sont invités à échanger et partager leurs expériences en participant à ce forum et à son organisation.</p>
+
+<p><strong>Lieu</strong></p>
+
+<p>Le Forum aura lieu au Caire, dans une infrastructure publique, le Centre de Conférence de l’Université Ain Shams, situé dans une annexe (Dar Al-Diafa) de l’Université d’Ain Shams (près de l’hôpital de l’Université d’Ain Shams, dans le square Abbassiah).</p>
+
+<p><strong>Programme</strong></p>
+
+<p>Le programme du forum comprend&nbsp;:</p>
+
+<p><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;CINQ sessions plénières traitant des thèmes majeurs du Forum. Chaque séance traitera l’un des thèmes à travers des témoignages, des exposés et des discussions.
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;NEUF sessions simultanées / ateliers (6 au cours de la première journée et 3 au cours de la deuxième journée). Les ateliers permettront aux participants de discuter et d’échanger leurs expériences. Ils leur permettront également d’identifier des formes d’actions communes. Ces sessions fourniront des espaces libres pour les organisations partenaires pour exposer et discuter certaines initiatives liées aux thèmes du Forum. Nous appelons donc, les organisations de la société civile à travers la région à soumettre des propositions pour l’organisation d’ateliers.
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Exposition&nbsp;: Le Forum offrira un espace d’affichage pour tous les partenaires et les organisations participants pour présenter leurs publications, brochures, livrets, vidéos, rapports, etc. Les représentants du secteur privé sont invités à participer aux débats, toutefois, la vente, l’affichage ou la publicité pour des produits commerciaux est strictement interdite pendant le Forum.
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Evénement culturel&nbsp;: l’organisation hôte au Caire, avec l’accord de toutes les organisations partenaires organisera un événement culturel après la séance de clôture du forum. Ce sera probablement un spectacle folklorique Egyptien/arabe.</p>
+
+<p><strong>Langue</strong></p>
+
+<p><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;L’arabe est la langue principale du forum, mais&nbsp;;
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;La traduction simultanée (de et vers l’anglais et le français) sera disponible pendant toutes les séances plénières, et&nbsp;;
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;La traduction simultanée pourrait être assurée durant certains ateliers à la demande des organisateurs quand c’est possible.</p>
+
+<p><strong>Contacts</strong></p>
+
+<p><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Pour plus d’informations, merci de nous contacter à l’adresse&nbsp;: heforum@gmail.com, en arabe, en anglais ou en français.
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;Merci de nous soumettre vos propositions à la même adresse mail.</p>
+
+<p><strong>People’s Health Movement Secrétariat Mondial</strong> (Bureau du Caire) - The Egyptian Foundation for Health for All 
+Téléphone / Fax&nbsp;: +20 2 22682278</p>
+
+<p><strong>Association for Health and Environmental Development (AHED)</strong> Téléphone&nbsp;: +20 2 22565613 Fax&nbsp;: +20 2 22565612</p>
+
+<p><strong>Portail de la société civile (Maghreb/Machrek)</strong> 
+Téléphone / Fax&nbsp;: +212 537 770590 22682278</p>
+
+<p><strong>Development Support Center</strong> 
+Téléphone / Fax&nbsp;: +20 2 37622413</p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique30">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article111" >Forum Mondial de l&#8217;Education en Palestine</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article110" >Réunion du Conseil Élargi du Forum Social Maroc et du Comité de suivi du FSMaghreb </a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '30',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '115',
+	'id_rubrique' => '30',
+	'id_secteur' => '29',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"4/%2Fspip--fr--8d6b2a6e14d41777b608";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:10:"article115";s:0:"";s:4:"lang";s:2:"fr";s:10:"id_article";s:3:"115";s:4:"date";s:19:"2014-12-07 19:02:06";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 19:02:06";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417996926;s:2:"gz";b:0;}

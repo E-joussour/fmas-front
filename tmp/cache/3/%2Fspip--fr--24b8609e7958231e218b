@@ -1,0 +1,192 @@
+a:11:{s:5:"texte";s:6515:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Structure - [HaCkeD By GaSSpEr]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '22',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 art22">
+<div id="page" class="article art22">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '22',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : HaCkeD By GaSSpEr">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Structure</h1>
+            
+      		<div class="detail">
+				<span class="date">jeudi 21 d&eacute;cembre 2006</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><ul class="spip"><li> Date de constitution&nbsp;: 26 juillet 2003</li><li> Structure Organisationnelle&nbsp;: Assemblée Générale </li><li> Secrétariat Exécutif&nbsp;: 13 membres</li><li> Conseil d’Orientation&nbsp;: 55 membres</li></ul></div>
+		<div class="texte"><h3 class="spip">Membres du Secrétariat Exécutif FMAS 2011-2013</h3>
+<table class="spip">
+<thead><tr class='row_first'><th scope='col'>Nom</th><th scope='col'>Fonction</th></tr></thead>
+<tbody>
+<tr class='row_even'>
+<td>Esslami Houria</td>
+<td>Présidente</td></tr>
+<tr class='row_odd'>
+<td>Kamal Lahbib</td>
+<td>Vice-Président</td></tr>
+<tr class='row_even'>
+<td>Falhi Asmaa</td>
+<td>Seconde Vice-Présidente</td></tr>
+<tr class='row_odd'>
+<td>Soubhi Hamouda</td>
+<td>Secrétaire Général</td></tr>
+<tr class='row_even'>
+<td>Kamal Houria</td>
+<td>Secrétaire Générale adjointe</td></tr>
+<tr class='row_odd'>
+<td>Arehmouch Ahmed</td>
+<td>Trésorier</td></tr>
+<tr class='row_even'>
+<td>Chahid Abderrahim</td>
+<td>Vice-trésorier</td></tr>
+<tr class='row_odd'>
+<td>Rhiwi Leila</td>
+<td>Chargée de mission</td></tr>
+<tr class='row_even'>
+<td>Khalid Chahid</td>
+<td>Chargé de mission</td></tr>
+<tr class='row_odd'>
+<td>Benchikh Med Lahbib</td>
+<td>Chargé de mission</td></tr>
+<tr class='row_even'>
+<td>Aabar Yassine</td>
+<td>Chargé de mission</td></tr>
+<tr class='row_odd'>
+<td>Faris Meryem</td>
+<td>Chargée de mission</td></tr>
+<tr class='row_even'>
+<td>Laaraj Youssef</td>
+<td>Chargé de mission</td></tr>
+</tbody>
+</table></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique2">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article200" > Communiqué   Le Forum des Alternatives Maroc, en collaboration avec l’Observatoire Marocain des Libertés publiques, organisent une conférence de presse sur les libertés de rassemblement et de manifestation au Maroc   Le 06 mai 2014 à 10h00,  à l’Hôtel Golden Tulip Farah, 160 Avenue F.A.R Casablanca</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article9" >Qui sommes nous&nbsp;?</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article15" >Statut</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article7" >Impliquez vous&nbsp;!</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article2" >Partenariats</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article75" >Plateforme</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '22',
+	'id_rubrique' => '2',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"3/%2Fspip--fr--24b8609e7958231e218b";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:9:"article22";s:0:"";s:4:"lang";s:2:"fr";s:10:"id_article";s:2:"22";s:4:"date";s:19:"2014-12-07 21:00:48";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 21:00:48";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1418004048;s:2:"gz";b:0;}

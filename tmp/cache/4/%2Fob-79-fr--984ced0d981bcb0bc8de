@@ -1,0 +1,246 @@
+a:11:{s:5:"texte";s:15630:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+  <title>[Forum des Alternatives Maroc] : Sur le Web</title>
+  <?php echo recuperer_fond( 'inc/inc-meta', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',6,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+  <?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</head>
+<body dir="ltr" class="fr site">
+<div id="page" class="site">
+
+<!-- *****************************************************************
+  Bandeau, titre du site et menu langue
+  Header and main menu (top and right) 
+    ************************************************************* -->
+  
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',17,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<!-- *****************************************************************
+  Contenu principal (centre)
+  Main content (center) 
+    ************************************************************* -->
+    
+  <div id="bloc-contenu">
+  
+    <div class="cartouche">
+      <div class="surtitre">Sur le Web</div>
+      
+      <h1 class="titre-article"><a href="http://www.alternativenews.org/" class="spip_out">The Alternative Information Center</a></h1>
+      <div class="detail"><a href="http://www.alternativenews.org/" class="spip_out">http://www.alternativenews.org/</a></div>
+      
+    </div><!-- cartouche -->
+
+    
+    <br />
+      <h2>Articles les plus r&eacute;cents</h2>
+		<a name='pagination_articles' id='pagination_articles'></a>    
+      
+      <h3><a href="http://www.alternativenews.org/content/view/1195/104/" title="Palestinian and Jewish citizens of Israel speaking during a peaceful march in the western neighborhoods of Jerusalem, commmorating 60 years since the Nakba (photo by the AIC, 2008). On Sunday, 11 May, a silent march took place in the western neighborhoods of Jerusalem to commemorate the 60th (...)" class="spip_out">A Silent March to Commemorate the Nakba</a></h3>
+      <div class="detail">
+        jeudi 15 mai 2008  &mdash; <em><a rel="directory">News - english</a></em>
+      </div><!-- detail -->
+      <div class="texte"><div class="extrait">Palestinian and Jewish citizens of Israel speaking during a peaceful march in the western neighborhoods of Jerusalem, commmorating 60 years since the Nakba (photo by the AIC, 2008). On Sunday, 11 May, a silent march took place in the western neighborhoods of Jerusalem to commemorate the 60th&nbsp;(...)</div></div>
+      <br />
+      
+      <h3><a href="http://www.alternativenews.org/aic-administrative/aic-administrative/sixtieth-anniversary-of-al-nakba-events-in-palestine-20080514.html"  class="spip_out">Events in Palestine Commemorating Sixtieth Anniversary of al-Nakba</a></h3>
+      <div class="detail">
+        mercredi 14 mai 2008  &mdash; <em><a rel="directory">AIC Administrative - AIC Administrative</a></em>
+      </div><!-- detail -->
+      
+      <br />
+      
+      <h3><a href="http://www.alternativenews.org/content/view/1194/391/"  class="spip_out">Events in Palestine Commemorating Sixtieth Anniversary of al-Nakba</a></h3>
+      <div class="detail">
+        mercredi 14 mai 2008  &mdash; <em><a rel="directory">AIC Administrative - AIC Administrative</a></em>
+      </div><!-- detail -->
+      
+      <br />
+      
+      <h3><a href="http://www.alternativenews.org/news/english/aic-signs-cooperation-agreement-with-palestinian-union-of-social-workers-conducts-first-activity-20080514.html" title="Members of the Alternative Information Center (AIC) and the Palestinian Union of Social Workers and Psychologists discussing the issue of normalization between Palestinians and Israelis (photo by the AIC, 2008). In April, the Alternative Information Center (AIC) signed an agreement of (...)" class="spip_out">AIC Signs Cooperation Agreement with Palestinian Union of Social Workers, Conducts First Activity</a></h3>
+      <div class="detail">
+        mercredi 14 mai 2008  &mdash; <em><a rel="directory">News - english</a></em>
+      </div><!-- detail -->
+      <div class="texte"><div class="extrait">Members of the Alternative Information Center (AIC) and the Palestinian Union of Social Workers and Psychologists discussing the issue of normalization between Palestinians and Israelis (photo by the AIC, 2008). In April, the Alternative Information Center (AIC) signed an agreement of&nbsp;(...)</div></div>
+      <br />
+      
+      <h3><a href="http://www.alternativenews.org/content/view/1193/104/" title="Members of the Alternative Information Center (AIC) and the Palestinian Union of Social Workers and Psychologists discussing the issue of normalization between Palestinians and Israelis (photo by the AIC, 2008). In April, the Alternative Information Center (AIC) signed an agreement of (...)" class="spip_out">AIC Signs Cooperation Agreement with Palestinian Union of Social Workers, Conducts First Activity</a></h3>
+      <div class="detail">
+        mercredi 14 mai 2008  &mdash; <em><a rel="directory">News - english</a></em>
+      </div><!-- detail -->
+      <div class="texte"><div class="extrait">Members of the Alternative Information Center (AIC) and the Palestinian Union of Social Workers and Psychologists discussing the issue of normalization between Palestinians and Israelis (photo by the AIC, 2008). In April, the Alternative Information Center (AIC) signed an agreement of&nbsp;(...)</div></div>
+      <br />
+      
+      <h3><a href="http://www.alternativenews.org/content/view/1192/104/" title="Children demonstrating against the Israeli military's attempt to close schools and orphanages in Hebron, Palestine (photo by Ahmad Jaradat, AIC, 2008). Representatives from the Alternative Information Center (AIC), Christian Peacemakers Team (CPT), UNICEF, OCHA, Save the Children UK, Defence of (...)" class="spip_out">“Please Return My Smile”: The NGO Campaign to Save the Schools and Orphanages of Hebron</a></h3>
+      <div class="detail">
+        lundi 12 mai 2008  &mdash; <em><a rel="directory">News - english</a></em>
+      </div><!-- detail -->
+      <div class="texte"><div class="extrait">Children demonstrating against the Israeli military's attempt to close schools and orphanages in Hebron, Palestine (photo by Ahmad Jaradat, AIC, 2008). Representatives from the Alternative Information Center (AIC), Christian Peacemakers Team (CPT), UNICEF, OCHA, Save the Children UK, Defence of&nbsp;(...)</div></div>
+      <br />
+      
+      <h3><a href="http://www.alternativenews.org/news/english/please-return-my-smile-the-ngo-campaign-to-save-the-schools-and-orphanages-of-hebron-20080512.html" title="Children demonstrating against the Israeli military's attempt to close schools and orphanages in Hebron, Palestine (photo by Ahmad Jaradat, AIC, 2008). Representatives from the Alternative Information Center (AIC), Christian Peacemakers Team (CPT), UNICEF, OCHA, Save the Children UK, Defence of (...)" class="spip_out">“Please Return My Smile”: The NGO Campaign to Save the Schools and Orphanages of Hebron</a></h3>
+      <div class="detail">
+        lundi 12 mai 2008  &mdash; <em><a rel="directory">News - english</a></em>
+      </div><!-- detail -->
+      <div class="texte"><div class="extrait">Children demonstrating against the Israeli military's attempt to close schools and orphanages in Hebron, Palestine (photo by Ahmad Jaradat, AIC, 2008). Representatives from the Alternative Information Center (AIC), Christian Peacemakers Team (CPT), UNICEF, OCHA, Save the Children UK, Defence of&nbsp;(...)</div></div>
+      <br />
+      
+      <h3><a href="http://www.alternativenews.org/content/view/1190/104/" title="Palestinian artist, Yousef Katalo, giving a workshop to youth in Hebron (photo by the AIC, 2008). Believing strongly in the importance of developing the skills of Palestinian youth, providing them the possibility to express themselves, their feelings and their oppressions in cultural ways, the (...)" class="spip_out">Political Art Workshop in Hebron for Palestinian Youth</a></h3>
+      <div class="detail">
+        lundi 12 mai 2008  &mdash; <em><a rel="directory">News - english</a></em>
+      </div><!-- detail -->
+      <div class="texte"><div class="extrait">Palestinian artist, Yousef Katalo, giving a workshop to youth in Hebron (photo by the AIC, 2008). Believing strongly in the importance of developing the skills of Palestinian youth, providing them the possibility to express themselves, their feelings and their oppressions in cultural ways, the&nbsp;(...)</div></div>
+      <br />
+      
+      <h3><a href="http://www.alternativenews.org/news/english/political-art-workshop-in-hebron-for-palestinian-youth-20080512.html" title="Palestinian artist, Yousef Katalo, giving a workshop to youth in Hebron (photo by the AIC, 2008). Believing strongly in the importance of developing the skills of Palestinian youth, providing them the possibility to express themselves, their feelings and their oppressions in cultural ways, the (...)" class="spip_out">Political Art Workshop in Hebron for Palestinian Youth</a></h3>
+      <div class="detail">
+        lundi 12 mai 2008  &mdash; <em><a rel="directory">News - english</a></em>
+      </div><!-- detail -->
+      <div class="texte"><div class="extrait">Palestinian artist, Yousef Katalo, giving a workshop to youth in Hebron (photo by the AIC, 2008). Believing strongly in the importance of developing the skills of Palestinian youth, providing them the possibility to express themselves, their feelings and their oppressions in cultural ways, the&nbsp;(...)</div></div>
+      <br />
+      
+      <h3><a href="http://www.alternativenews.org/news/english/settler-violence-report-for-march-april-2008-20080508.html" title="Israeli settlers marching toward a hill near the settlement of Efrat in the occupied West Bank, attempting to set up a permanent outpost. Hebron and the Southern of West Bank- On 15 March, settlers from the Carmiel settlement in the southern hills of Hebron, in cooperation with Israeli (...)" class="spip_out">Settler Violence Report for March-April 2008</a></h3>
+      <div class="detail">
+        jeudi 8 mai 2008  &mdash; <em><a rel="directory">News - english</a></em>
+      </div><!-- detail -->
+      <div class="texte"><div class="extrait">Israeli settlers marching toward a hill near the settlement of Efrat in the occupied West Bank, attempting to set up a permanent outpost. Hebron and the Southern of West Bank- On 15 March, settlers from the Carmiel settlement in the southern hills of Hebron, in cooperation with Israeli&nbsp;(...)</div></div>
+      <br />
+    
+      <div class="pagination">
+        <div class="ligne1">
+          <div dir="ltr">10/790 Articles</div>
+        </div>
+        <div class="ligne2">
+          <a href='site17.html#pagination_articles' class='lien_pagination' rel='nofollow'>...</a> |
+
+ <a href='site17.html?debut_articles=30#pagination_articles' class='lien_pagination' rel='nofollow'>30</a>
+	|
+
+ <a href='site17.html?debut_articles=40#pagination_articles' class='lien_pagination' rel='nofollow'>40</a>
+	|
+
+ <a href='site17.html?debut_articles=50#pagination_articles' class='lien_pagination' rel='nofollow'>50</a>
+	|
+
+ <a href='site17.html?debut_articles=60#pagination_articles' class='lien_pagination' rel='nofollow'>60</a>
+	|
+
+ <span class="on">70</span>
+	|
+
+ <a href='site17.html?debut_articles=80#pagination_articles' class='lien_pagination' rel='nofollow'>80</a>
+	|
+
+ <a href='site17.html?debut_articles=90#pagination_articles' class='lien_pagination' rel='nofollow'>90</a>
+	|
+
+ <a href='site17.html?debut_articles=100#pagination_articles' class='lien_pagination' rel='nofollow'>100</a>
+	|
+
+ <a href='site17.html?debut_articles=110#pagination_articles' class='lien_pagination' rel='nofollow'>110</a>
+
+
+|<a href='site17.html?debut_articles=780#pagination_articles' class='lien_pagination' rel='nofollow'>...</a>
+        </div>
+      </div>
+    
+	
+  
+  </div><!-- bloc-contenu -->
+  
+<!-- *****************************************************************
+  Menus contextuels (droite)
+  Contextual menus (right) 
+    ************************************************************* -->
+  <div id="encart">
+  <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',96,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+    
+    <!-- Tous les sites syndiques -->
+    <div class="menu">
+  		<a name='pagination_syndic' id='pagination_syndic'></a>
+      <ul>
+        <li><img src="plugins/auto/ahuntsic/styles/img/rss.png" alt="Suivre la vie du site" style="display:block;float:right;padding:.2em .2em;" width="16" height="16" class="format_png" /><b>Sites Web</b>
+           <ul>
+             
+             <li class="menu-item">
+               <a href="spip.php?site18">Alternatives International</a>
+             </li>
+             
+           </ul>
+         </li>
+       </ul>
+       
+    </div><!-- menu -->
+    
+
+    
+    <!-- Les sites references non syndiques -->
+    <div class="menu">
+  		<a name='pagination_sites' id='pagination_sites'></a>
+     <ul>
+        <li><b>Sites r&eacute;f&eacute;renc&eacute;s</b>
+           <ul>
+            
+             <li class="menu-item">
+               <a href="spip.php?site5">Ambassade du Royaume des Pays-Bas à Rabat</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site26">CCFD</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site3">Fondation Friedrich Ebert Rabat - Maroc</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site8">Forum Social Maroc </a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site24">FORUM SOCIAL MONDIAL 2009</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site16">FSMAGH</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site9">Initiatives Pour un Autre Monde - IPAM</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site12">Le PNUD au Maroc</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site4">Oxfam Novib - voor een rechtvaardige wereld zonder armoede</a>
+             </li>
+             
+             <li class="menu-item">
+               <a href="spip.php?site25">TANMIA </a>
+             </li>
+             
+           </ul>
+        </li>
+       </ul>
+       
+    </div><!-- menu -->
+    
+
+  </div><!-- encart -->
+<?php echo recuperer_fond( 'inc/inc-menu', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',137,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+<?php echo recuperer_fond( 'inc/inc-bas', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/site.html','html_fdb51dbd03dd915b11fa671d8601f0cc','',138,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+
+ ";s:9:"squelette";s:37:"html_fdb51dbd03dd915b11fa671d8601f0cc";s:6:"source";s:31:"plugins/auto/ahuntsic/site.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"4/%2Fob-79-fr--984ced0d981bcb0bc8de";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:14:"debut_articles";s:2:"79";s:4:"lang";s:2:"fr";s:9:"id_syndic";s:2:"17";s:4:"date";s:19:"2014-12-07 10:51:47";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 10:51:47";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417967508;s:2:"gz";b:0;}

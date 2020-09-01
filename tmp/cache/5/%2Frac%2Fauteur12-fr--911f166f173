@@ -1,0 +1,6 @@
+a:11:{s:5:"texte";s:236:"
+<?php echo recuperer_fond( '404', array('id_auteur' => '12',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/auteur.html','html_a39c9101743424a34322c1072538d427','',79,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+ ";s:9:"squelette";s:37:"html_a39c9101743424a34322c1072538d427";s:6:"source";s:33:"plugins/auto/ahuntsic/auteur.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"5/%2Frac%2Fauteur12-fr--911f166f173";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"lang";s:2:"fr";s:9:"id_auteur";s:2:"12";s:4:"date";s:19:"2014-12-05 13:17:07";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-05 13:17:07";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417803427;s:2:"gz";b:0;}

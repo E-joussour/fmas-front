@@ -1,0 +1,173 @@
+a:11:{s:5:"texte";s:8091:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Lancement du projet &#171; Femmes, médias et démocratie dans la région Maghreb-Machrek &#187; - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '156',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub45 art156">
+<div id="page" class="article art156">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '156',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique45">E-JOUSSOUR : les TICS au service de la société&nbsp;(...)</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Lancement du projet &#171;&nbsp;Femmes, médias et démocratie dans la région Maghreb-Machrek&nbsp;&#187;</h1>
+            
+      		<div class="detail">
+				<span class="date">jeudi 15 septembre 2011</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>Lundi 29 août 2010, le Portail de la société civile Maghreb-Machrek e-joussour, programme du Forum des Alternatives Maroc (FMAS), a organisé, à Rabat, une première rencontre de présentation et d&#8217;échanges autour du projet &#171;&nbsp;Femmes, médias et démocratie dans la région Maghreb/Machrek&nbsp;&#187;.</p></div>
+		<div class="texte"><p>Ce projet soutenu par l&#8217;Union Européenne, L&#8217;agence canadienne de développement et l&#8217;Organisation international de la francophonie vise à développer la participation et la représentation des femmes de la région du Maghreb/Machrek dans touts les secteurs ainsi que l&#8217;intégration de l&#8217;approche genre dans toutes les politiques publiques nationales.</p>
+
+<p>Une vingtaine d&#8217;actrices associatives, militantes dans des associations, organisations et mouvements de la société civile œuvrant pour la protection et la promotion des droits de la femme au Maroc, se sont retrouvées pour échanger et débattre du projet mais aussi mettre en place un comité national Maroc.</p>
+
+<p>Les débats ont été fructueux et constructif, ils ont porté sur les objectifs et la mise en œuvre du projet ainsi que sur les attributions du Comité national Maroc.</p>
+
+<p>Retrouvez toutes les informations relatives au projet dans <a href="http://www.e-joussour.net/fr/node/10112" class='spip_out' rel='external'>le DOSSIER SPECIAL sur e-joussour.</a></p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique45">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article195" >Termes de référence&nbsp;:  2 JOURNALISTES / ANIMATEURS &#171;&nbsp;WEBRADIO E-JOUSSOUR&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article204" >Communiqué de presse La Dynamique de l’appel de Rabat des associations démocrates confirme la continuité de son boycott du dialogue sur la société civile, organisé par le gouvernement.</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article191" >Déclaration du Comité de Suivi du Forum Social Maghrébin sur la tenue du Forum Social Mondial 2013 à Tunis</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article187" >Seconde édition du Forum Thématique sur l’immigration les 6 et 7 octobre 2012 à Oujda</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article179" >Le FMAS organise la première rencontre régionale autour du thème&nbsp;: &#171;&nbsp;Le Conseil consultatif des jeunes et de l’action associative&nbsp;: défis du mouvement associatif et de la jeunesse&nbsp;&#187;, Marrakech, le 01 juillet 2012</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article158" >Rencontre "médias communautaires, pour une information citoyenne", 24-25 septembre - Eljadida</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article143" >"Médias communautaires, pour une information citoyenne" </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article133" >تقرير عن أحداث مخيم أكديم إزيك و العيون</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article132" >المنتدى الإفريقي حول " الحقوق الثقافية " المسيرة نحو دكار</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article130" >Le Forum africain sur les &#171;&nbsp;Droits culturels&nbsp;&#187;&nbsp;: en marche vers Dakar</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '45',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '156',
+	'id_rubrique' => '45',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"d/%2Fspip--fr--4e4a3c4810e45da8703d";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:10:"article156";s:0:"";s:4:"lang";s:2:"fr";s:10:"id_article";s:3:"156";s:4:"date";s:19:"2014-12-06 15:47:46";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-06 15:47:46";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417898866;s:2:"gz";b:0;}

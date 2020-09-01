@@ -1,0 +1,201 @@
+a:11:{s:5:"texte";s:9379:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Réseautage - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '31',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub28 art31">
+<div id="page" class="article art31">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '31',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique28">Mouvements sociaux</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Réseautage</h1>
+            
+      		<div class="detail">
+				<span class="date">jeudi 4 janvier 2007</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>FMAS, membre du réseau AlterInter.</p></div>
+		<div class="texte"><p>Alternatives International (AlterInter) est une association internationale composée de neuf groupes membres créée en 2003 et incorporée à Montréal, Paris, Jérusalem en tant qu’association à but non-lucratif. Chacune de nos associations a son existence juridique propre et s&#8217;est entendue pour créer une structure internationale disposant également de son existence juridique.</p>
+
+<p>Notre association travaille au développement international en mettant en œuvre des projets et des programmes dans plusieurs pays dans le monde et en agissant en tant qu’acteur important sur la scène internationale. De plus en plus, les associations sont considérées par les gouvernements et par l’ONU comme des partenaires indispensables. À travers des réseaux comme le Forum social mondial (FSM), au sein duquel AlterInter joue un rôle important, nous cherchons à développer un mouvement citoyen à l’échelle mondiale et locale.</p>
+
+<p>Concrètement, nos associations membres sont impliquées dans le développement social à l’échelle locale, nationale et internationale au Canada, en France, au Niger, en Afrique du Sud, au Brésil, en Inde, en Israël et dans les Territoires palestiniens. AlterInter promeut le développement durable, la justice sociale et la construction de la paix. Nous travaillons à plusieurs échelles en nous concentrant notamment sur l’échelle municipale.</p>
+
+<p>AlterInter déploit ses activités dans plusieurs domaines dont les principaux sont les suivants&nbsp;:</p>
+
+<ul class="spip"><li> La mise en place d’un réseau international d’associations citoyennes dédiées au développement durable, notamment dans le cadre du &#171;&nbsp;Forum social mondial&nbsp;&#187;.</li><li> Le renforcement des liens de coopération entre des entités locales et municipales sur des chantiers comme la gouvernance, la participation citoyenne, l’intégration des immigrants et l’écologie urbaine.</li><li> Les nouvelles technologies de l’information comme instrument principal de promotion du développement durable.</li></ul></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique28">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article116" >"Une marche engagée et solidaire vers l&#8217;égalité, l&#8217;équité et la dignité"</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article114" >Réunion du Conseil Élargi du Forum Social Maroc et du Comité de suivi du FSMaghreb</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article113" >Forum sur la Santé, l’Environnement et la Terre - Du 23 au 25 Octobre 2010 au Caire</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article112" >Que cesse la complaisance à l’égard des crimes d’Israël</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article108" >Forum Social Mondial sur les alternatives à la crise financière - Mexico</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article107" >Forum sur les Mouvements Sociaux et les Forums Sociaux - Bouznika </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article106" >Forum Syndical Maghrébin - Alger</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article105" >Communiqué&nbsp;: Fatima R . &#171;&nbsp;petite bonne&nbsp;&#187; de 12 ans maltraitée par sa patronne</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article104" >Collectif pour l&#8217;éradication du travail des "petites bonnes"</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article102" >Sit-in des femmes soulaliyates et guichiates pour lutter contre la discrimination dont elles sont victimes</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article101" >Les terres collectives au centre du développement local</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article98" >Appel de soutien aux Femmes Soulaliyates</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article91" title="&#171; Soulaliyates : les prémices d’un dénouement... &#187;">Soutien au mouvement des femmes Soulaliyates </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article90" >Le Conseil du Forum Social Mondial se réunit au Maroc</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article89" >Solidarité avec les syndicalistes et militants emprisonnés ou inculpés du bassin minier de Gafsa</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				<a href='spip.php?article31#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>0</a>
+	|
+
+ <span class="on">15</span>
+	|
+
+ <a href='spip.php?article31&amp;debut_articles_rubrique=30#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>30</a>
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '28',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '31',
+	'id_rubrique' => '28',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"7/%2Fspip--15-fr--71ee9c827e6532ef7";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:8:{s:9:"article31";s:0:"";s:23:"debut_articles_rubrique";s:2:"15";s:4:"lang";s:2:"fr";s:10:"id_article";s:2:"31";s:4:"date";s:19:"2014-12-06 09:27:13";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-06 09:27:13";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417876033;s:2:"gz";b:0;}

@@ -1,0 +1,199 @@
+a:11:{s:5:"texte";s:14423:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Les jeunes marocains au service du développement démocratique - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '103',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub25 art103">
+<div id="page" class="article art103">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '103',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique25">Jeunesse</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Les jeunes marocains au service du développement démocratique</h1>
+            
+      		<div class="detail">
+				<span class="date">jeudi 23 septembre 2010</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>L&#8217;Université d’été d’Action Jeunesse, le groupe &#171;&nbsp;jeunes&nbsp;&#187; du Forum des Alternatives Maroc, s’est déroulée les 11 et 12 Juillet derniers, à Harhoura, sous le thème &#171;&nbsp;Jeunesse alternative au service du développement démocratique&nbsp;&#187;. Durant deux jours, les jeunes ont débattu et échangé sur des thèmes d’actualité, afin de s’impliquer pleinement dans le processus de démocratisation et de développement de leur pays.</p></div>
+		<div class="texte"><p><strong>Action Jeunesse&nbsp;: des initiatives conçues pour et par les jeunes</strong></p>
+
+<p>Action Jeunesse (AJ) a été créée en 2002 pour encourager les jeunes à participer au processus de développement démocratique de leur pays en favorisant leur insertion dans les espaces de mobilisation et d’action citoyenne. AJ est représentée par des groupes de jeunes actifs dans différentes régions du Maroc (Casablanca, Marrakech, Essaouira, Zagora, Rabat Salé…) ce qui permet de réaliser un réel travail de proximité au sein même des régions. AJ met en place différents types d’activités à la fois au niveau local mais aussi régional et national (&#171;&nbsp;Cafés libertés&nbsp;&#187;, actions de plaidoyer, formations, Universités saisonnières…) qui visent à promouvoir la participation et l’implication des jeunes dans la gestion des affaires publiques ainsi que l’investissement par les jeunes du secteur associatif.</p>
+
+<p>Les &#171;&nbsp;Cafés Libertés&nbsp;&#187; sont des espaces de discussion pour les jeunes (entre 20 et 30 participants) et constituent une occasion pour aborder un sujet d’actualité choisi par les jeunes d’un Comité local (ex&nbsp;: &#171;&nbsp;les MST&nbsp;&#187; à Casablanca, &#171;&nbsp;la régionalisation&nbsp;&#187; à Marrakech, &#171;&nbsp;les mouvements musicaux de la nouvelle scène&nbsp;&#187; à Salé, &#171;&nbsp;le rapport des jeunes à la lecture&nbsp;&#187; à Khemisset, &#171;&nbsp;les jeunes et la Toxicomanie&nbsp;&#187; à Afourer, etc.). Ces espaces d’échanges et de débats favorisent une meilleure compréhension des enjeux sociétaux, à la fois au Maroc mais aussi dans la région Maghreb-Machrek et dans le monde. Cinq &#171;&nbsp;Cafés Libertés&nbsp;&#187; sont prévus d’ici fin septembre.</p>
+
+<p>Parce que les jeunes, mais aussi les femmes, sont trop peu représentés au niveau politique et parce que la jeunesse marocaine ne se sent pas pleinement intégrée dans les politiques publiques, AJ a impulsé en 2008 une campagne de plaidoyer &#171;&nbsp;pour des politiques publiques en faveur des jeunes et des femmes&nbsp;&#187;. Ainsi représentés, ils seront plus à même de porter des revendications pour des changements effectifs en ce qui les concerne. Deux rencontres régionales sont prévues en septembre et en décembre 2010 afin de réaliser des diagnostics régionaux participatifs, avec l’ensemble des parties prenantes (jeunes, élus, acteurs associatifs, etc.) afin d’évaluer la participation et le rôle de chacun des acteurs dans la gestion des affaires publiques.</p>
+
+<p>Mieux informés et impliqués, les jeunes ont plus envie de s’investir et participer au développement démocratique de leur pays. Forces de propositions, ils tentent de développer des alternatives et de faire entendre leurs voix à la fois sur la scène marocaine mais aussi au niveau international afin d’établir avec des jeunes du monde entier des ponts et des passerelles.</p>
+
+<p><strong>Des Universités saisonnières&nbsp;: un espace d’échanges et de débats</strong></p>
+
+<p><span class='spip_document_76 spip_documents spip_documents_center'>
+<img src='IMG/jpg_onegoalfarah_117.jpg' width='560' height='373' alt="" style='height:373px;width:560px;' /></span></p>
+
+<p>Les Universités saisonnières d’Action Jeunesse ont pour objectif principal de renforcer les capacités des jeunes. Elle sont organisées sous la forme de forums, de débats ouverts aux jeunes d’AJ mais aussi à des jeunes militants issus d’autres dynamiques proches et travaillant sur le terrain. Elles offrent aux jeunes un espace de dialogue où ils peuvent partager leurs expériences, très différentes selon les régions, ainsi que leurs points de vue. Ces rencontres sont indispensables pour faire le lien entre tous les comités locaux et avancer ensemble, ouvrir le débat, dessiner des perspectives communes, etc. et constituent aussi l’occasion de permettre aux jeunes d’élargir leur champ de connaissance, de s’ouvrir sur des questions et thématiques qu’ils ne maîtrisent pas forcément.</p>
+
+<p>En mars 2009, Action Jeunesse a organisé à Ouarzazate, sa première Université d’hiver sous le thème de la &#171;&nbsp;Citoyenneté&nbsp;&#187;. Plus de 100 jeunes venus de tout le Maroc ont échangé et débattu durant 2 jours sur les questions des dynamiques locales, de la femme et des droits culturels et linguistiques.</p>
+
+<p>Forte du succès de cette rencontre auprès des participants, Action Jeunesse a renouvelé l’expérience cette année en organisant une Université d’été à Harhoura. Près de 150 jeunes d’Action Jeunesse, mais aussi de jeunes militants issus d’autres associations, n’ont pas hésité à venir de toutes les régions pour se rencontrer et discuter autour de quatre sujets&nbsp;: &#171;&nbsp;La démocratie participative et les mouvements sociaux&nbsp;&#187;, &#171;&nbsp;Les jeunes et les politiques publiques&nbsp;&#187;, &#171;&nbsp;Les enjeux et perspectives de la régionalisation&nbsp;&#187; et &#171;&nbsp;Les droits économiques sociaux et culturels&nbsp;&#187;. Ces journées de débats ont été l’occasion pour les jeunes de partager et d’échanger sur ce qu’ils vivent dans leur quotidien associatif.</p>
+
+<p><span class='spip_document_77 spip_documents spip_documents_center'>
+<img src='IMG/jpg_P1010330.jpg' width='560' height='420' alt="" style='height:420px;width:560px;' /></span></p>
+
+<p>A l’issue de ces deux jours, les participants ont lancé un appel ouvert à tous les acteurs concernés (société, médias, partis politiques, associations, etc.) pour&nbsp;:</p>
+
+<p><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;La mise en place d’une stratégie nationale participative pour les jeunes et les affaires qui les concernent&nbsp;;
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;L’inclusion dans les politiques publiques nationales de programmes spécifiques pour les jeunes afin de les aider à résoudre les problèmes spécifiques qu’ils rencontrent, notamment en ce qui concerne l’emploi, l’éducation, la santé et la culture et minimiser le gap entre les différentes couches sociales&nbsp;;
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;L’élaboration d’études générales sur la situation des jeunes marocains en ce qui concerne l’économique, le politique, le culturel&nbsp;;
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;La mise en place d’une démocratie participative et la démocratisation de la vie politique et partisane pour une plus forte participation politique des jeunes que ce soit au niveau local, régional ou national&nbsp;;
+<br /><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;La création de forums de discussion responsables, l’utilisation des NTIC à travers l’ouverture sur les medias au niveau local, la création de forums sociaux.</p>
+
+<p><i>Les jeunes ont été particulièrement actifs lors de cette rencontre et sont demandeurs de nouvelles initiatives du même type. La prochaine Université d’hiver aura lieu en décembre 2010 à Marrakech.</i></p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique25">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article162" >Tournée européenne d’échanges et de partage de l’expérience dans le cadre du projet&nbsp;: &#171;&nbsp;Théâtre interculturel, pour le dialogue et la compréhension mutuelle&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article157" >&#171;&nbsp;Trois pièces de théâtre, trois thématiques abordées par des jeunes du Maroc&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article153" >Abdelouahab Ferasaoui. Président du RAJ &#171;&nbsp;La jeunesse a la capacité d’imposer le changement d’une façon pacifique&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article141" >APPEL À CANDIDATURE &#171;&nbsp;Théâtre interculturel, pour le dialogue et la compréhension mutuelle&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article100" >La jeunesse marocaine au service du développement démocratique</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article85" >mobilisation pour l’inflexion des politiques jeunesse au Maroc</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article150" >9 Juillet 2011 à Rabat&nbsp;: Réalisation des trois pièces de théâtre, &#171;&nbsp;Théâtre interculturel, pour le dialogue et la compréhension mutuelle&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article24" >Axe Jeunesse</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article29" >Introduction au FMAS-Action jeunesse</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article30" >Plate forme des jeunes pour la participation citoyenne.</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '25',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '103',
+	'id_rubrique' => '25',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"4/%2Fspip--ar--6052547b76ad56440dd6";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:10:"article103";s:0:"";s:4:"lang";s:2:"ar";s:10:"id_article";s:3:"103";s:4:"date";s:19:"2014-12-03 16:57:57";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-03 16:57:57";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417643877;s:2:"gz";b:0;}

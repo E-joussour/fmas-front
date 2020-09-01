@@ -1,0 +1,205 @@
+a:11:{s:5:"texte";s:12002:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Fiche d'observation des législatives 2007 - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '33',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub26 art33">
+<div id="page" class="article art33">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '33',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique26">Gouvernance et Démocratie</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Fiche d&#8217;observation des législatives 2007</h1>
+            
+      		<div class="detail">
+				<span class="date">vendredi 5 janvier 2007</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>POUR UNE OBSERVATION CITOYENNE DES ELECTIONS LEGISLATIVES 2007</p></div>
+		<div class="texte"><p>Le présent projet d’observation des élections fait partie de ces initiatives de la société civile de contribuer au renforcement de la démocratie par la prise de conscience et l’implication citoyenne. L’opération vise à suivre, à faire connaître et à observer le déroulement du processus électoral dans le respect de la transparence, la démocratie et la liberté, le libre choix et ce, en conformité avec les normes internationales et le préambule de la constitution marocaine.</p>
+
+<p>En effet, depuis l’expérience du Collectif Associatif pour l’Observation des élection législatives de 2002, des associations de développement local, de femmes, de jeunes, de culture ont œuvré dans le cadre de l’encadrement de leurs membres à faire éveiller la conscience de la citoyenneté à travers leur implication dans une dynamique d’observation du processus électoral.</p>
+
+<p>Par la poursuite de l’élan initié en 2002, le présent projet essaiera de construire une tradition de la participation des citoyens dans une dynamique de mouvement civil autonome et participatif. Il s’agira d’encadrer les associations de différentes régions du Maroc à être en mesure de mener une action d’observation du processus électoral des législatives de 2007 accompagné d’un volet information / vulgarisation à l’égards des jeunes et des femmes qui constituent une large portion de la population qui est trop souvent marginalisée.</p>
+
+<p>il s’agira&nbsp;:</p>
+
+<ul class="spip"><li> de développer des modules de formations aux principes, normes et standards internationaux de l’observation des processus électoraux, </li><li> de former des animateurs pour l’encadrement d’actions d’observation des élections</li><li> et permettre la récolte de données relatives à l’observation du processus électoral des législatives de 2007 sur la base d’un questionnaire à élaborer.</li></ul>
+<p>1. Acteurs impliqués</p>
+
+<ul class="spip"><li> Un réseau associatif pour piloter le projet</li><li> Des encadrant  à identifier dans différentes régions du Maroc&nbsp;: leur rôle sera de former des observateurs et de superviser l’opération de récolte des données et de les envoyer au niveau central. Ils seront responsables au niveau régional du montage de l’opération, de l’encadrement de leurs équipes, de la rédaction des rapports et de la liaison régulière avec le l’équipe centrale.</li><li> Des observateurs&nbsp;: leur rôle sera de constituer l’organe de veille du processus et de récolter les données d’observation&nbsp;: durant la campagne et le jour du vote.</li><li> Les associations au niveau régional à travers la formation de leurs membres aux techniques d’observation. </li></ul>
+<p>2. objectifs et résultats attendus</p>
+
+<ul class="spip"><li> une équipe de Formateurs outillés aux techniques d’observation des élections</li><li> Une guide de l’observateur </li><li> Un questionnaire pour la période de la campagne</li><li> Un questionnaire pour le jour du scrutin</li><li> Une équipe d’encadrant formés aux techniques de monitoring et de reporting </li><li> Des point focaux (associations) dans les quelques régions cibles </li><li> un réseau d’observateurs indépendants (3000 observateurs)&nbsp;;</li><li> Des sessions de formations au niveau régional en faveur des observateurs</li><li> Élaborer une base de données&nbsp;;</li><li> Elaborer un rapport sur le déroulement du processus électoral. </li><li> Porter les résultats de l’observation à la connaissance de l’opinion publique  </li></ul>
+<p>3. Méthodologie
+Avant les élections de 2007</p>
+
+<ul class="spip"><li> Montage de la structure et méthodologie de l’observation&nbsp;;</li><li> Organisation de séminaires d’information de formation et d’échanges&nbsp;; </li><li> Élaboration des outils de l’observation&nbsp;;  </li><li> Formation des Formateurs (rices)&nbsp;; </li><li> Identification des Observateurs (rices) et leur formation 
+Pendant les élections </li><li> Observation du déroulement de la campagne </li><li> Observation du jour de vote 
+Après les élections</li><li> présentation des résultats sous forme de rapports </li><li> conférence de presse</li><li> publication du rapport</li><li> recommandations futures   
+4. Partenaires 
+Les partenaires du projet (pour le moment, la plateforme devrait s’élargir) sont&nbsp;: </li><li> Association Démocratique des Femmes du Maroc, </li><li> l’Organisation Marocaine des Droits de l’Homme, </li><li> le Collectif Démocratie et Modernité, </li><li> L’Observatoire des Prisons, </li><li> Le Centre des Droits des Gens - Fès,  </li><li> Ennakhil – Marrakech.</li></ul></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique26">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article163" >"Pour l&#8217;effectivité de l&#8217;initiative populaire, la pétition et la démocratie participative"</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article152" >Rapport préliminaire d’observation du référendum du 1er juillet 2011 </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article148" >Rapport sur les circonstances de la mort de &#171;&nbsp;Kamal AMARI" et les suites de la violence envers les manifestants à Safi</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article142" >&#171;&nbsp;La société civile et la réforme de la Constitution&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article137" >Rencontre internationale &#171;&nbsp;Migrations et Développement&nbsp;: Quelles dynamiques Sud/Sud/Nord&nbsp;?&nbsp;&#187; à Agadir les 15 et 16 janvier 2011</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article123" >Atelier de formation et sensibilisation sur la gouvernance de la sécurité et le rôle de la société civile dans la promotion de la réforme des systèmes de sécurité</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article97" >Vers une nouvelle dynamique de coopération entre les élus locaux et la société civile</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article93" >Mouvement associatif et régionalisation </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article92" >Le Conseil économique et social au Maroc, et les défis pour le respect des droits économiques, sociaux et culturels et environnementaux</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article88" >Réforme des politiques sécuritaires&nbsp;: réalité et exigences</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article70" title="Rapport d’observation des élections législatives du 7 Septembre 2007">Rapport d’observation des élections législatives du 7 Septembre 2007</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article32" >Charte de l&#8217;Observatoire Marocain des Libertés Publiques</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article149" >25 -26 Juin 2011&nbsp;: Rencontre "médias communautaires, pour une information citoyenne" à Tetouan </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article26" >Libertes publiques</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '26',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '33',
+	'id_rubrique' => '26',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"5/art-art-33-fr--00b9ecb667e6a0d052";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"page";s:7:"article";s:10:"id_article";s:2:"33";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2014-12-05 22:55:48";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-05 22:55:48";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417838148;s:2:"gz";b:0;}

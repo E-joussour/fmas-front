@@ -1,0 +1,252 @@
+a:11:{s:5:"texte";s:11177:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>&#171; Le Conseil Consultatif des Jeunes et de l’Action Associative : Défis du Mouvement Associatif et de la Jeunesse &#187; - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '186',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect29 rub29 art186">
+<div id="page" class="article art186">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '186',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique29">Nouveauté</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			<div  class="surtitre">Rencontre Nationale</div>
+			<h1 class="titre-article">&#171;&nbsp;Le Conseil Consultatif des Jeunes et de l’Action Associative&nbsp;: Défis du Mouvement Associatif et de la Jeunesse&nbsp;&#187;</h1>
+            <div class="sous-titre">28-29 Septembre 2012</div>
+      		<div class="detail">
+				<span class="date">lundi 24 septembre 2012</span> 
+				<span class="auteurs">par  <span class="vcard author"><a class="url fn spip_in" href="spip.php?auteur1">FMAS</a></span></span>				
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>Le Forum des Alternatives Maroc/ FMAS, organise les 29 et 30 Septembre 2012 à Rabat (Club Yasmine-Harhoura) , la Rencontre Nationale sous le thème  &#171;&nbsp;Le Conseil Consultatif des Jeunes et de l’Action Associative&nbsp;: Défis du Mouvement Associatif et de la Jeunesse&nbsp;&#187;.</p></div>
+		<div class="texte"><p>A cet effet, nous vous prions Madame, Monsieur, de nous confirmer votre présence  au plus tard le 25 Septembre 2012.</p>
+
+<p>Pour toute information, contactez-nous au +212 668 850 127</p>
+
+<p>NB&nbsp;: L&#8217;accueil des participants commence le vendredi 28 Sept 2012 à partir de 16h au Club Yasmine - Harhoura, RABAT.</p>
+
+<p><img src="local/cache-vignettes/L8xH11/puce-32883.gif" width='8' height='11' class='puce' alt="-" style='height:11px;width:8px;' />&nbsp;ci-joint l&#8217;Invitation et le Programme de la rencontre</p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		<div class="chapo" id="documents" style="line-height:1;"> 
+	<h2>Documents joints</h2>
+		
+				
+				<div style="float:left;padding-right: .5em;  width:36%;">
+					<div style="float:left; margin-right: .5em;"><a href='IMG/pdf/Programme_Rencontre_National.pdf' type='application/pdf' title='PDF - 1.4 Mo'><img src='local/cache-vignettes/L52xH52/pdf-eb697.png' width='52' height='52' alt='' class='spip_logos' style='height:52px;width:52px;' /></a></div>
+					<small>
+						24 septembre 2012<br />
+						Document : PDF<br />
+						1.4&nbsp;Mo
+					</small>
+				</div>
+				
+		<hr style='clear:both' />
+				
+				<div style="float:left;padding-right: .5em;  width:36%;">
+					<div style="float:left; margin-right: .5em;"><a href='IMG/pdf/INVITATION_FMAS.pdf' type='application/pdf' title='PDF - 2 Mo'><img src='local/cache-vignettes/L52xH52/pdf-eb697.png' width='52' height='52' alt='' class='spip_logos' style='height:52px;width:52px;' /></a></div>
+					<small>
+						24 septembre 2012<br />
+						Document : PDF<br />
+						2&nbsp;Mo
+					</small>
+				</div>
+				
+		
+		<br class="nettoyeur" />
+	</div><!-- chapo -->
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+			<div class="ps" id="articles-recents-auteur">
+				
+				<h4><a href="spip.php?auteur1" title="FMAS">FMAS</a></h4>	
+					
+					<h3><em>Articles de cet auteur</em></h3>
+					<ul>
+						
+						<li>	
+							<a href="spip.php?article195" >Termes de référence&nbsp;:  2 JOURNALISTES / ANIMATEURS &#171;&nbsp;WEBRADIO E-JOUSSOUR&nbsp;&#187;</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article175" >Termes de référence&nbsp;: CHARGE ( E ) DE CONTENU DU SITE &#171;&nbsp;WEBRADIO JOUSSOUR&nbsp;&#187;</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article202" >   منتدى بدائل المغرب بتعاون مع المرصد المغربي للحريات العامة ينظمان ندوة صحفية حول حرية التجمعات والتجمهر والتظاهرات بالمغرب</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article200" > Communiqué   Le Forum des Alternatives Maroc, en collaboration avec l’Observatoire Marocain des Libertés publiques, organisent une conférence de presse sur les libertés de rassemblement et de manifestation au Maroc   Le 06 mai 2014 à 10h00,  à l’Hôtel Golden Tulip Farah, 160 Avenue F.A.R Casablanca</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article204" >Communiqué de presse La Dynamique de l’appel de Rabat des associations démocrates confirme la continuité de son boycott du dialogue sur la société civile, organisé par le gouvernement.</a>
+						</li>
+							
+						<li><a href="spip.php?auteur1" title="suite">[...]</a></li>
+					</ul>
+					
+				
+			</div><!-- notes chapo -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique29">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article175" >Termes de référence&nbsp;: CHARGE ( E ) DE CONTENU DU SITE &#171;&nbsp;WEBRADIO JOUSSOUR&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article199" >La 3éme assise régionale  sur &#171;&nbsp;Le mouvement associatif à la lumière des nouvelles dispositions constitutionnelles&nbsp;: Enjeux et défis&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article198" >Interdiction du Forum maghrébin pour la lutte contre le chômage et le travail précaire&nbsp;: Arrestations, expulsions</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article193" >Maroc - Managem donne suite à ses engagements</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article192" >&#171;&nbsp;DAWAR LANTER&nbsp;&#187; -  Représentation en Première</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article190" >Forum social des migrants&nbsp;: déclaration d&#8217;Oujda du Forum social Maghrébin</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article188" >L’Université d’Automne Jeunesse aura lieu les 12, 13 et 14 octobre 2012 à Bouznika (Maroc)</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article185" >Action Jeunesse organise des "cafés libertés" dans une vingtaine de villes du Maroc</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article183" >Dossier spécial "Assemblée préparatoire du Forum social Mondial - Tunis 2013"</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article180" >Assemblée préparatoire du Forum Social Mondial 2013 , Monastir</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article176" >Une autre Tunisie est possible, dans un autre Maghreb et un autre monde</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article173" >Le Forum social des quartiers populaires en route vers le Forum social mondial 2013 (Tunis)</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article172" >Rencontre internationale à Monastir (Tunisie) du 12 au 18 juillet 2012</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article171" >APPEL STOP TGV&nbsp;! </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article170" >منتــــدى الأحـــــــياء الشعبيــــــــة  19 - 20 ماي 2012  بالباطوار </a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				<span class="on">0</span>
+	|
+
+ <a href='spip.php?article186&amp;lang=fr&amp;debut_articles_rubrique=15#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>15</a>
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '29',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '186',
+	'id_rubrique' => '29',
+	'id_secteur' => '29',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"a/%2Fspip--fr--3197d85e71e0cdb14067";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:10:"article186";s:0:"";s:4:"lang";s:2:"fr";s:10:"id_article";s:3:"186";s:4:"date";s:19:"2014-12-07 12:41:25";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 12:41:25";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417974085;s:2:"gz";b:0;}

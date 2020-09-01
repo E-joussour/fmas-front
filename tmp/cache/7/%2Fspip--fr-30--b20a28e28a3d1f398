@@ -1,0 +1,174 @@
+a:11:{s:5:"texte";s:7995:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Portail E-Joussour de la société civile Maghreb/Machrek - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '34',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub28 art34">
+<div id="page" class="article art34">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '34',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique28">Mouvements sociaux</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Portail E-Joussour de la société civile Maghreb/Machrek</h1>
+            
+      		<div class="detail">
+				<span class="date">jeudi 4 d&eacute;cembre 2008</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>Portail E-Joussour de la société civile Maghreb/Machrek
+Avec l’appui d’Oxfam Novib et d&#8217;Alternatives</p></div>
+		<div class="texte"><p><strong>Un Portail INTERNET au service de cette société civile&nbsp;:</strong></p>
+
+<p>L&#8217;importance des  communications  et  plus  spécifiquement  de  l&#8217;Internet  dans  le travail de développement et de mobilisation populaire n&#8217;est plus à démontrer.</p>
+
+<p>Au Maghreb et au  Machrek,  peu  d&#8217;ONG  ou  réseaux  utilisent  au  maximum les potentialités de l&#8217;Internet et sont donc en mesure de faire connaître au monde Leurs activités et idées. De plus, il n&#8217;existe pas de véhicule permettant de faire connaître les  débats  qui animent le  mouvement  associatif  et le  rôle essentiel qu’il  joue  et continuera de  jouer dans  les  processus  de  démocratisation  et de développement dans la région.</p>
+
+<p>Il importe de permettre aux acteurs des sociétés civiles de ces régions  qui ont souvent en commun la langue arabe, d’avoir accès à des informations sur leurs pairs et sur les enjeux qui les concernent de façon centralisée et conviviale, ainsi que de produire et de publier des analyses dans cette même langue.</p>
+
+<p>IL importe aussi qu’ils produisent de l’information comparable en Anglais et en Français de façon à communiquer avec le reste du monde.</p>
+
+<p>Pour  ce faire,  aucun  outil  n’est  aujourd’hui plus  efficace  que  l&#8217;Internet&nbsp;:  média aux capacités d’archivage et de diffusion multilingue presque illimitées qui, par ce projet,  permettra aux  acteurs  des  sociétés  civiles  des  régions Maghreb/Machrek  de proposer  des  alternatives  citoyennes,  des  résultats  de  recherche et des analyses sur les phénomènes qui les concernent.</p>
+
+<p>Le site  <a href="http://www.ejoussour.net" class='spip_out' rel='external'>www.ejoussour.net</a>  (&#171;&nbsp;E&nbsp;&#187;  pour Électronique  et &#171;&nbsp;Joussour&nbsp;&#187;  qui  signifie  pont en langue arabe) vise à permettre aux organisations de bénéficier d&#8217;une large et dynamique visibilité Internet en adhérant et en participant à l’animation et la mobilisation autour du Portail E-Joussour, outil unique en ce genre, où le plus grand ensemble d’organisations seront recensées et présentées.</p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique28">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article86" >Forum Social Maghrébin - Communiqué de presse</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article84" >&#171;&nbsp;Marche des mouvements sociaux vers un Maghreb des Peuples et pour un monde meilleur&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article83" >LE FORUM SOCIAL MAGHREB EST NE</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article82" >Forum Syndical Marocain - Mohammedia les 21 et 22 juin 2008 -</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article77" >Les Assises du Forum des Alternatives Maroc</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article23" >Forum Social Mondial</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article31" >Réseautage</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				<a href='spip.php?article34&amp;lang=fr#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>0</a>
+	|
+
+ <a href='spip.php?article34&amp;lang=fr&amp;debut_articles_rubrique=15#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>15</a>
+	|
+
+ <span class="on">30</span>
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '28',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '34',
+	'id_rubrique' => '28',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"7/%2Fspip--fr-30--b20a28e28a3d1f398";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:8:{s:9:"article34";s:0:"";s:4:"lang";s:2:"fr";s:23:"debut_articles_rubrique";s:2:"30";s:10:"id_article";s:2:"34";s:4:"date";s:19:"2014-12-06 04:42:49";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-06 04:42:49";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417858969;s:2:"gz";b:0;}

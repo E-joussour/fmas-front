@@ -1,0 +1,191 @@
+a:11:{s:5:"texte";s:9057:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Mouvement associatif et régionalisation  - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '93',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub26 art93">
+<div id="page" class="article art93">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '93',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique26">Gouvernance et Démocratie</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Mouvement associatif et régionalisation </h1>
+            <div class="sous-titre">Quels apports pour la recomposition des identités et des pouvoirs&nbsp;? </div>
+      		<div class="detail">
+				<span class="date">lundi 14 juin 2010</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>Dans le cadre de la dynamique de concertation et d’action, et pour une meilleure implication du tissu associatif dans le développement et la promotion du débat public autours du processus d’élaboration du projet de régionalisation au Maroc,</p></div>
+		<div class="texte"><p>Le Forum des Alternatives Maroc (FMAS) en collaboration  avec  l’Espace Associatif, le Réseau Amazigh pour la Citoyenneté (AZETTA), la Fédération de Ligue Démocratique des Droits des Femmes (FLDDF), l’Institut de Formation des Agents de Développement (IFAD), Alternatives Citoyennes (ALCI), Association Marocaine de Solidarité et de Développement (AMSED) et  le Réseau Carrefour Associatif , avec l’appui et la présence de  150 associations représentants  tout le pays, ont organisé un séminaire les 03-04 avril 2010, auquel plus de 175 représentant(e)s de la société civile ont pris part sous le thème&nbsp;: &#171;&nbsp;Mouvement Associatif et régionalisation&nbsp;: Quels apports pour la recomposition des Identités et des pouvoirs&nbsp;?&nbsp;&#187;</p>
+
+<p>Cette initiative fut une opportunité pour aborder, en partant de la capitalisation des initiatives engagées par diverses organisations, sous divers angles d&#8217;approche, la question de la régionalisation comme un élément fondamental de la construction démocratique, mais aussi de la répartition équitable des richesses entre les diverses régions du pays et d&#8217;un développement équilibré et durable.</p>
+
+<p>Plusieurs rencontres de concertation entre acteurs ont également eu lieu entre avril et mai 2010. Ces dernières ont permis l&#8217;élaboration d&#8217;un mémorandum du tissu associatif sur la régionalisation.</p>
+
+<p>Pour plus d&#8217;information&nbsp;: 
++212 537 68 39 26/62
+fmas@menara.ma</p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique26">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article163" >"Pour l&#8217;effectivité de l&#8217;initiative populaire, la pétition et la démocratie participative"</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article152" >Rapport préliminaire d’observation du référendum du 1er juillet 2011 </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article148" >Rapport sur les circonstances de la mort de &#171;&nbsp;Kamal AMARI" et les suites de la violence envers les manifestants à Safi</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article142" >&#171;&nbsp;La société civile et la réforme de la Constitution&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article137" >Rencontre internationale &#171;&nbsp;Migrations et Développement&nbsp;: Quelles dynamiques Sud/Sud/Nord&nbsp;?&nbsp;&#187; à Agadir les 15 et 16 janvier 2011</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article123" >Atelier de formation et sensibilisation sur la gouvernance de la sécurité et le rôle de la société civile dans la promotion de la réforme des systèmes de sécurité</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article97" >Vers une nouvelle dynamique de coopération entre les élus locaux et la société civile</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article92" >Le Conseil économique et social au Maroc, et les défis pour le respect des droits économiques, sociaux et culturels et environnementaux</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article88" >Réforme des politiques sécuritaires&nbsp;: réalité et exigences</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article70" title="Rapport d’observation des élections législatives du 7 Septembre 2007">Rapport d’observation des élections législatives du 7 Septembre 2007</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article32" >Charte de l&#8217;Observatoire Marocain des Libertés Publiques</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article33" >Fiche d&#8217;observation des législatives 2007</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article149" >25 -26 Juin 2011&nbsp;: Rencontre "médias communautaires, pour une information citoyenne" à Tetouan </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article26" >Libertes publiques</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '26',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '93',
+	'id_rubrique' => '26',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"d/art-art-93-fr--a8ee19ef0a0f155330";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"page";s:7:"article";s:10:"id_article";s:2:"93";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2014-12-05 15:20:57";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-05 15:20:57";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417810857;s:2:"gz";b:0;}

@@ -1,0 +1,135 @@
+a:11:{s:5:"texte";s:5739:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ar" lang="ar" dir="rtl">
+<head>
+	<title>[Forum des Alternatives Maroc] : الحركات الاجتماعية</title>
+	<?php echo recuperer_fond( 'inc/inc-meta', array('id_rubrique' => '35',
+	'lang' => 'ar'), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	<link rel="alternate" type="application/rss+xml" title="&#1578;&#1585;&#1582;&#1610;&#1589; &#1607;&#1584;&#1575; &#1575;&#1604;&#1602;&#1587;&#1605; : الحركات الاجتماعية" href="http://www.forumalternatives.org/spip.php?page=backend&amp;id_rubrique=35" />
+
+	<?php echo recuperer_fond( 'styles', array('id_rubrique' => '35',
+	'lang' => 'ar'), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',10,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</head>
+<body dir="rtl" class="ar rubrique sect27 rub27 rub35">
+<div id="page" class="rubrique rub35">
+
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_rubrique' => '35',
+	'lang' => 'ar'), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',20,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+	<div id="bloc-contenu">
+		<h5>
+		<a href="http://www.forumalternatives.org" title="&#1575;&#1604;&#1589;&#1601;&#1581;&#1577; &#1575;&#1604;&#1571;&#1587;&#1575;&#1587;&#1610;&#1577; : Forum des Alternatives Maroc">&#1575;&#1604;&#1589;&#1601;&#1581;&#1577; &#1575;&#1604;&#1571;&#1587;&#1575;&#1587;&#1610;&#1577;</a>
+    
+    
+		<b class='separateur'>&gt;</b> 
+		<a href="http://www.forumalternatives.org/spip.php?rubrique27">حول منتدى بدائل المغرب</a>
+	
+	
+		<b class='separateur'>&gt;</b> الحركات الاجتماعية
+		</h5>
+		<div class="ligne-debut"></div><!-- ligne-debut -->
+    	
+    <h1 class="titre-article">الحركات الاجتماعية</h1>
+	
+	
+
+		
+	
+
+
+		
+
+
+		<?php echo recuperer_fond( 'inc/inc-rub-articles', array_merge(array (
+  'lang' => 'fr',
+  'id_rubrique' => '35',
+  'date' => '2014-12-05 08:28:58',
+  'date_default' => true,
+  'date_redac' => '2014-12-05 08:28:58',
+  'date_redac_default' => true,
+),array('id_rubrique' => '35',
+	'id_secteur' => '27',
+	'self' => '/rac/rubrique35.html',
+	'lang' => 'ar')), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',63,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		
+		
+		
+		<br class="nettoyeur" />
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+  <div id="encart">  
+
+<?php echo recuperer_fond( 'inc/inc-annonces', array_merge(array (
+  'lang' => 'fr',
+  'id_rubrique' => '35',
+  'date' => '2014-12-05 08:28:58',
+  'date_default' => true,
+  'date_redac' => '2014-12-05 08:28:58',
+  'date_redac_default' => true,
+),array('self' => '/rac/rubrique35.html',
+	'lang' => 'ar')), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',76,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-breves', array_merge(array (
+  'lang' => 'fr',
+  'id_rubrique' => '35',
+  'date' => '2014-12-05 08:28:58',
+  'date_default' => true,
+  'date_redac' => '2014-12-05 08:28:58',
+  'date_redac_default' => true,
+),array('id_rubrique' => '35',
+	'self' => '/rac/rubrique35.html',
+	'lang' => 'ar')), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',78,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-syndic', array_merge(array (
+  'lang' => 'fr',
+  'id_rubrique' => '35',
+  'date' => '2014-12-05 08:28:58',
+  'date_default' => true,
+  'date_redac' => '2014-12-05 08:28:58',
+  'date_redac_default' => true,
+),array('id_rubrique' => '35',
+	'self' => '/rac/rubrique35.html',
+	'lang' => 'ar')), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',80,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+  </div><!-- encart -->
+
+<!-- *****************************************************************
+	Navigation principale et rubriques (haut et/ou gauche)
+	Main and Sections Navigation (top and/orleft) 
+    ************************************************************* -->
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '35',
+	'lang' => 'ar'), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',88,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+<!-- *****************************************************************
+	Pied de page - Footer
+    ************************************************************* -->
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_rubrique' => '35',
+	'id_secteur' => '27',
+	'lang' => 'ar'), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',92,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+</div><!-- page -->
+</body>
+</html>
+";s:9:"squelette";s:37:"html_6f2eda500b26ee9e3c760e66a9921fc3";s:6:"source";s:35:"plugins/auto/ahuntsic/rubrique.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"4/%2Frac%2Frubrique35-fr--b61c61c4b";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"lang";s:2:"fr";s:11:"id_rubrique";s:2:"35";s:4:"date";s:19:"2014-12-05 08:28:58";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-05 08:28:58";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417786138;s:2:"gz";b:0;}

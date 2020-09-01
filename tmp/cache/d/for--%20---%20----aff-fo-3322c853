@@ -1,0 +1,38 @@
+a:11:{s:5:"texte";s:1948:"<div class='formulaire_spip formulaire_login'>
+	
+	
+	
+
+	
+
+	 
+	<form id='formulaire_login' method='post' action='/spip.php?page=login&amp;url=%2Fecrire%2F%3Famp%3Bredirect%3Dhttp%3A%2F%2Fwww.forumalternatives.org%252Fspip.php%3Farticle202%26amp%3Bvar_lang%3Dar' enctype='multipart/form-data'>
+	
+	<div><input name="page" value="login" type="hidden" />
+<input name="url" value="/ecrire/?amp;redirect=http://www.forumalternatives.org%2Fspip.php?article202&amp;var_lang=ar" type="hidden" /><input name='formulaire_action' type='hidden'
+		value='login' /><input name='formulaire_action_args' type='hidden'
+		value='cM2VqqrTAN0DEA+PFqNgTFR42hXRK0C62fK6MNIfmKVn83qOEsz9dl0hAHF9zuj4231lDr1TyMSfTkjxVH21wWDObt6QJlD9TGs3b6VWULmiQi1WkaGaHiOeat9b37uhevJ800KMj253t/ZjIW1nB+PLN48oM89njIpK9ukjuUq+PoZQmi1DCopKPqoNnoqVbNS9MQhU' /></div><fieldset>
+		<legend>Identifiants personnels</legend>
+		<span id="spip_logo_auteur"></span>
+		<ul>
+			<li class="editer_login obligatoire">
+				<label for="var_login">Login (identifiant de connexion au site)&nbsp;:</label><input type='text' class='text' name='var_login' id='var_login' value="" size='40' />
+			</li>
+			<li class="editer_password obligatoire">
+				<label for="password">Mot de passe&nbsp;:</label><input type='password' class='password' name='password' id='password' value="" size='40' />
+				<span class='details'>&#91;<a href="http://www.forumalternatives.org/spip.php?page=spip_pass" id='spip_pass'>mot&nbsp;de&nbsp;passe&nbsp;oubli&eacute;&nbsp;?</a>&#93;</span>
+			</li>
+			 
+			<li class="editer_session"><div class='choix'>
+				<input type="checkbox" class="checkbox" name="session_remember" id="session_remember" value="oui"  onchange="jQuery(this).addClass('modifie');" />
+				<label class='nofx' for="session_remember">Rester identifi&eacute; quelques jours</label>
+			</div></li>
+		</ul>
+	</fieldset>
+	<p class="boutons"><input type="submit" class="submit" value="Valider" /></p>
+	</form>
+	
+	
+	
+</div>
+";s:9:"squelette";s:37:"html_7550782a6a47af1a0b988013b589800d";s:6:"source";s:28:"prive/formulaires/login.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"d/for--%20---%20----aff-fo-3322c853";}s:7:"entetes";a:3:{s:13:"Cache-Control";s:35:"no-store, no-cache, must-revalidate";s:6:"Pragma";s:8:"no-cache";s:12:"X-Spip-Cache";i:3600;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:19:{s:9:"var_login";s:0:"";s:8:"editable";s:1:" ";s:3:"cnx";N;s:9:"auth_http";s:0:"";s:15:"rester_connecte";s:1:" ";s:5:"_logo";N;s:12:"_alea_actuel";s:0:"";s:11:"_alea_futur";s:0:"";s:9:"_pipeline";s:24:"affiche_formulaire_login";s:15:"formulaire_args";s:200:"cM2VqqrTAN0DEA+PFqNgTFR42hXRK0C62fK6MNIfmKVn83qOEsz9dl0hAHF9zuj4231lDr1TyMSfTkjxVH21wWDObt6QJlD9TGs3b6VWULmiQi1WkaGaHiOeat9b37uhevJ800KMj253t/ZjIW1nB+PLN48oM89njIpK9ukjuUq+PoZQmi1DCopKPqoNnoqVbNS9MQhU";s:7:"erreurs";a:0:{}s:6:"action";s:147:"/spip.php?page=login&amp;url=%2Fecrire%2F%3Famp%3Bredirect%3Dhttp%3A%2F%2Fwww.forumalternatives.org%252Fspip.php%3Farticle202%26amp%3Bvar_lang%3Dar";s:4:"form";s:5:"login";s:2:"id";s:3:"new";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2014-12-04 05:25:19";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-04 05:25:19";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417688719;s:2:"gz";b:0;}

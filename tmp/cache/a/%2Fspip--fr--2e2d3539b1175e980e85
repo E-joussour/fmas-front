@@ -1,0 +1,144 @@
+a:11:{s:5:"texte";s:6877:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>[Forum des Alternatives Maroc] : Gouvernance et Démocratie</title>
+	<?php echo recuperer_fond( 'inc/inc-meta', array('id_rubrique' => '26',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	<link rel="alternate" type="application/rss+xml" title="Syndiquer cette rubrique : Gouvernance et Démocratie" href="http://www.forumalternatives.org/spip.php?page=backend&amp;id_rubrique=26" />
+
+	<?php echo recuperer_fond( 'styles', array('id_rubrique' => '26',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',10,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</head>
+<body dir="ltr" class="fr rubrique sect2 rub2 rub26">
+<div id="page" class="rubrique rub26">
+
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_rubrique' => '26',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',20,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+	<div id="bloc-contenu">
+		<h5>
+		<a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+    
+    
+		<b class='separateur'>&gt;</b> 
+		<a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+	
+	
+		<b class='separateur'>&gt;</b> Gouvernance et Démocratie
+		</h5>
+		<div class="ligne-debut"></div><!-- ligne-debut -->
+    	
+    <h1 class="titre-article">Gouvernance et Démocratie</h1>
+	<div class="chapo " id="description">
+        <p>Le FMAS est convaincu que l’établissement d’un état de droit et la démocratie passent par le respect et la promotion des droits humains et des libertés fondamentales. De même qu’il est persuadé que l’exercice de réflexion et de dialogue entre les différents acteurs de la société est essentiel pour l’émergence d’une opinion publique agissant sur son environnement. Également, le renforcement du dialogue entre les acteurs favorisera l’émergence de projets de gouvernance locale, de veille et de monitoring, de production de savoirs et d’analyses et de plaidoyer qui contribueront à la réduction de l’exclusion sociale et à l’amélioration de la situation des droits et libertés fondamentales des populations. Les thématiques prioritaires de l’axe gouvernance et démocratie autour desquelles les actions du Fmas s’articuleront pour les trois prochaines années sont les suivantes&nbsp;:</p>
+
+<ul class="spip"><li>Justice</li><li>Droits sociaux, économiques, culturels et environnementaux</li><li>Processus électoraux</li><li>Médias, gouvernance et démocratie</li><li>Gouvernance locale – démocratie participative - Régionalisation</li><li>Gouvernance de la sécurité</li></ul>
+        
+	</div><!-- chapo -->
+	
+
+		
+	
+
+
+		
+
+
+		<?php echo recuperer_fond( 'inc/inc-rub-articles', array_merge(array (
+  'rubrique26' => '',
+  'lang' => 'fr',
+  'id_rubrique' => '26',
+  'date' => '2014-12-06 14:25:35',
+  'date_default' => true,
+  'date_redac' => '2014-12-06 14:25:35',
+  'date_redac_default' => true,
+),array('id_rubrique' => '26',
+	'id_secteur' => '2',
+	'self' => 'spip.php?rubrique26&amp;lang=fr',
+	'lang' => 'fr')), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',63,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		
+		
+		
+		<br class="nettoyeur" />
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+  <div id="encart">  
+
+<?php echo recuperer_fond( 'inc/inc-annonces', array_merge(array (
+  'rubrique26' => '',
+  'lang' => 'fr',
+  'id_rubrique' => '26',
+  'date' => '2014-12-06 14:25:35',
+  'date_default' => true,
+  'date_redac' => '2014-12-06 14:25:35',
+  'date_redac_default' => true,
+),array('self' => 'spip.php?rubrique26&amp;lang=fr',
+	'lang' => 'fr')), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',76,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-breves', array_merge(array (
+  'rubrique26' => '',
+  'lang' => 'fr',
+  'id_rubrique' => '26',
+  'date' => '2014-12-06 14:25:35',
+  'date_default' => true,
+  'date_redac' => '2014-12-06 14:25:35',
+  'date_redac_default' => true,
+),array('id_rubrique' => '26',
+	'self' => 'spip.php?rubrique26&amp;lang=fr',
+	'lang' => 'fr')), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',78,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-syndic', array_merge(array (
+  'rubrique26' => '',
+  'lang' => 'fr',
+  'id_rubrique' => '26',
+  'date' => '2014-12-06 14:25:35',
+  'date_default' => true,
+  'date_redac' => '2014-12-06 14:25:35',
+  'date_redac_default' => true,
+),array('id_rubrique' => '26',
+	'self' => 'spip.php?rubrique26&amp;lang=fr',
+	'lang' => 'fr')), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',80,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+  </div><!-- encart -->
+
+<!-- *****************************************************************
+	Navigation principale et rubriques (haut et/ou gauche)
+	Main and Sections Navigation (top and/orleft) 
+    ************************************************************* -->
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '26',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',88,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+<!-- *****************************************************************
+	Pied de page - Footer
+    ************************************************************* -->
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_rubrique' => '26',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/rubrique.html','html_6f2eda500b26ee9e3c760e66a9921fc3','',92,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+</div><!-- page -->
+</body>
+</html>
+";s:9:"squelette";s:37:"html_6f2eda500b26ee9e3c760e66a9921fc3";s:6:"source";s:35:"plugins/auto/ahuntsic/rubrique.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"a/%2Fspip--fr--2e2d3539b1175e980e85";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:10:"rubrique26";s:0:"";s:4:"lang";s:2:"fr";s:11:"id_rubrique";s:2:"26";s:4:"date";s:19:"2014-12-06 14:25:35";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-06 14:25:35";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417893935;s:2:"gz";b:0;}

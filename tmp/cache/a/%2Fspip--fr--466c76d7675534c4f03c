@@ -1,0 +1,173 @@
+a:11:{s:5:"texte";s:6588:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Impliquez vous ! - [HaCkeD By GaSSpEr]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '7',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 art7">
+<div id="page" class="article art7">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '7',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : HaCkeD By GaSSpEr">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Impliquez vous&nbsp;!</h1>
+            
+      		<div class="detail">
+				<span class="date">mercredi 6 d&eacute;cembre 2006</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		
+		<div class="texte"><p>L’implication volontaire est à la base même de l&#8217;action des organisations sans but lucratif telle que le Forum des Alternatives Maroc, pour des alternatives sud. Rejoignez-nous en participant à l’organisation de nos activités, séminaires, ateliers, campagnes d’éducation et de sensibilisation etc.</p>
+
+<p>Si vous souhaitez contribuez au succès des projets du Forum des Alternatives Maroc et de l&#8217;Action Jeunesse, vous pouvez, dès maintenant nous contacter par courrier, téléphone/fax ou courrier électronique&nbsp;:</p>
+
+<p>Adresse postale&nbsp;:    53 Rue Melouiya , Appt.16 - 4e étage, Agdal,  Rabat, Maroc</p>
+
+<p>Tel/Fax&nbsp;:             Tél.&nbsp;: 0537 68 39 26/62   Fax&nbsp;: 0537 77 07 22</p>
+
+<p>Courriel&nbsp;:             fmas@menara.ma</p>
+
+<p>Si vous souhaitez devenir membre de l&#8217;association, vous pouvez télécharger le document joint et l&#8217;envoyer par courrier, ou par fax.</p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		<div class="chapo" id="documents" style="line-height:1;"> 
+	<h2>Documents joints</h2>
+		
+				
+				<div style="float:left;padding-right: .5em;  width:36%;">
+					<div style="float:left; margin-right: .5em;"><a href='IMG/doc_doc_demande_adhesion_2007-nouveaux.doc' type='application/msword' title='Word - 103 ko'><img src='local/cache-vignettes/L52xH52/doc-cfac9.png' width='52' height='52' alt='' class='spip_logos' style='height:52px;width:52px;' /></a></div>
+					<small>
+						14 juin 2010<br />
+						Document : Word<br />
+						103&nbsp;ko
+					</small>
+				</div>
+				
+		
+		<br class="nettoyeur" />
+	</div><!-- chapo -->
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique2">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article200" > Communiqué   Le Forum des Alternatives Maroc, en collaboration avec l’Observatoire Marocain des Libertés publiques, organisent une conférence de presse sur les libertés de rassemblement et de manifestation au Maroc   Le 06 mai 2014 à 10h00,  à l’Hôtel Golden Tulip Farah, 160 Avenue F.A.R Casablanca</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article9" >Qui sommes nous&nbsp;?</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article22" >Structure</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article15" >Statut</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article2" >Partenariats</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article75" >Plateforme</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '7',
+	'id_rubrique' => '2',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"a/%2Fspip--fr--466c76d7675534c4f03c";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:8:"article7";s:0:"";s:4:"lang";s:2:"fr";s:10:"id_article";s:1:"7";s:4:"date";s:19:"2014-12-07 21:26:23";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-07 21:26:23";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1418005584;s:2:"gz";b:0;}

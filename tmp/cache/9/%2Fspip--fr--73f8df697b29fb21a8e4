@@ -1,0 +1,170 @@
+a:11:{s:5:"texte";s:6290:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Vers la construction d'un Forum social Maghreb/Machrek - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '96',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect5 rub5 rub19 art96">
+<div id="page" class="article art96">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '96',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique5">Publications</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique19">Rapports</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Vers la construction d&#8217;un Forum social Maghreb/Machrek</h1>
+            <div class="sous-titre">Rapport du séminaire Maghreb/Machrek en marge du CI FSM, mai 2009, Harhoura</div>
+      		<div class="detail">
+				<span class="date">lundi 14 juin 2010</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		
+		
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		<div class="chapo" id="documents" style="line-height:1;"> 
+	<h2>Documents joints</h2>
+		
+				<h3 class="" style="margin-bottom: .6em;"><a href="IMG/pdf_VF-Rapport_-SEM_MM_et_PF-_Harhoura_mai_2009_FR.pdf">Rapport séminaire Maghreb-Machrek FR</a></h3>
+				<div style="float:left;padding-right: .5em;  width:36%;">
+					<div style="float:left; margin-right: .5em;"><a href='IMG/pdf_VF-Rapport_-SEM_MM_et_PF-_Harhoura_mai_2009_FR.pdf' type='application/pdf' title='PDF - 400.2 ko - Rapport s&#233;minaire Maghreb-Machrek FR'><img src='local/cache-vignettes/L52xH52/pdf-eb697.png' width='52' height='52' alt='' class='spip_logos' style='height:52px;width:52px;' /></a></div>
+					<small>
+						14 juin 2010<br />
+						Document : PDF<br />
+						400.2&nbsp;ko
+					</small>
+				</div>
+				
+		
+		<br class="nettoyeur" />
+	</div><!-- chapo -->
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique19">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article95" >Processus FSMagh</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article94" >Collectif Associatif pour l&#8217;Observation des Elections</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article67" title="Rapport d’observation des élections législatives du 7 Septembre 2007">Rapport d’observation des élections législatives du 7 Septembre 2007</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article78" >RAPPORT D’ACTIVITES 2006-2007</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article76" >LES ASSISES DU FORUM DES ALTERNATIVES MAROC</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article19" >Rapport d&#8217;activités 2003-2004</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article27" >Rapport d&#8217;activités 2005</a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '19',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '96',
+	'id_rubrique' => '19',
+	'id_secteur' => '5',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"9/%2Fspip--fr--73f8df697b29fb21a8e4";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:9:"article96";s:0:"";s:4:"lang";s:2:"fr";s:10:"id_article";s:2:"96";s:4:"date";s:19:"2014-12-06 09:36:35";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-06 09:36:35";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417876595;s:2:"gz";b:0;}

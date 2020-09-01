@@ -1,0 +1,226 @@
+a:11:{s:5:"texte";s:11906:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Maroc - Managem donne suite à ses engagements - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '193',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect29 rub29 art193">
+<div id="page" class="article art193">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '193',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique29">Nouveauté</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Maroc - Managem donne suite à ses engagements</h1>
+            
+      		<div class="detail">
+				<span class="date">lundi 21 janvier 2013</span> 
+				<span class="auteurs">par  <span class="vcard author"><a class="url fn spip_in" href="spip.php?auteur1">FMAS</a></span></span>				
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		<div class="chapo"><p>La fin du conflit social entre Managem et la population des zones minières ne cesse de se confirmer. A Tinghir, dans le sud-est du pays, le programme mis en place dans le dessein du développement de ces zones va bon train et les partenaires locaux semblent en être satisfaits. Vendredi 18 janvier 2013, la filiale de SNI a procédé à la signature de cinq conventions de partenariat avec des établissements publics et associations de développement local pour des projets dont le budget avoisine les 6 millions de dirhams.</p></div>
+		<div class="texte"><p>Dix projets censés redonner vie, ou du moins contribuer à la dynamique sociale de ces zones minières où la rareté de l’activité économique pèse lourd sur les conditions de vie des habitants. Ceci est une partie de ce que ce groupe leader dans l’exploitation minière et industrielle s’est engagé à réaliser dans la zone minière d’Imiter.</p>
+
+<p>Entre infrastructures et transport scolaire, centres de soins, accès à l’eau potable, colonies de vacances au profit des enfants, création d’activités génératrices de revenus, le groupe aurait mobilisé un budget global de 5,6 millions DH. A ce titre, la zone minière Imiter a bénéficié entre autre de l’équipement de 40 centres préscolaires à Tinghir, à la scolarisation des enfants des communes de Ouaklime et de Imider et d’équiper le centre d’hémodialyse de Tinghir. Ces projets s’inscrivent dans le plan prioritaire 2012 qui est le fruit d’une concertation entre le réseau associatif pour le développement et la démocratie de Zagora (RAZDED), le Forum des alternatives Maroc (FMAS), et le Groupe Managem lors d’une rencontre à Zagora en avril 2012. Pour rappel, ce plan cible les zones minières de Bouazzer, Bleida et Imiter pour un budget global assuré en totalité par la filiale de SNI et qui est de près de dixmillions de dirhams destinés à financer près de 37 projets autour des trois sites.</p>
+
+<p>Il n’est sans mentionner que les 15 mois du conflit social entre le Groupe Managem et les habitants de la région ont entraîné un manque à gagner énorme pour l’entreprise minière. Ces pertes sont estimées, selon Mohamed Cherrat, DRH de Managem, à &#171;&nbsp;plus de 400 millions de dirhams&nbsp;&#187;. L’implication du groupe dans ces projets socio-économiques joue un rôle primordial dans la relance économique et de la région et de ses activités minières dont la production a été revue à la baisse à hauteur de 40% en 2011 à cause de ses conflits. Aujourd’hui, cet énorme manque à gagner est ramené au même titre que la confiance des habitants des zones minières d’Imiter.</p>
+
+<p><a href="http://www.aujourdhui.ma/maroc-actualite/societe/managem-donne-suite-a-s.." class='spip_url spip_out' rel='nofollow external'>http://www.aujourdhui.ma/maroc-actu...</a>.</p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+			<div class="ps" id="articles-recents-auteur">
+				
+				<h4><a href="spip.php?auteur1" title="FMAS">FMAS</a></h4>	
+					
+					<h3><em>Articles de cet auteur</em></h3>
+					<ul>
+						
+						<li>	
+							<a href="spip.php?article195" >Termes de référence&nbsp;:  2 JOURNALISTES / ANIMATEURS &#171;&nbsp;WEBRADIO E-JOUSSOUR&nbsp;&#187;</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article175" >Termes de référence&nbsp;: CHARGE ( E ) DE CONTENU DU SITE &#171;&nbsp;WEBRADIO JOUSSOUR&nbsp;&#187;</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article202" >   منتدى بدائل المغرب بتعاون مع المرصد المغربي للحريات العامة ينظمان ندوة صحفية حول حرية التجمعات والتجمهر والتظاهرات بالمغرب</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article200" > Communiqué   Le Forum des Alternatives Maroc, en collaboration avec l’Observatoire Marocain des Libertés publiques, organisent une conférence de presse sur les libertés de rassemblement et de manifestation au Maroc   Le 06 mai 2014 à 10h00,  à l’Hôtel Golden Tulip Farah, 160 Avenue F.A.R Casablanca</a>
+						</li>
+							
+						<li>	
+							<a href="spip.php?article204" >Communiqué de presse La Dynamique de l’appel de Rabat des associations démocrates confirme la continuité de son boycott du dialogue sur la société civile, organisé par le gouvernement.</a>
+						</li>
+							
+						<li><a href="spip.php?auteur1" title="suite">[...]</a></li>
+					</ul>
+					
+				
+			</div><!-- notes chapo -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique29">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article175" >Termes de référence&nbsp;: CHARGE ( E ) DE CONTENU DU SITE &#171;&nbsp;WEBRADIO JOUSSOUR&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article199" >La 3éme assise régionale  sur &#171;&nbsp;Le mouvement associatif à la lumière des nouvelles dispositions constitutionnelles&nbsp;: Enjeux et défis&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article198" >Interdiction du Forum maghrébin pour la lutte contre le chômage et le travail précaire&nbsp;: Arrestations, expulsions</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article192" >&#171;&nbsp;DAWAR LANTER&nbsp;&#187; -  Représentation en Première</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article190" >Forum social des migrants&nbsp;: déclaration d&#8217;Oujda du Forum social Maghrébin</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article188" >L’Université d’Automne Jeunesse aura lieu les 12, 13 et 14 octobre 2012 à Bouznika (Maroc)</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article186" >&#171;&nbsp;Le Conseil Consultatif des Jeunes et de l’Action Associative&nbsp;: Défis du Mouvement Associatif et de la Jeunesse&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article185" >Action Jeunesse organise des "cafés libertés" dans une vingtaine de villes du Maroc</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article183" >Dossier spécial "Assemblée préparatoire du Forum social Mondial - Tunis 2013"</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article180" >Assemblée préparatoire du Forum Social Mondial 2013 , Monastir</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article176" >Une autre Tunisie est possible, dans un autre Maghreb et un autre monde</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article173" >Le Forum social des quartiers populaires en route vers le Forum social mondial 2013 (Tunis)</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article172" >Rencontre internationale à Monastir (Tunisie) du 12 au 18 juillet 2012</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article171" >APPEL STOP TGV&nbsp;! </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article170" >منتــــدى الأحـــــــياء الشعبيــــــــة  19 - 20 ماي 2012  بالباطوار </a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				<span class="on">0</span>
+	|
+
+ <a href='/rac/article193.html?lang=fr&amp;debut_articles_rubrique=15#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>15</a>
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '29',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '193',
+	'id_rubrique' => '29',
+	'id_secteur' => '29',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"7/%2Frac%2Farticle193-fr--616266e02";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"lang";s:2:"fr";s:10:"id_article";s:3:"193";s:4:"date";s:19:"2014-12-06 12:56:11";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-06 12:56:11";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417888573;s:2:"gz";b:0;}

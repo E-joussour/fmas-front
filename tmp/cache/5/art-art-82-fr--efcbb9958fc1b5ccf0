@@ -1,0 +1,201 @@
+a:11:{s:5:"texte";s:9059:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+	<title>Forum Syndical Marocain - Mohammedia les 21 et 22 juin 2008 - - [Forum des Alternatives Maroc]</title>
+		<?php echo recuperer_fond( 'inc/inc-meta', array('id_article' => '82',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',7,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<?php echo recuperer_fond( 'styles', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+</head>
+<body dir="ltr" class="fr article sect2 rub2 rub28 art82">
+<div id="page" class="article art82">
+<!-- *****************************************************************
+	Bandeau, titre du site et menu langue
+	Header and main menu (top and right) 
+    ************************************************************* -->
+	
+<?php echo recuperer_fond( 'inc/inc-bandeau', array('id_article' => '82',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',18,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<!-- *****************************************************************
+	Contenu principal (centre)
+	Main content (center) 
+    ************************************************************* -->
+
+    <div id="bloc-contenu">
+      <div class="article-info-rubrique">
+        <h5>
+        <a href="http://www.forumalternatives.org" title="Accueil du site : Forum des Alternatives Maroc">Accueil du site</a>
+        
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique2">À propos du FMAS</a>
+            
+              <b class='separateur'>&gt;</b> 
+              <a href="http://www.forumalternatives.org/spip.php?rubrique28">Mouvements sociaux</a>
+            
+        </h5>
+
+        
+        
+        <div class="ligne-debut"></div><!-- ligne-debut -->
+      </div><!-- article-info-rubrique -->
+      
+      <div class="cartouche">
+			
+			
+			<h1 class="titre-article">Forum Syndical Marocain - Mohammedia les 21 et 22 juin 2008 -</h1>
+            
+      		<div class="detail">
+				<span class="date">jeudi 19 juin 2008</span> 
+								
+     		 </div><!-- detail -->
+				
+      </div><!-- cartouche -->
+
+
+		
+		<div class="texte"><p><span class='spip_document_51 spip_documents spip_documents_left' style='float:left; width:532px;'>
+<img src='IMG/jpg_Sans_titre.jpg' width='532' height='101' alt="" style='height:101px;width:532px;' /></span>
+Conformément à l’appel de Bouznika lancé par l’Assemblée syndicale qui s’est tenue en marge du Forum Social Maroc les 25/26 et 27 Juillet 2007, à laquelle ont pris part les représentants des centrales syndicales maghrébines et les associations actives dans le domaine syndical, le Comité de suivi, issu  de ladite assemblée, organise une rencontre du Forum Syndical Maroc qui se tiendra  les 21 et 22 Juin courant à Mohammedia au centre d’estivage de la CNSS et à la Faculté de Droit.</p>
+
+<p>L’idée de créer le Forum Syndical Marocain s’est développée à l’initiative d’un groupe de syndicalistes et de certains acteurs syndicaux et associatifs qui ont participé au troisième Forum Social Marocain, tenu les 25, 26 et 27 janvier 2008 à Bouznika.</p>
+
+<p>Pour concrétiser cette idée, un rassemblement syndical a été organisé en marge du troisième Forum Social Marocain , avec la participation de plus de 63 acteurs associatifs et syndicaux appartenant à l’Union Marocaine du Travail (UMT), la Confédération Démocratique du Travail (CDT), la Fédération Démocratique du Travail (FDT), l’Organisation Démocratique du Travail (ODT), ainsi que des représentants du Centre de Démocratie et Services Ouvriers, le Centre de Documentation et d’Études Syndicales Ouvrières, et le Club Ouvrier pour la Sensibilisation et la Solidarité.</p>
+
+<p>Ont également assisté aux travaux de cette réunion syndicale des potentialités syndicales issues de l’espace maghrébin et africain&nbsp;: Algérie, Mauritanie, Tunisie, République Démocratique du Congo.</p></div>
+		
+		
+		
+		<br class="nettoyeur" />
+
+
+		
+
+		
+		
+		<!-- Derniers articles des auteurs de l'article -->
+		
+
+		<!-- Mots cles -->
+		
+		
+
+		<!-- Forums -->
+		
+		
+	</div><!-- bloc-contenu -->
+	
+<!-- *****************************************************************
+	Menus contextuels (droite)
+	Contextual menus (right) 
+    ************************************************************* -->
+    <div id="encart"> 
+      <?php echo recuperer_fond( 'inc/inc-annonces', array('lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',188,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		<!-- Derniers articles dans la meme rubrique -->
+		
+			<div class="menu" id="articles_meme_rubrique">
+			<h2 class="structure">Articles les plus r&eacute;cents</h2>
+				<a name='pagination_articles_rubrique' id='pagination_articles_rubrique'></a>
+				<ul>
+					<li>
+						<a href="http://www.forumalternatives.org/spip.php?rubrique28">Dans la m&ecirc;me rubrique</a>
+						<ul>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article155" >&#171;&nbsp;Petite bonne&nbsp;&#187; tuée à El Jadida au Maroc</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article154" >Rencontre du Comité de Suivi du Forum Social Maghreb-Machrek à Tunis - 2 et 3 septembre 2011</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article140" >Communiqué sur la situation en Libye</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article138" >Communiqué - Sit-in de soutien le jeudi 13 Janvier à 17h devant l’ambassade de la Tunisie à Rabat</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article139" >Appel de solidarité avec la Tunisie - Sit-in le 10 janvier 2011</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article136" >Appel à l&#8217;UE et au parlement européen pour la ratification de la Convention Internationale des droits des migrants</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article135" >Rapport sur Les évènements du campement d’&#171;&nbsp;Agdem Izik et Lâayoune&nbsp;&#187; </a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article131" >Conférence de presse sur les événements du camp d&#8217;Agdem IZIK et de la ville de Laâyoune‏</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article126" >Soulaliyates, encore une avancée...</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article122" >Forum Africain &#171;&nbsp;Droits Culturels&nbsp;&#187;</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article121" >Forum social des migrations - Samedi 18 Décembre à Bruxelles</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article120" >Pour un Maghreb respectueux des droits de l&#8217;Homme</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article119" >Forum mondial de l&#8217;Education en Palestine</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article118" >Forum mondial de l&#8217;Education étendu au Liban</a>
+							</li>
+							
+							<li>
+								<a href="http://www.forumalternatives.org/spip.php?article117" >Forum Mondial de l&#8217;Education étendu au Maroc </a>
+							</li>
+							
+						</ul>
+					</li>
+				</ul>
+				<span class="on">0</span>
+	|
+
+ <a href='article82.html?debut_articles_rubrique=15#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>15</a>
+	|
+
+ <a href='article82.html?debut_articles_rubrique=30#pagination_articles_rubrique' class='lien_pagination' rel='nofollow'>30</a>
+			</div><!-- menu -->
+		
+
+	</div><!-- encart -->
+	
+
+<?php echo recuperer_fond( 'inc/inc-menu', array('id_rubrique' => '28',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',213,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc/inc-bas', array('id_article' => '82',
+	'id_rubrique' => '28',
+	'id_secteur' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/ahuntsic/article.html','html_0feb356541ece574d5ca5f126926b590','',215,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</div><!-- page -->
+
+</body>
+</html>
+";s:9:"squelette";s:37:"html_0feb356541ece574d5ca5f126926b590";s:6:"source";s:34:"plugins/auto/ahuntsic/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"5/art-art-82-fr--efcbb9958fc1b5ccf0";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"page";s:7:"article";s:10:"id_article";s:2:"82";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2014-12-05 13:05:23";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-05 13:05:23";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1417802723;s:2:"gz";b:0;}

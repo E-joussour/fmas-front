@@ -1,0 +1,336 @@
+Feb 13 08:36:22 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:22 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:22 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:22 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:22 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:22 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:22 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:22 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:23 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:24 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Feb 13 08:36:25 41.249.135.145 (pid 15043) Table 'joussour_fmas.meta' doesn't exist - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Unknown column 'tables' in 'spip_groupes_mots' - ALTER TABLE `joussour_fmas`.spip_groupes_mots CHANGE `tables` tables_liees text DEFAULT '' NOT NULL AFTER obligatoire
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Unknown column 'tables' in 'spip_groupes_mots' - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1054 de mysql: Unknown column 'tables' in 'spip_groupes_mots'
+ALTER TABLE `joussour_fmas`.spip_groupes_mots CHANGE `tables` tables_liees text DEFAULT '' NOT NULL AFTER obligatoire
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Duplicate column name 'id_objet' - ALTER TABLE `joussour_fmas`.spip_documents_liens ADD id_objet bigint(21) DEFAULT '0' NOT NULL AFTER id_document
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Duplicate column name 'id_objet' - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1060 de mysql: Duplicate column name 'id_objet'
+ALTER TABLE `joussour_fmas`.spip_documents_liens ADD id_objet bigint(21) DEFAULT '0' NOT NULL AFTER id_document
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Duplicate column name 'objet' - ALTER TABLE `joussour_fmas`.spip_documents_liens ADD objet VARCHAR (25) DEFAULT '' NOT NULL AFTER id_objet
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Duplicate column name 'objet' - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1060 de mysql: Duplicate column name 'objet'
+ALTER TABLE `joussour_fmas`.spip_documents_liens ADD objet VARCHAR (25) DEFAULT '' NOT NULL AFTER id_objet
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Unknown column 'id_article' in 'where clause' - 
+UPDATE `joussour_fmas`.spip_documents_liens
+SET id_objet=id_article,objet='article'
+WHERE id_article IS NOT NULL AND id_article>0
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Unknown column 'id_article' in 'where clause' - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1054 de mysql: Unknown column 'id_article' in 'where clause'
+
+UPDATE `joussour_fmas`.spip_documents_liens
+SET id_objet=id_article,objet='article'
+WHERE id_article IS NOT NULL AND id_article>0
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Unknown column 'id_rubrique' in 'where clause' - 
+UPDATE `joussour_fmas`.spip_documents_liens
+SET id_objet=id_rubrique,objet='rubrique'
+WHERE id_rubrique IS NOT NULL AND id_rubrique>0
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Unknown column 'id_rubrique' in 'where clause' - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1054 de mysql: Unknown column 'id_rubrique' in 'where clause'
+
+UPDATE `joussour_fmas`.spip_documents_liens
+SET id_objet=id_rubrique,objet='rubrique'
+WHERE id_rubrique IS NOT NULL AND id_rubrique>0
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Unknown column 'id_breve' in 'where clause' - 
+UPDATE `joussour_fmas`.spip_documents_liens
+SET id_objet=id_breve,objet='breve'
+WHERE id_breve IS NOT NULL AND id_breve>0
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Unknown column 'id_breve' in 'where clause' - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1054 de mysql: Unknown column 'id_breve' in 'where clause'
+
+UPDATE `joussour_fmas`.spip_documents_liens
+SET id_objet=id_breve,objet='breve'
+WHERE id_breve IS NOT NULL AND id_breve>0
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Unknown column 'id_auteur' in 'where clause' - 
+UPDATE `joussour_fmas`.spip_documents_liens
+SET id_objet=id_auteur,objet='auteur'
+WHERE id_auteur IS NOT NULL AND id_auteur>0
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Unknown column 'id_auteur' in 'where clause' - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1054 de mysql: Unknown column 'id_auteur' in 'where clause'
+
+UPDATE `joussour_fmas`.spip_documents_liens
+SET id_objet=id_auteur,objet='auteur'
+WHERE id_auteur IS NOT NULL AND id_auteur>0
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Unknown column 'id_forum' in 'where clause' - 
+UPDATE `joussour_fmas`.spip_documents_liens
+SET id_objet=id_forum,objet='forum'
+WHERE id_forum IS NOT NULL AND id_forum>0
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Unknown column 'id_forum' in 'where clause' - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1054 de mysql: Unknown column 'id_forum' in 'where clause'
+
+UPDATE `joussour_fmas`.spip_documents_liens
+SET id_objet=id_forum,objet='forum'
+WHERE id_forum IS NOT NULL AND id_forum>0
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Can't DROP 'id_article'; check that column/key exists - ALTER TABLE `joussour_fmas`.spip_documents_liens DROP id_article
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Can't DROP 'id_article'; check that column/key exists - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1091 de mysql: Can't DROP 'id_article'; check that column/key exists
+ALTER TABLE `joussour_fmas`.spip_documents_liens DROP id_article
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Can't DROP 'id_rubrique'; check that column/key exists - ALTER TABLE `joussour_fmas`.spip_documents_liens DROP id_rubrique
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Can't DROP 'id_rubrique'; check that column/key exists - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1091 de mysql: Can't DROP 'id_rubrique'; check that column/key exists
+ALTER TABLE `joussour_fmas`.spip_documents_liens DROP id_rubrique
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Can't DROP 'id_breve'; check that column/key exists - ALTER TABLE `joussour_fmas`.spip_documents_liens DROP id_breve
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Can't DROP 'id_breve'; check that column/key exists - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1091 de mysql: Can't DROP 'id_breve'; check that column/key exists
+ALTER TABLE `joussour_fmas`.spip_documents_liens DROP id_breve
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Can't DROP 'id_auteur'; check that column/key exists - ALTER TABLE `joussour_fmas`.spip_documents_liens DROP id_auteur
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Can't DROP 'id_auteur'; check that column/key exists - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1091 de mysql: Can't DROP 'id_auteur'; check that column/key exists
+ALTER TABLE `joussour_fmas`.spip_documents_liens DROP id_auteur
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Can't DROP 'id_forum'; check that column/key exists - ALTER TABLE `joussour_fmas`.spip_documents_liens DROP id_forum
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Can't DROP 'id_forum'; check that column/key exists - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1091 de mysql: Can't DROP 'id_forum'; check that column/key exists
+ALTER TABLE `joussour_fmas`.spip_documents_liens DROP id_forum
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Table 'joussour_fmas.spip_documents_auteurs' doesn't exist - 
+SELECT *
+FROM `joussour_fmas`.spip_documents_auteurs
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Table 'joussour_fmas.spip_documents_auteurs' doesn't exist - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1146 de mysql: Table 'joussour_fmas.spip_documents_auteurs' doesn't exist
+
+SELECT *
+FROM `joussour_fmas`.spip_documents_auteurs
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Table 'joussour_fmas.spip_documents_auteurs' doesn't exist - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Table 'joussour_fmas.spip_documents_auteur' doesn't exist - 
+SELECT *
+FROM `joussour_fmas`.spip_documents_auteur
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Table 'joussour_fmas.spip_documents_auteur' doesn't exist - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1146 de mysql: Table 'joussour_fmas.spip_documents_auteur' doesn't exist
+
+SELECT *
+FROM `joussour_fmas`.spip_documents_auteur
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Table 'joussour_fmas.spip_documents_auteur' doesn't exist - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Table 'joussour_fmas.spip_documents_forums' doesn't exist - 
+SELECT *
+FROM `joussour_fmas`.spip_documents_forums
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Table 'joussour_fmas.spip_documents_forums' doesn't exist - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1146 de mysql: Table 'joussour_fmas.spip_documents_forums' doesn't exist
+
+SELECT *
+FROM `joussour_fmas`.spip_documents_forums
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Table 'joussour_fmas.spip_documents_forums' doesn't exist - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Table 'joussour_fmas.spip_documents_forum' doesn't exist - 
+SELECT *
+FROM `joussour_fmas`.spip_documents_forum
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Table 'joussour_fmas.spip_documents_forum' doesn't exist - query inconnue
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Erreur 1146 de mysql: Table 'joussour_fmas.spip_documents_forum' doesn't exist
+
+SELECT *
+FROM `joussour_fmas`.spip_documents_forum
+Feb 13 08:40:42 41.249.135.145 (pid 15052) Table 'joussour_fmas.spip_documents_forum' doesn't exist - query inconnue
+Feb 13 08:40:43 41.249.135.145 (pid 15052) Unknown table 'spip_documents_auteurs' - DROP TABLE `spip_documents_auteurs`
+Feb 13 08:40:43 41.249.135.145 (pid 15052) Unknown table 'spip_documents_auteurs' - query inconnue
+Feb 13 08:40:43 41.249.135.145 (pid 15052) Erreur 1051 de mysql: Unknown table 'spip_documents_auteurs'
+DROP TABLE `spip_documents_auteurs`
+Feb 13 08:40:43 41.249.135.145 (pid 15052) Unknown table 'spip_documents_syndic' - DROP TABLE `spip_documents_syndic`
+Feb 13 08:40:43 41.249.135.145 (pid 15052) Unknown table 'spip_documents_syndic' - query inconnue
+Feb 13 08:40:43 41.249.135.145 (pid 15052) Erreur 1051 de mysql: Unknown table 'spip_documents_syndic'
+DROP TABLE `spip_documents_syndic`
+Feb 13 08:40:43 41.249.135.145 (pid 15052) Duplicate column name 'webmestre' - ALTER TABLE `joussour_fmas`.spip_auteurs ADD webmestre varchar(3)  DEFAULT 'non' NOT NULL
+Feb 13 08:40:43 41.249.135.145 (pid 15052) Duplicate column name 'webmestre' - query inconnue
+Feb 13 08:40:43 41.249.135.145 (pid 15052) Erreur 1060 de mysql: Duplicate column name 'webmestre'
+ALTER TABLE `joussour_fmas`.spip_auteurs ADD webmestre varchar(3)  DEFAULT 'non' NOT NULL
+Feb 13 08:40:43 41.249.135.145 (pid 15052) Duplicate column name 'webmestre' - ALTER TABLE `joussour_fmas`.spip_auteurs ADD webmestre varchar(3)  DEFAULT 'non' NOT NULL
+Feb 13 08:40:43 41.249.135.145 (pid 15052) Duplicate column name 'webmestre' - query inconnue
+Feb 13 08:40:43 41.249.135.145 (pid 15052) Erreur 1060 de mysql: Duplicate column name 'webmestre'
+ALTER TABLE `joussour_fmas`.spip_auteurs ADD webmestre varchar(3)  DEFAULT 'non' NOT NULL

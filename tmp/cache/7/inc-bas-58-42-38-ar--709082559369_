@@ -1,0 +1,57 @@
+a:11:{s:5:"texte";s:4938:"
+<div id="bas">
+	<a href="http://www.forumalternatives.org" title="&#1575;&#1604;&#1589;&#1601;&#1581;&#1577; &#1575;&#1604;&#1571;&#1587;&#1575;&#1587;&#1610;&#1577;">&#1575;&#1604;&#1589;&#1601;&#1581;&#1577; &#1575;&#1604;&#1571;&#1587;&#1575;&#1587;&#1610;&#1577;</a> | 
+	<a href="spip.php?auteur1" title="&#1575;&#1604;&#1575;&#1578;&#1589;&#1575;&#1604;">&#1575;&#1604;&#1575;&#1578;&#1589;&#1575;&#1604;</a> | 
+	<a href="http://www.forumalternatives.org/spip.php?page=plan" title="&#1582;&#1585;&#1610;&#1591;&#1577; &#1575;&#1604;&#1605;&#1608;&#1602;&#1593;">&#1582;&#1585;&#1610;&#1591;&#1577; &#1575;&#1604;&#1605;&#1608;&#1602;&#1593;</a>
+		  | <a href="http://www.forumalternatives.org/spip.php?page=login&amp;url=spip.php%3Farticle58%26amp%3Blang%3Dfr" rel="nofollow" class='login_modal'>&#1583;&#1582;&#1608;&#1604;</a> | 
+	<a href="http://www.forumalternatives.org/spip.php?page=statistiques" title="&#1573;&#1581;&#1589;&#1575;&#1569;&#1575;&#1578; &#1575;&#1604;&#1605;&#1608;&#1602;&#1593;">&#1573;&#1581;&#1589;&#1575;&#1569;&#1575;&#1578; &#1575;&#1604;&#1605;&#1608;&#1602;&#1593;</a> | 
+	<span style="white-space: nowrap;">&#1575;&#1604;&#1586;&#1608;&#1575;&#1585; : 
+	<strong>459 /</strong>
+	<?php echo recuperer_fond( 'inc/inc-affvisit', array('lang' => 'ar'), array("compil"=>array('plugins/auto/ahuntsic/inc/inc-bas.html','html_f9a343cf0d72f13ace77e1b3f1c285e2','',13,$GLOBALS['spip_lang'])), _request("connect"));
+?></span>
+
+	<p>
+		<a href="http://www.forumalternatives.org/spip.php?page=backend" rel="nofollow" title="&#1578;&#1585;&#1582;&#1610;&#1589;: &#1593;&#1585;&#1576;&#1610;"><img src="plugins/auto/ahuntsic/styles/img/rss.png" alt="&#1605;&#1578;&#1575;&#1576;&#1593;&#1577; &#1606;&#1588;&#1575;&#1591; &#1575;&#1604;&#1605;&#1608;&#1602;&#1593;" style="position:relative;bottom:-0.3em;" width="16" height="16" class="format_png" /><span style="text-transform: uppercase;">&nbsp;ar&nbsp;</span></a>
+
+
+		<a href="http://www.forumalternatives.org/spip.php?page=backend&amp;id_rubrique=38" rel="nofollow" title="&#1578;&#1585;&#1582;&#1610;&#1589; &#1607;&#1584;&#1575; &#1575;&#1604;&#1602;&#1587;&#1605;"><img src="plugins/auto/ahuntsic/styles/img/rss.png" alt="&#1605;&#1578;&#1575;&#1576;&#1593;&#1577; &#1606;&#1588;&#1575;&#1591; &#1575;&#1604;&#1605;&#1608;&#1602;&#1593;" style="position:relative;bottom:-0.3em;" width="16" height="16" class="format_png" /><span>&nbsp;إصدارات&nbsp;</span></a>
+
+
+
+		<a href="http://www.forumalternatives.org/spip.php?page=backend&amp;id_rubrique=42" rel="nofollow" title="&#1578;&#1585;&#1582;&#1610;&#1589; &#1607;&#1584;&#1575; &#1575;&#1604;&#1602;&#1587;&#1605;"><img src="plugins/auto/ahuntsic/styles/img/rss.png" alt="&#1605;&#1578;&#1575;&#1576;&#1593;&#1577; &#1606;&#1588;&#1575;&#1591; &#1575;&#1604;&#1605;&#1608;&#1602;&#1593;" style="position:relative;bottom:-0.3em;" width="16" height="16" class="format_png" /><span>&nbsp;تقارير</span></a>
+
+	<big>&nbsp;
+		<b><a href="http://ar.wikipedia.org/wiki/Really_Simple_Syndication">?</a></b>
+	</big>
+
+	&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+		<a href="http://www.forumalternatives.org/spip.php?page=opml" rel="nofollow" title="OPML : &#1575;&#1604;&#1605;&#1608;&#1575;&#1602;&#1593; &#1575;&#1604;&#1605;&#1585;&#1582;&#1589;&#1577;"><img src="plugins/auto/ahuntsic/styles/img/opml-icon.png" alt="&#1575;&#1604;&#1605;&#1608;&#1575;&#1602;&#1593; &#1575;&#1604;&#1605;&#1585;&#1582;&#1589;&#1577;" style="position:relative;bottom:-0.3em;" width="16" height="16" class="format_png" /><span>&nbsp;OPML</span></a>
+	<big>&nbsp;
+		<b><a href="http://ar.wikipedia.org/wiki/OPML">?</a></b>
+	</big>
+
+	</p>
+	
+	<p>
+		<a href="http://www.spip.net" title="&#1605;&#1608;&#1602;&#1593; &#1589;&#1605;&#1605; &#1576;&#1606;&#1592;&#1575;&#1605; SPIP 2.1.12 [18732]"> &#1605;&#1608;&#1602;&#1593; &#1589;&#1605;&#1605; &#1576;&#1606;&#1592;&#1575;&#1605; SPIP 2.1.12</a> + 
+		<a href="http://edu.ca.edu/rubrique43.html" title="&#1589;&#1601;&#1581;&#1577; &#1606;&#1605;&#1608;&#1584;&#1580;&#1610;&#1577; AHUNTSIC - 2.0.0 [55176]">AHUNTSIC</a>
+	</p>
+
+
+
+<?php echo recuperer_fond( 'inc/inc-bas_cc', array('lang' => 'ar'), array("compil"=>array('plugins/auto/ahuntsic/inc/inc-bas.html','html_f9a343cf0d72f13ace77e1b3f1c285e2','',44,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+
+ <?php echo recuperer_fond( 'fonds/visiteurs_connectes', array('lang' => 'ar'), array("compil"=>array('plugins/auto/ahuntsic/inc/inc-bas.html','html_f9a343cf0d72f13ace77e1b3f1c285e2','',48,$GLOBALS['spip_lang'])), _request("connect"));
+?> 
+
+
+</div><!-- fin bas -->
+
+<?php echo recuperer_fond( 'inc/inc-bas_menu-lang', array('lang' => 'ar'), array("compil"=>array('plugins/auto/ahuntsic/inc/inc-bas.html','html_f9a343cf0d72f13ace77e1b3f1c285e2','',53,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+	<!-- SPIP-CRON --><div style="background-image: url('http://www.forumalternatives.org/spip.php?action=cron');"></div>
+";s:9:"squelette";s:37:"html_f9a343cf0d72f13ace77e1b3f1c285e2";s:6:"source";s:38:"plugins/auto/ahuntsic/inc/inc-bas.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:2:{s:5:"cache";s:35:"7/inc-bas-58-42-38-ar--709082559369";s:7:"session";s:0:"";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:8:{s:10:"id_article";s:2:"58";s:11:"id_rubrique";s:2:"42";s:10:"id_secteur";s:2:"38";s:4:"lang";s:2:"ar";s:4:"date";s:19:"2014-12-08 02:27:22";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-12-08 02:27:22";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1418023642;s:2:"gz";b:0;}
